@@ -24,7 +24,7 @@
 
 1. It is difficult to generalize or average out the weight of all cattle because different kinds have different averages of weights. However, according to some sources, the average weight of all cattle is 753 kg (1,660 lb). Finishing steers in the feedlot average about 640 kg (1,410 lb); cows about 725 kg (1,600 lb), and bulls about 1,090 kg (2,400 lb).[44] "FAO Cattle Weights". FAO. Archived from the original on 21 April 2015. Retrieved 5 May 2015.
 
-```
+```txt
 牛的质量：753kg
 羊的质量：45 - 100 kg, 45 - 160 kg, 87.5 kg
 兔的质量：70 kg
