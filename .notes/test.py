@@ -1,58 +1,29 @@
 import numpy as np
-SPECIFIC_HEAT = [
-    [1.47, 1.5, 1.63],
-    [0, 0, 0],
-    [0, 0, 0]
+
+a = [
+    [1, 2, 3],
+    [4, 5, 6]
 ]
-MASS = [
-    [753, 87.5, 3.94625],
-    [0, 0, 0],
-    [0, 0, 0]
+
+b = [
+    [7, 8, 9],
+    [10, 11, 12]
 ]
-# 只/km^2
-DENSITY = [
-    [3.4130, 9.4514, 0],
-    [0, 0, 0],
-    [0, 0, 0]
+
+c = [
+    [90, 90, 98],
+    [43, 45, 43]
 ]
-# calorie/kg
-ENERGY_PER_MASS = np.array([
-    [1250000, 1180000, 1020000],
-    [0, 0, 0],
-    [0, 0, 0]
-])
 
-ENERGY_PER_MASS = ENERGY_PER_MASS / 1e6
+cow = np.array(a)
 
-a = np.array([[1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 0, 0],
- [1, 1, 0],
- [2, 1, 0],
- [2, 1, 0],
- [2, 2, 0],
- [2, 5, 0],
- [3, 9, 0],
- [3, 9, 0],
- [3, 10, 0],
- [4, 13, 0],
- [4, 13, 0],
- [5, 14, 0],
- [5, 16, 0],
- [6, 20, 0],
-])
+sheep = np.array(b)
 
-b = a[:,0]
-c = a[:,1]
+hare = np.array(c)
 
-print(b)
-print(c)
-print(b[15]*ENERGY_PER_MASS[0][0]*MASS[0][0] + c[15]*ENERGY_PER_MASS[0][1]*MASS[0][1])
-
-# print(a)
+total = np.append(
+    np.append(cow, sheep, axis=1),
+    hare,
+    axis=1
+)
+print(total)

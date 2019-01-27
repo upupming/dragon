@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 #     """
 #     return np.random.multivariate_normal(mean, cov, 5000).T
 
-
+exp  = 'distribution'
 # kg
 MASS = [
     [753, 87.5, 3.94625],
@@ -17,7 +17,7 @@ MASS = [
 ]
 # 只/km^2
 DENSITY = [
-    [3.4130, 9.4514, 0],
+    [3.4130, 9.4514, 2.426],
     [0, 0, 0],
     [0, 0, 0]
 ]
@@ -36,7 +36,7 @@ SPECIFIC_HEAT = [
 ]
 
 # 边长, km
-SIDE_LENGTH = 10.0
+SIDE_LENGTH = 30.0
 AREA = SIDE_LENGTH ** 2
 
 if __name__ == "__main__":
@@ -45,8 +45,8 @@ if __name__ == "__main__":
         nrows=1, ncols=1,
         figsize=(12, 8)
     )
-    axes.set_xlabel('x/km')
-    axes.set_ylabel('y/km')
+    axes.set_xlabel('Percentage of preies/%')
+    axes.set_ylabel('Number of period')
 
 
     # print(generate_species_randomly(
@@ -65,77 +65,27 @@ if __name__ == "__main__":
     ]
     COW = spe_name[0][0]
     SHEEP = spe_name[0][1]
-    # HARE = spe_name[0][2]
-    total = np.array(
-        [
-            # This is the dragon's position
-            [0.0],
-            [0.0]
-        ]
-    )
-    # # Number of all species
-    # TOTAL = number_of_animals
-    # klass_x = np.empty(TOTAL)
-    # klass_y = np.empty(TOTAL)
+    HARE = spe_name[0][2]
 
-    # print(species)
-    a = b = c = 0
-    for mu_x in range(3):
-        for mu_y in range(3):
-            # species[mu_x][mu_y] = np.random.multivariate_normal([(mu_x-1)*1000, (mu_y-1)*1000], common_cov, number_of_animals).T
-            species[mu_x][mu_y] = np.random.rand(2, number_of_animals_PER_ANIMAL[mu_x][mu_y]) * SIDE_LENGTH
-
-            # print(species[mu_x][mu_y].shape)
-            total = np.concatenate((total, species[mu_x][mu_y]), axis=1)
-            # if spe_name[mu_x][mu_y] != COW and spe_name[mu_x][mu_y] != SHEEP and spe_name[mu_x][mu_y] != HARE:
-            #     continue
-            if spe_name[mu_x][mu_y] != COW and spe_name[mu_x][mu_y] != SHEEP:
-                continue
-            if spe_name[mu_x][mu_y] == COW:
-                a = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
-            elif spe_name[mu_x][mu_y] == SHEEP: 
-                b = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
-            # elif spe_name[mu_x][mu_y] == HARE:
-            #     c = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
-            
-
-
-    # plt.plot(total[0], total[1])
-    import save_fig as sf
-    axes.set_title('Intial distribution of three species')
-    axes.legend((a, b, c),
-        #    (f'Cow \n {number_of_animals_PER_ANIMAL[0][0]}', f'Sheep \n {number_of_animals_PER_ANIMAL[0][1]}', f'Hare \n {number_of_animals_PER_ANIMAL[0][2]}'),
-           (f'Cow \n {number_of_animals_PER_ANIMAL[0][0]}', f'Sheep \n {number_of_animals_PER_ANIMAL[0][1]}'),
-           scatterpoints=1,
-           loc='lower left',
-           ncol=3,
-           fontsize=8)
-
-    sf.save_to_file('init-distribution')
     # Delete it self
-    total = np.delete(total, 0, axis=1)
-    print(total.shape)
-    total_backup = np.array(total)
-
-    
-    # np.savetxt('./data/species.txt', species)
-    np.savetxt('./data/total.txt', total)
-
+    # total = np.loadtxt(f'./data/total-{exp}')
+    cow = np.loadtxt(f'./data/species-cow-{exp}')
+    sheep = np.loadtxt(f'./data/species-sheep-{exp}')
+    hare = np.loadtxt(f'./data/species-hare-{exp}')
+    # print(total.shape)
+    # Position of each species
+    cow_backup = np.array(cow)
+    sheep_backup = np.array(cow)
+    hare_backup = np.array(cow)
+    number_of_animals_PER_ANIMAL[0][0] = len(cow[0])
+    number_of_animals_PER_ANIMAL[0][1] = len(sheep[0])
+    number_of_animals_PER_ANIMAL[0][2] = len(hare[0])
+    number_of_animals = np.sum(number_of_animals_PER_ANIMAL)
+    # print(number_of_animals_PER_ANIMAL)
     # exit()
     ########## Find and eat ############
-    import find
-    import diff
-    accr = np.cumsum(number_of_animals_PER_ANIMAL)
-    def get_pos(idx):
-        # Calculate klass
-        index1 = 0
-        for i in range(len(accr)):
-            if idx < accr[i]:
-                index1 = i
-                break
-        x = index1 // 3
-        y = index1 % 3
-        return (x, y)
+    # fortnight
+    DAYS = 10
     def get_base_consumption(weight):
         """
         Weight is in kg,
@@ -143,7 +93,7 @@ if __name__ == "__main__":
         """
         m_d = weight
         V_E = 2.25
-        period = 2 * 24
+        period = DAYS * 24
         V_O2 = m_d * V_E * period
         density_o2 = 1.429
         m_O2 = V_O2 * density_o2
@@ -153,7 +103,7 @@ if __name__ == "__main__":
         energy = 277485.66 * n_glucuse
         return energy
     def get_growth_consumption(mu):
-        period = 2 * 24
+        period = DAYS * 24
         dmd = mu / 365 / 24 * period
         rho_m = 1.12
         rho_b = 1.23
@@ -191,16 +141,56 @@ if __name__ == "__main__":
         delta_T = 80 - 25
         return c_p * m_p * constant * delta_T
 
+    def get_reproduction_res(index, now, period):
+        """
+        Index: 0-cow,1-sheep,2-hare
+        period: in days
+        """
+        per_day_animal = np.array([0.5, 4, 6]) / 365
+
+        return int(now + now * per_day_animal[index] * period)
+
+    import find
+    import diff
+    eaten_times = 0
     def eat_when_age(age):
+        """
+        When at age, 吃完再生
+        """
+        global eaten_times
+        eaten_times += 1
         dragon_pos = np.array([
             [0],
             [0]
         ])
+        global number_of_animals_PER_ANIMAL
+        global number_of_animals
+        # print(number_of_animals_PER_ANIMAL)
+        # exit()
+        accr = np.cumsum(number_of_animals_PER_ANIMAL)
+        def get_pos(idx):
+            # Calculate klass
+            index1 = 0
+            for i in range(len(accr)):
+                if idx < accr[i]:
+                    index1 = i
+                    break
+            x = index1 // 3
+            y = index1 % 3
+            return (x, y)
         # Get weight and mu
         (mu, weight) = diff.get_mu_and_weight_at(age)
         print(mu, weight)
+        # Regenerate animals
+        cow = np.random.rand(2, number_of_animals_PER_ANIMAL[0][0]) * SIDE_LENGTH
+        sheep = np.random.rand(2, number_of_animals_PER_ANIMAL[0][1]) * SIDE_LENGTH
+        hare = np.random.rand(2, number_of_animals_PER_ANIMAL[0][2]) * SIDE_LENGTH
         # Recovery the eaten animals
-        total = np.array(total_backup)
+        total = np.append(
+            np.append(cow, sheep, axis=1),
+            hare,
+            axis=1
+        )
         ENERGY_GOT = 0
         base_cons = get_base_consumption(weight)
         print('Base consumption:', base_cons)
@@ -218,11 +208,11 @@ if __name__ == "__main__":
         
         iter_times = 0
         eaten = 0
-        eaten_each = [
+        eaten_each = np.array([
             [0, 0, 0],
             [0, 0, 0],
             [0, 0, 0]
-        ]
+        ])
         while eaten < number_of_animals:
             iter_times += 1
             print('=======================')
@@ -232,8 +222,7 @@ if __name__ == "__main__":
 
             (x, y) = get_pos(idx)
 
-            # if spe_name[x][y] != COW and spe_name[x][y] != SHEEP and spe_name[x][y] != HARE:
-            if spe_name[x][y] != COW and spe_name[x][y] != SHEEP:
+            if spe_name[x][y] != COW and spe_name[x][y] != SHEEP and spe_name[x][y] != HARE:
                 # 不可能出现
                 assert False
                 # print(spe_name[x][y])
@@ -274,7 +263,28 @@ if __name__ == "__main__":
             
             if ENERGY_GOT * 0.57 * 0.7 >= ENERGY_CONSUMPTION:
                 print('Success got all energy')
-                break
+                # print(number_of_animals_PER_ANIMAL)
+                # print(eaten_each)
+                # print(number_of_animals_PER_ANIMAL.shape)
+                # print(eaten_each.shape)
+                # print(number_of_animals_PER_ANIMAL - eaten_each)
+                print('Animals before:\n', number_of_animals_PER_ANIMAL[0])
+                print('Animals eaten:\n', eaten_each)
+                number_of_animals_PER_ANIMAL -= eaten_each
+                print('Animals left:\n', number_of_animals_PER_ANIMAL[0])
+                # Breeding Animals
+                for i in range(3):
+                    number_of_animals_PER_ANIMAL[0][i] = get_reproduction_res(i, number_of_animals_PER_ANIMAL[0][i], DAYS)
+                print('Animals after reproduction:\n', number_of_animals_PER_ANIMAL)
+                number_of_animals = np.sum(number_of_animals_PER_ANIMAL)
+                if (eaten_times == 10):
+                    # Only need three eatens
+                    print('Exit after all iteration eating done...')
+                    return
+                else:
+                    print('xxxxxxxxxxxxx Re-eat xxxxxxxxxxxxxxx')
+                    eat_when_age(age)
+
             else:
                 print('ENERGY_GOT * 0.57 * 0.7', ENERGY_GOT * 0.57 * 0.7)
                 print('ENERGY_CONSUMPTION:', ENERGY_CONSUMPTION)
@@ -288,32 +298,27 @@ if __name__ == "__main__":
         return eaten_each
 
     ########## Find and eat ############
-    eaten = np.array([eat_when_age(0)[0]], dtype=int)
-    years = 501
-    for i in range(1, years):
-        eaten = np.vstack([eaten, eat_when_age(i)[0]])
-        print(eaten)
-    plt.close()
+    # eaten = np.array([eat_when_age(0)[0]], dtype=int)
+    # years = 500
+    # for i in range(1, years):
+    #     eaten = np.vstack([eaten, eat_when_age(i)[0]])
+    # plt.close()
 
-    fig, axes = plt.subplots(
-        nrows=1, ncols=1,
-        figsize=(12, 8)
-    )
-    axes.set_xlabel('Age/year')
-    axes.set_ylabel('Energy consumption in two days/million calories')
-    np.savetxt(f'./data/eaten-{years}.txt', eaten)
-    axes.set_title('Energy consumption in two days changes with age')
+    # fig, axes = plt.subplots(
+    #     nrows=1, ncols=1,
+    #     figsize=(12, 8)
+    # )
+    # axes.set_xlabel('age/year')
+    # axes.set_ylabel('Number of animals eaten')
+    # np.savetxt(f'./data/eaten-{years}.txt', eaten)
+    # axes.set_title('Prey intake demand changes with age')
     # a = axes.plot(np.arange(0, years), eaten[:,0], label=COW)
     # b = axes.plot(np.arange(0, years), eaten[:,1], label=SHEEP)
     # c = axes.plot(np.arange(0, years), eaten[:,2], label=HARE)
     # axes.legend()
-    print(eaten[:,0].shape)
-    print(eaten[:,1].shape)
-    ENERGY_PER_MASS = np.array(ENERGY_PER_MASS)/1e6
-    axes.plot(np.arange(0, years), eaten[:,0] * ENERGY_PER_MASS[0][0] * MASS[0][0] + eaten[:,1] * ENERGY_PER_MASS[0][1] * MASS[0][1])
-    sf.save_to_file(f'Prey intake-age={years}')
+    # sf.save_to_file(f'Prey intake-age={years}')
 
-    # eat_when_age(10)
+    eat_when_age(100)
     # eat_when_age(20)
     # eat_when_age(30)
     # eat_when_age(40)
