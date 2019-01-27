@@ -17,7 +17,7 @@ MASS = [
 ]
 # 只/km^2
 DENSITY = [
-    [3.4130, 9.4514, 2.426],
+    [3.4130, 9.4514, 0],
     [0, 0, 0],
     [0, 0, 0]
 ]
@@ -65,7 +65,7 @@ if __name__ == "__main__":
     ]
     COW = spe_name[0][0]
     SHEEP = spe_name[0][1]
-    HARE = spe_name[0][2]
+    # HARE = spe_name[0][2]
     total = np.array(
         [
             # This is the dragon's position
@@ -87,14 +87,16 @@ if __name__ == "__main__":
 
             # print(species[mu_x][mu_y].shape)
             total = np.concatenate((total, species[mu_x][mu_y]), axis=1)
-            if spe_name[mu_x][mu_y] != COW and spe_name[mu_x][mu_y] != SHEEP and spe_name[mu_x][mu_y] != HARE:
+            # if spe_name[mu_x][mu_y] != COW and spe_name[mu_x][mu_y] != SHEEP and spe_name[mu_x][mu_y] != HARE:
+            #     continue
+            if spe_name[mu_x][mu_y] != COW and spe_name[mu_x][mu_y] != SHEEP:
                 continue
             if spe_name[mu_x][mu_y] == COW:
                 a = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
             elif spe_name[mu_x][mu_y] == SHEEP: 
                 b = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
-            elif spe_name[mu_x][mu_y] == HARE:
-                c = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
+            # elif spe_name[mu_x][mu_y] == HARE:
+            #     c = axes.scatter(species[mu_x][mu_y][0], species[mu_x][mu_y][1], linewidth='1')
             
 
 
@@ -102,7 +104,8 @@ if __name__ == "__main__":
     import save_fig as sf
     axes.set_title('Intial distribution of three species')
     axes.legend((a, b, c),
-           (f'Cow \n {number_of_animals_PER_ANIMAL[0][0]}', f'Sheep \n {number_of_animals_PER_ANIMAL[0][1]}', f'Hare \n {number_of_animals_PER_ANIMAL[0][2]}'),
+        #    (f'Cow \n {number_of_animals_PER_ANIMAL[0][0]}', f'Sheep \n {number_of_animals_PER_ANIMAL[0][1]}', f'Hare \n {number_of_animals_PER_ANIMAL[0][2]}'),
+           (f'Cow \n {number_of_animals_PER_ANIMAL[0][0]}', f'Sheep \n {number_of_animals_PER_ANIMAL[0][1]}'),
            scatterpoints=1,
            loc='lower left',
            ncol=3,
@@ -113,6 +116,11 @@ if __name__ == "__main__":
     total = np.delete(total, 0, axis=1)
     print(total.shape)
     total_backup = np.array(total)
+
+    
+    # np.savetxt('./data/species.txt', species)
+    np.savetxt('./data/total.txt', total)
+
     # exit()
     ########## Find and eat ############
     import find
@@ -224,7 +232,8 @@ if __name__ == "__main__":
 
             (x, y) = get_pos(idx)
 
-            if spe_name[x][y] != COW and spe_name[x][y] != SHEEP and spe_name[x][y] != HARE:
+            # if spe_name[x][y] != COW and spe_name[x][y] != SHEEP and spe_name[x][y] != HARE:
+            if spe_name[x][y] != COW and spe_name[x][y] != SHEEP:
                 # 不可能出现
                 assert False
                 # print(spe_name[x][y])
@@ -280,23 +289,28 @@ if __name__ == "__main__":
 
     ########## Find and eat ############
     eaten = np.array([eat_when_age(0)[0]], dtype=int)
-    years = 500
+    years = 501
     for i in range(1, years):
         eaten = np.vstack([eaten, eat_when_age(i)[0]])
+        print(eaten)
     plt.close()
 
     fig, axes = plt.subplots(
         nrows=1, ncols=1,
         figsize=(12, 8)
     )
-    axes.set_xlabel('age/year')
-    axes.set_ylabel('Number of animals eaten')
+    axes.set_xlabel('Age/year')
+    axes.set_ylabel('Energy consumption in two days/million calories')
     np.savetxt(f'./data/eaten-{years}.txt', eaten)
-    axes.set_title('Prey intake demand changes with age')
-    a = axes.plot(np.arange(0, years), eaten[:,0], label=COW)
-    b = axes.plot(np.arange(0, years), eaten[:,1], label=SHEEP)
-    c = axes.plot(np.arange(0, years), eaten[:,2], label=HARE)
-    axes.legend()
+    axes.set_title('Energy consumption in two days changes with age')
+    # a = axes.plot(np.arange(0, years), eaten[:,0], label=COW)
+    # b = axes.plot(np.arange(0, years), eaten[:,1], label=SHEEP)
+    # c = axes.plot(np.arange(0, years), eaten[:,2], label=HARE)
+    # axes.legend()
+    print(eaten[:,0].shape)
+    print(eaten[:,1].shape)
+    ENERGY_PER_MASS = np.array(ENERGY_PER_MASS)/1e6
+    axes.plot(np.arange(0, years), eaten[:,0] * ENERGY_PER_MASS[0][0] * MASS[0][0] + eaten[:,1] * ENERGY_PER_MASS[0][1] * MASS[0][1])
     sf.save_to_file(f'Prey intake-age={years}')
 
     # eat_when_age(10)
