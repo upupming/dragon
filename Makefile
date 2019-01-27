@@ -5,3 +5,12 @@ solve:
 
 draw:
 	${PY} draw_von.py
+
+distribution:
+	${PY} distribution.py
+
+eat:
+	${PY} eat.py
+
+clean:
+	rm ./figures/* -rf

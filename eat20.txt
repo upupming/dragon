@@ -1,0 +1,2082 @@
+python eat.py
+(2, 1528)
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+17.8003077353115 10.0000000000000
+Base consumption: 2230464.42078750
+Growth consumption: 392167.742481700
+Hurt consumption: 223046.442078750
+=======================
+Iteration: 1
+Energy Delta this round: 94623382.2125449
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+Success got all energy
+[[0, 1, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+43.9585186994168 40.0000000000003
+Base consumption: 8921857.68315007
+Growth consumption: 968472.753254238
+Hurt consumption: 892185.768315007
+=======================
+Iteration: 1
+Energy Delta this round: 94623372.2962586
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+Success got all energy
+[[0, 1, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+79.9936065843309 101.208040689236
+Base consumption: 22574093.3854953
+Growth consumption: 1762380.32362294
+Hurt consumption: 2257409.33854953
+=======================
+Iteration: 1
+Energy Delta this round: 94623355.2726106
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+Success got all energy
+[[0, 1, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+124.625349599831 202.851567637573
+Base consumption: 45245320.4316576
+Growth consumption: 2745685.22832917
+Hurt consumption: 4524532.04316576
+=======================
+Iteration: 1
+Energy Delta this round: 94623330.3328649
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 61142207.3702876
+Still need these: 19945457.3702876
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 56.3783319643786
+=======================
+Iteration: 2
+Energy Delta this round: 94623318.3887699
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+Success got all energy
+[[0, 2, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+176.681342447494 352.932378320292
+Base consumption: 78720311.2787324
+Growth consumption: 3892557.60274401
+Hurt consumption: 7872031.12787324
+=======================
+Iteration: 1
+Energy Delta this round: 94623296.9387102
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 99111603.0706395
+Still need these: 57914853.0706395
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 89.7724867230004
+=======================
+Iteration: 2
+Energy Delta this round: 94623277.9198589
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+Success got all energy
+[[0, 2, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+235.089276658014 558.330534870977
+Base consumption: 124533639.306897
+Growth consumption: 5179372.86700599
+Hurt consumption: 12453363.9306897
+=======================
+Iteration: 1
+Energy Delta this round: 94623254.7424319
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 150793121.362161
+Still need these: 109596371.362161
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 131.968764929517
+=======================
+Iteration: 2
+Energy Delta this round: 94623226.7840407
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 159419894.578120
+Still need these: 77026394.5781200
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 159.927156189867
+=======================
+Iteration: 3
+Energy Delta this round: 94623219.1867438
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+Success got all energy
+[[0, 3, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+298.869731044724 824.900815002148
+Base consumption: 183991191.854090
+Growth consumption: 6584552.88879144
+Hurt consumption: 18399119.1854090
+=======================
+Iteration: 1
+Energy Delta this round: 94623203.5388758
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 217601660.389415
+Still need these: 176404910.389415
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 183.172321056633
+=======================
+Iteration: 2
+Energy Delta this round: 94623164.7326975
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 226228495.656717
+Still need these: 143834995.656717
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 221.978499343616
+=======================
+Iteration: 3
+Energy Delta this round: 94623154.1876682
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 234855341.469049
+Still need these: 111265091.469049
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 232.523528695577
+=======================
+Iteration: 4
+Energy Delta this round: 94623206.2256154
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 243482135.243434
+Still need these: 78695135.2434337
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 180.485581467783
+=======================
+Iteration: 5
+Energy Delta this round: 868496515.228266
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+Success got all energy
+[[1, 4, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+367.129440037234 1157.56219492125
+Base consumption: 258190129.062053
+Growth consumption: 8088417.67450785
+Hurt consumption: 25819012.9062053
+=======================
+Iteration: 1
+Energy Delta this round: 94623143.2332481
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 300724416.409518
+Still need these: 259527666.409518
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 243.477948724973
+=======================
+Iteration: 2
+Energy Delta this round: 94623091.6509532
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 309351324.758564
+Still need these: 226957824.758564
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 295.060243651775
+=======================
+Iteration: 3
+Energy Delta this round: 94623077.6341951
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 317978247.124369
+Still need these: 194387997.124369
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 309.077001757200
+=======================
+Iteration: 4
+Energy Delta this round: 94623146.8045401
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 326605100.319829
+Still need these: 161818100.319829
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 239.906656730212
+=======================
+Iteration: 5
+Energy Delta this round: 868496489.238775
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+Success got all energy
+[[1, 4, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+439.055009642819 1560.38082683575
+Base consumption: 348037391.713613
+Growth consumption: 9673046.92240434
+Hurt consumption: 34803739.1713613
+=======================
+Iteration: 1
+Energy Delta this round: 94623073.8180137
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 401141103.989365
+Still need these: 359944353.989365
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 312.893183206525
+=======================
+Iteration: 2
+Energy Delta this round: 94623007.5296761
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 409768096.459689
+Still need these: 327374596.459689
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 379.181520779864
+=======================
+Iteration: 3
+Energy Delta this round: 94622989.5167592
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 418395106.942929
+Still need these: 294804856.942929
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 397.194437698251
+=======================
+Iteration: 4
+Energy Delta this round: 94623078.4074762
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 427022028.535453
+Still need these: 262235028.535453
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 308.303720685372
+=======================
+Iteration: 5
+Energy Delta this round: 868496459.323380
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+Success got all energy
+[[1, 4, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+513.907052646780 2036.64694433029
+Base consumption: 454266854.703430
+Growth consumption: 11322150.8121519
+Hurt consumption: 45426685.4703430
+=======================
+Iteration: 1
+Energy Delta this round: 94622995.3555334
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 519642695.630391
+Still need these: 478445945.630391
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 391.355663500001
+=======================
+Iteration: 2
+Energy Delta this round: 94622912.4444387
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 528269783.185952
+Still need these: 445876283.185952
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 474.266758166461
+=======================
+Iteration: 3
+Energy Delta this round: 94622889.9145230
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 536896893.271429
+Still need these: 413306643.271429
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 496.796673902953
+=======================
+Iteration: 4
+Energy Delta this round: 94623001.0958698
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 545523892.175559
+Still need these: 380736892.175559
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 385.615327032240
+=======================
+Iteration: 5
+Energy Delta this round: 868496425.508958
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+Success got all energy
+[[1, 4, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+591.014716413752 2588.94610139428
+Base consumption: 577455216.649645
+Growth consumption: 13020949.4440174
+Hurt consumption: 57745521.6649645
+=======================
+Iteration: 1
+Energy Delta this round: 94622907.9645770
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 656848779.794050
+Still need these: 615652029.794050
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 478.746619910090
+=======================
+Iteration: 2
+Energy Delta this round: 94622806.5391728
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 665475973.254877
+Still need these: 583082473.254877
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 580.172024028748
+=======================
+Iteration: 3
+Energy Delta this round: 94622778.9782557
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 674103194.276622
+Still need these: 550512944.276622
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 607.732941147569
+=======================
+Iteration: 4
+Energy Delta this round: 94622914.9867487
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 682730279.289873
+Still need these: 517943279.289873
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 471.724448168638
+=======================
+Iteration: 5
+Energy Delta this round: 868496387.846693
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+Success got all energy
+[[1, 4, 0], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+669.770578296575 3219.22512507165
+Base consumption: 718036710.397751
+Growth consumption: 14756060.3769884
+Hurt consumption: 71803671.0397751
+=======================
+Iteration: 1
+Energy Delta this round: 94622811.8095855
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 813223630.004929
+Still need these: 772026880.004929
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 574.901611408343
+=======================
+Iteration: 2
+Energy Delta this round: 94622690.0131574
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 821850939.991772
+Still need these: 739457439.991772
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 696.698039499073
+=======================
+Iteration: 3
+Energy Delta this round: 94622656.9167030
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 830478283.075069
+Still need these: 706888033.075069
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 729.794493875038
+=======================
+Iteration: 4
+Energy Delta this round: 94622820.2421418
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 839105462.832927
+Still need these: 674318462.832927
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 566.469055058378
+=======================
+Iteration: 5
+Energy Delta this round: 868496346.407453
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 911859116.425474
+Still need these: 371513366.425474
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 247.761297717330
+=======================
+Iteration: 6
+Energy Delta this round: 94622261.8051727
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 920486854.620301
+Still need these: 338944354.620301
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1124.90602416275
+=======================
+Iteration: 7
+Energy Delta this round: 3601746.60486956
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 920910283.015431
+Still need these: 337761738.190431
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 649.580006146830
+=======================
+Iteration: 8
+Energy Delta this round: 94623088.2210942
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 929537194.794337
+Still need these: 305191899.969337
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 298.490102669536
+=======================
+Iteration: 9
+Energy Delta this round: 94623028.8293131
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+Success got all energy
+[[1, 7, 1], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+749.625885204145 3928.85313749109
+Base consumption: 876316713.767323
+Growth consumption: 16515393.7492424
+Hurt consumption: 87631671.3767323
+=======================
+Iteration: 1
+Energy Delta this round: 94622707.0919636
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 989091071.801334
+Still need these: 947894321.801334
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 679.619233221657
+=======================
+Iteration: 2
+Energy Delta this round: 94622563.1104659
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 997718508.690868
+Still need these: 915325008.690868
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 823.600730969389
+=======================
+Iteration: 3
+Energy Delta this round: 94622523.9855330
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 1006345984.70533
+Still need these: 882755734.705335
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 862.725663825723
+=======================
+Iteration: 4
+Energy Delta this round: 94622717.0604998
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 1014973267.64483
+Still need these: 850186267.644835
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 669.650697098367
+=======================
+Iteration: 5
+Energy Delta this round: 868496301.278037
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 1087726966.36680
+Still need these: 547381216.366797
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 292.890713532989
+=======================
+Iteration: 6
+Energy Delta this round: 94622056.9049232
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 1096354909.46187
+Still need these: 514812409.461874
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1329.80627365975
+=======================
+Iteration: 7
+Energy Delta this round: 3601628.28466995
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 1096778456.17720
+Still need these: 513629911.352204
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 767.900205762444
+=======================
+Iteration: 8
+Energy Delta this round: 94623033.8514889
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 1105405422.32572
+Still need these: 481060127.500715
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 352.859707948246
+=======================
+Iteration: 9
+Energy Delta this round: 94622963.6415679
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 1114032458.68415
+Still need these: 448490413.859147
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 423.069628960546
+=======================
+Iteration: 10
+Energy Delta this round: 94622887.7668119
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 1122659570.91734
+Still need these: 415920776.092335
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 498.944384946059
+=======================
+Iteration: 11
+Energy Delta this round: 868496295.121421
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+Success got all energy
+[[2, 8, 1], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+830.086115330838 4718.67798031997
+Base consumption: 1052484334.82571
+Growth consumption: 18288054.4963231
+Hurt consumption: 105248433.482571
+=======================
+Iteration: 1
+Energy Delta this round: 94622594.0429175
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 1184648228.76169
+Still need these: 1143451478.76169
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 792.668279413462
+=======================
+Iteration: 2
+Energy Delta this round: 94622426.1112868
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 1193275802.65040
+Still need these: 1110882302.65040
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 960.599910109153
+=======================
+Iteration: 3
+Energy Delta this round: 94622380.4782445
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 1201903422.17216
+Still need these: 1078313172.17216
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1006.23295239723
+=======================
+Iteration: 4
+Energy Delta this round: 94622605.6696372
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 1210530816.50252
+Still need these: 1045743816.50252
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 781.041559640300
+=======================
+Iteration: 5
+Energy Delta this round: 868496252.558086
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 1283284563.94443
+Still need these: 742938813.944433
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 341.610664624400
+=======================
+Iteration: 6
+Energy Delta this round: 94621835.7026330
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 1291912728.24180
+Still need these: 710370228.241800
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1551.00856386639
+=======================
+Iteration: 7
+Energy Delta this round: 3601500.55081312
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 1292336402.69099
+Still need these: 709187857.865987
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 895.634062587567
+=======================
+Iteration: 8
+Energy Delta this round: 94622975.1561909
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 1300963427.53480
+Still need these: 676618132.709796
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 411.555005952059
+=======================
+Iteration: 9
+Energy Delta this round: 94622893.2674294
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 1309590534.26737
+Still need these: 644048489.442366
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 493.443767432157
+=======================
+Iteration: 10
+Energy Delta this round: 94622804.7715345
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 1318217729.49583
+Still need these: 611478934.670832
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 581.939662395060
+=======================
+Iteration: 11
+Energy Delta this round: 868496245.377368
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+Success got all energy
+[[2, 8, 1], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+910.706841412954 5589.07835337613
+Base consumption: 1246624041.21990
+Growth consumption: 20064251.2124135
+Hurt consumption: 124662404.121990
+=======================
+Iteration: 1
+Energy Delta this round: 94622472.9174970
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 1399978223.63681
+Still need these: 1358781473.63681
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 913.793699840746
+=======================
+Iteration: 2
+Energy Delta this round: 94622279.3247040
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 1408605944.31211
+Still need these: 1326212444.31211
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1107.38649284018
+=======================
+Iteration: 3
+Energy Delta this round: 94622226.7186043
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 1417233717.59350
+Still need these: 1293643467.59350
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1159.99259255476
+=======================
+Iteration: 4
+Energy Delta this round: 94622486.3208633
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 1425861231.27264
+Still need these: 1261074231.27264
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 900.390333572084
+=======================
+Iteration: 5
+Energy Delta this round: 868496200.357517
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 1498615030.91512
+Still need these: 958269280.915122
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 393.811233828068
+=======================
+Iteration: 6
+Energy Delta this round: 94621598.6973569
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 1507243432.21777
+Still need these: 925700932.217765
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1788.01383992417
+=======================
+Iteration: 7
+Energy Delta this round: 3601363.69147966
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 1507667243.52629
+Still need these: 924518698.701285
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1032.49339605325
+=======================
+Iteration: 8
+Energy Delta this round: 94622912.2676228
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 1516294331.25866
+Still need these: 891949036.433663
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 474.443574120553
+=======================
+Iteration: 9
+Energy Delta this round: 94622817.8656689
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 1524921513.39299
+Still need these: 859379468.567994
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 568.845527966423
+=======================
+Iteration: 10
+Energy Delta this round: 94622715.8469640
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 1533548797.54603
+Still need these: 826810002.721030
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 670.864232863645
+=======================
+Iteration: 11
+Energy Delta this round: 868496192.079533
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+ENERGY_GOT * 0.57 * 0.7 1082297544.8249998
+ENERGY_CONSUMPTION: 1606302605.46650
+Still need these: 524005060.641497
+Energy got: 2712525175.0
+Fire energy need: 72753405.831249
+Fly energy need: 402.089218185832
+=======================
+Iteration: 12
+Energy Delta this round: 94622028.0037709
+Nearest point Sheep eaten 0.4773349223995005 0.2729361479663239
+[[0.47733492]
+ [0.27293615]]
+ENERGY_GOT * 0.57 * 0.7 1123494294.8249998
+ENERGY_CONSUMPTION: 1614930577.46273
+Still need these: 491436282.637726
+Energy got: 2815775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1358.70742594591
+=======================
+Iteration: 13
+Energy Delta this round: 94620736.0551517
+Nearest point Sheep eaten 1.0158293639450533 0.31050130563655465
+[[1.01582936]
+ [0.31050131]]
+Success got all energy
+[[2, 10, 1], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+991.089876157787 6540.01195914416
+Base consumption: 1458726398.63958
+Growth consumption: 21835211.2282998
+Hurt consumption: 145872639.863958
+=======================
+Iteration: 1
+Energy Delta this round: 94622343.9895999
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 1635061905.74224
+Still need these: 1593865155.74224
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1042.72159702268
+=======================
+Iteration: 2
+Energy Delta this round: 94622123.0826420
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 1643689782.65960
+Still need these: 1561296282.65960
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1263.62855482249
+=======================
+Iteration: 3
+Energy Delta this round: 94622063.0543049
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 1652317719.60529
+Still need these: 1528727469.60529
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1323.65689198118
+=======================
+Iteration: 4
+Energy Delta this round: 94622359.2840580
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 1660945360.32123
+Still need these: 1496158360.32123
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1027.42713889326
+=======================
+Iteration: 5
+Energy Delta this round: 868496144.794370
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 1733699215.52686
+Still need these: 1193353465.52686
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 449.374381476080
+=======================
+Iteration: 6
+Energy Delta this round: 94621346.4250284
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 1742327869.10184
+Still need these: 1160785369.10184
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2040.28616851846
+=======================
+Iteration: 7
+Energy Delta this round: 3601218.01614568
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 1742751826.08569
+Still need these: 1159603281.26069
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1178.16873002697
+=======================
+Iteration: 8
+Energy Delta this round: 94622845.3279926
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 1751378980.75770
+Still need these: 1127033685.93270
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 541.383204316629
+=======================
+Iteration: 9
+Energy Delta this round: 94622737.6067902
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 1760006243.15091
+Still need these: 1094464198.32591
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 649.104406698942
+=======================
+Iteration: 10
+Energy Delta this round: 94622621.1941831
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 1768633621.95672
+Still need these: 1061894827.13172
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 765.517013740504
+=======================
+Iteration: 11
+Energy Delta this round: 868496135.348438
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+ENERGY_GOT * 0.57 * 0.7 1082297544.8249998
+ENERGY_CONSUMPTION: 1841387486.60829
+Still need these: 759089941.783286
+Energy got: 2712525175.0
+Fire energy need: 72753405.831249
+Fly energy need: 458.820313387366
+=======================
+Iteration: 12
+Energy Delta this round: 94621836.3026339
+Nearest point Sheep eaten 0.4773349223995005 0.2729361479663239
+[[0.47733492]
+ [0.27293615]]
+ENERGY_GOT * 0.57 * 0.7 1123494294.8249998
+ENERGY_CONSUMPTION: 1850015650.30565
+Still need these: 726521355.480653
+Energy got: 2815775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1550.40856302227
+=======================
+Iteration: 13
+Energy Delta this round: 94620362.0719319
+Nearest point Sheep eaten 1.0158293639450533 0.31050130563655465
+[[1.01582936]
+ [0.31050131]]
+ENERGY_GOT * 0.57 * 0.7 1164691044.8249998
+ENERGY_CONSUMPTION: 1858645288.23372
+Still need these: 693954243.408720
+Energy got: 2919025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3024.63926493732
+=======================
+Iteration: 14
+Energy Delta this round: 3601557.20115185
+Nearest point Hare eaten 1.1385401005028317 0.3963023573066582
+[[1.1385401 ]
+ [0.39630236]]
+ENERGY_GOT * 0.57 * 0.7 1166297089.6499999
+ENERGY_CONSUMPTION: 1859068906.03257
+Still need these: 692771816.382569
+Energy got: 2923050350.0
+Fire energy need: 422778.81512429065
+Fly energy need: 838.983723863714
+=======================
+Iteration: 15
+Energy Delta this round: 868495162.270221
+Nearest point Cow eaten 1.19417898605926 0.6457208079856591
+[[1.19417899]
+ [0.64572081]]
+Success got all energy
+[[3, 10, 2], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+1070.87968169310 7571.05992619540
+Base consumption: 1688697979.30289
+Growth consumption: 23593101.5061046
+Hurt consumption: 168869797.930289
+=======================
+Iteration: 1
+Energy Delta this round: 94622207.5477513
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 1889788671.19153
+Still need these: 1848591921.19153
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1179.16344553026
+=======================
+Iteration: 2
+Energy Delta this round: 94621957.7347521
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 1898416713.45678
+Still need these: 1816023213.45678
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1428.97644474751
+=======================
+Iteration: 3
+Energy Delta this round: 94621889.8516076
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 1907044823.60517
+Still need these: 1783454573.60517
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1496.85958927583
+=======================
+Iteration: 4
+Energy Delta this round: 94622224.8435147
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 1915672598.76166
+Still need these: 1750885598.76166
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1161.86768221540
+=======================
+Iteration: 5
+Energy Delta this round: 868496085.992987
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 1988426512.76867
+Still need these: 1448080762.76867
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 508.175763796749
+=======================
+Iteration: 6
+Energy Delta this round: 94621079.4502029
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 1997055433.31847
+Still need these: 1415512933.31847
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2307.26099392918
+=======================
+Iteration: 7
+Energy Delta this round: 3601063.85081542
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 1997479544.46765
+Still need these: 1414330999.64265
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1332.33406029126
+=======================
+Iteration: 8
+Energy Delta this round: 94622774.4871033
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 2006106769.98055
+Still need these: 1381761475.15555
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 612.224093542321
+=======================
+Iteration: 9
+Energy Delta this round: 94622652.6704032
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 2014734117.31014
+Still need these: 1349192072.48514
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 734.040793724305
+=======================
+Iteration: 10
+Energy Delta this round: 94622521.0250136
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 2023361596.28513
+Still need these: 1316622801.46013
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 865.686183264753
+=======================
+Iteration: 11
+Energy Delta this round: 868496075.311039
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+ENERGY_GOT * 0.57 * 0.7 1082297544.8249998
+ENERGY_CONSUMPTION: 2096115520.97409
+Still need these: 1013817976.14909
+Energy got: 2712525175.0
+Fire energy need: 72753405.831249
+Fly energy need: 518.857711548248
+=======================
+Iteration: 12
+Energy Delta this round: 94621633.4291047
+Nearest point Sheep eaten 0.4773349223995005 0.2729361479663239
+[[0.47733492]
+ [0.27293615]]
+ENERGY_GOT * 0.57 * 0.7 1123494294.8249998
+ENERGY_CONSUMPTION: 2104743887.54499
+Still need these: 981249592.719986
+Energy got: 2815775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1753.28209214526
+=======================
+Iteration: 13
+Energy Delta this round: 94619966.2928730
+Nearest point Sheep eaten 1.0158293639450533 0.31050130563655465
+[[1.01582936]
+ [0.31050131]]
+ENERGY_GOT * 0.57 * 0.7 1164691044.8249998
+ENERGY_CONSUMPTION: 2113373921.25211
+Still need these: 948682876.427113
+Energy got: 2919025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3420.41832384915
+=======================
+Iteration: 14
+Energy Delta this round: 3601447.41874159
+Nearest point Hare eaten 1.1385401005028317 0.3963023573066582
+[[1.1385401 ]
+ [0.39630236]]
+ENERGY_GOT * 0.57 * 0.7 1166297089.6499999
+ENERGY_CONSUMPTION: 2113797648.83337
+Still need these: 947500559.183371
+Energy got: 2923050350.0
+Fire energy need: 422778.81512429065
+Fly energy need: 948.766134124133
+=======================
+Iteration: 15
+Energy Delta this round: 868494974.903926
+Nearest point Cow eaten 1.19417898605926 0.6457208079856591
+[[1.19417899]
+ [0.64572081]]
+Success got all energy
+[[3, 10, 2], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+1149.76002601381 8681.46776692946
+Base consumption: 1936370497.43497
+Growth consumption: 25330954.9757424
+Hurt consumption: 193637049.743497
+=======================
+Iteration: 1
+Energy Delta this round: 94622063.8915239
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 2163966438.26268
+Still need these: 2122769688.26268
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1322.81967292877
+=======================
+Iteration: 2
+Energy Delta this round: 94621783.6440729
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 2172594654.61861
+Still need these: 2090201154.61861
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1603.06712392510
+=======================
+Iteration: 3
+Energy Delta this round: 94621707.4907972
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 2181222947.12781
+Still need these: 2057632697.12781
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1679.22039969253
+=======================
+Iteration: 4
+Energy Delta this round: 94622083.2944117
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 2189850863.83340
+Still need these: 2025063863.83340
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1303.41678517988
+=======================
+Iteration: 5
+Energy Delta this round: 868496024.082475
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 2262604839.75093
+Still need these: 1722259089.75093
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 570.086276168143
+=======================
+Iteration: 6
+Energy Delta this round: 94620798.3590520
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 2271234041.39187
+Still need these: 1689691541.39187
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2588.35214483621
+=======================
+Iteration: 7
+Energy Delta this round: 3600901.53397507
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 2271658314.85790
+Still need these: 1688509770.03290
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1494.65090064235
+=======================
+Iteration: 8
+Energy Delta this round: 94622699.9004937
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 2280285614.95741
+Still need these: 1655940320.13241
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 686.810703171499
+=======================
+Iteration: 9
+Energy Delta this round: 94622563.2429946
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 2288913051.71441
+Still need these: 1623371006.88941
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 823.468202267842
+=======================
+Iteration: 10
+Energy Delta this round: 94622415.5593874
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 2297540636.15502
+Still need these: 1590801841.33002
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 971.151809484962
+=======================
+Iteration: 11
+Energy Delta this round: 868496012.099157
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+ENERGY_GOT * 0.57 * 0.7 1082297544.8249998
+ENERGY_CONSUMPTION: 2370294624.05587
+Still need these: 1287997079.23087
+Energy got: 2712525175.0
+Fire energy need: 72753405.831249
+Fly energy need: 582.069594243717
+=======================
+Iteration: 12
+Energy Delta this round: 94621419.8286137
+Nearest point Sheep eaten 0.4773349223995005 0.2729361479663239
+[[0.47733492]
+ [0.27293615]]
+ENERGY_GOT * 0.57 * 0.7 1123494294.8249998
+ENERGY_CONSUMPTION: 2378923204.22725
+Still need these: 1255428909.40225
+Energy got: 2815775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1966.88258313545
+=======================
+Iteration: 13
+Energy Delta this round: 94619549.5869495
+Nearest point Sheep eaten 1.0158293639450533 0.31050130563655465
+[[1.01582936]
+ [0.31050131]]
+ENERGY_GOT * 0.57 * 0.7 1164691044.8249998
+ENERGY_CONSUMPTION: 2387553654.64030
+Still need these: 1222862609.81530
+Energy got: 2919025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3837.12424735064
+=======================
+Iteration: 14
+Energy Delta this round: 3601331.83157339
+Nearest point Hare eaten 1.1385401005028317 0.3963023573066582
+[[1.1385401 ]
+ [0.39630236]]
+ENERGY_GOT * 0.57 * 0.7 1166297089.6499999
+ENERGY_CONSUMPTION: 2387977497.80873
+Still need these: 1221680408.15873
+Energy got: 2923050350.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1064.35330232239
+=======================
+Iteration: 15
+Energy Delta this round: 868494777.630615
+Nearest point Cow eaten 1.19417898605926 0.6457208079856591
+[[1.19417899]
+ [0.64572081]]
+ENERGY_GOT * 0.57 * 0.7 1541855839.6499999
+ENERGY_CONSUMPTION: 2460732720.17812
+Still need these: 918876880.528116
+Energy got: 3864300350.0
+Fire energy need: 72753405.831249
+Fly energy need: 1816.53813550887
+=======================
+Iteration: 16
+Energy Delta this round: 94622618.1091580
+Nearest point Sheep eaten 1.1350058161827947 0.7362184179849751
+[[1.13500582]
+ [0.73621842]]
+ENERGY_GOT * 0.57 * 0.7 1583052589.6499999
+ENERGY_CONSUMPTION: 2469360102.06896
+Still need these: 886307512.418958
+Energy got: 3967550350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 768.602038872225
+=======================
+Iteration: 17
+Energy Delta this round: 94622211.6744652
+Nearest point Sheep eaten 0.9698010428935899 0.7305180656905397
+[[0.96980104]
+ [0.73051807]]
+ENERGY_GOT * 0.57 * 0.7 1624249339.6499999
+ENERGY_CONSUMPTION: 2477987890.39449
+Still need these: 853738550.744493
+Energy got: 4070800350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1175.03673164637
+=======================
+Iteration: 18
+Energy Delta this round: 94622971.4079561
+Nearest point Sheep eaten 0.9380712234599453 0.779575565273215
+[[0.93807122]
+ [0.77957557]]
+ENERGY_GOT * 0.57 * 0.7 1665446089.6499999
+ENERGY_CONSUMPTION: 2486614918.98654
+Still need these: 821168829.336537
+Energy got: 4174050350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 415.303240802311
+=======================
+Iteration: 19
+Energy Delta this round: 94622187.2474611
+Nearest point Sheep eaten 0.9245664530388409 0.6113773916934062
+[[0.92456645]
+ [0.61137739]]
+ENERGY_GOT * 0.57 * 0.7 1706642839.6499999
+ENERGY_CONSUMPTION: 2495242731.73908
+Still need these: 788599892.089075
+Energy got: 4277300350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1199.46373573269
+=======================
+Iteration: 20
+Energy Delta this round: 868494623.094143
+Nearest point Cow eaten 0.7847551448092871 0.8508392235862938
+[[0.78475514]
+ [0.85083922]]
+Success got all energy
+[[4, 14, 2], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+1227.45087046290 9870.18310856737
+Base consumption: 2201509225.03173
+Growth consumption: 27042601.9614098
+Hurt consumption: 220150922.503173
+=======================
+Iteration: 1
+Energy Delta this round: 94621913.3284866
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 2457330836.16783
+Still need these: 2416134086.16783
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1473.38271027570
+=======================
+Iteration: 2
+Energy Delta this round: 94621601.1833338
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 2465959234.98449
+Still need these: 2383565734.98449
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1785.52786304821
+=======================
+Iteration: 3
+Energy Delta this round: 94621516.3623094
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 2474587718.62218
+Still need these: 2350997468.62218
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1870.34888751798
+=======================
+Iteration: 4
+Energy Delta this round: 94621934.9398067
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 2483215783.68238
+Still need these: 2318428783.68238
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1451.77139021169
+=======================
+Iteration: 5
+Energy Delta this round: 868495959.195383
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 2555969824.48699
+Still need these: 2015624074.48699
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 634.973367769703
+=======================
+Iteration: 6
+Energy Delta this round: 94620503.7533937
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 2564599320.73360
+Still need these: 1983056820.73360
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2882.95780320773
+=======================
+Iteration: 7
+Energy Delta this round: 3600731.41314607
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 2565023764.32045
+Still need these: 1981875219.49545
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1664.77172964075
+=======================
+Iteration: 8
+Energy Delta this round: 94622621.7278541
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 2573651142.59260
+Still need these: 1949305847.76760
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 764.983342774696
+=======================
+Iteration: 9
+Energy Delta this round: 94622469.5160292
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 2582278673.07657
+Still need these: 1916736628.25157
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 917.195167650475
+=======================
+Iteration: 10
+Energy Delta this round: 94622305.0231071
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 2590906368.05346
+Still need these: 1884167573.22846
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1081.68808979087
+=======================
+Iteration: 11
+Energy Delta this round: 868495945.848127
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+ENERGY_GOT * 0.57 * 0.7 1082297544.8249998
+ENERGY_CONSUMPTION: 2663660422.20533
+Still need these: 1581362877.38033
+Energy got: 2712525175.0
+Fire energy need: 72753405.831249
+Fly energy need: 648.320624410659
+=======================
+Iteration: 12
+Energy Delta this round: 94621195.9584810
+Nearest point Sheep eaten 0.4773349223995005 0.2729361479663239
+[[0.47733492]
+ [0.27293615]]
+ENERGY_GOT * 0.57 * 0.7 1123494294.8249998
+ENERGY_CONSUMPTION: 2672289226.24685
+Still need these: 1548794931.42185
+Energy got: 2815775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2190.75271591476
+=======================
+Iteration: 13
+Energy Delta this round: 94619112.8463316
+Nearest point Sheep eaten 1.0158293639450533 0.31050130563655465
+[[1.01582936]
+ [0.31050131]]
+ENERGY_GOT * 0.57 * 0.7 1164691044.8249998
+ENERGY_CONSUMPTION: 2680920113.40052
+Still need these: 1516229068.57552
+Energy got: 2919025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4273.86486527595
+=======================
+Iteration: 14
+Energy Delta this round: 3601210.68712015
+Nearest point Hare eaten 1.1385401005028317 0.3963023573066582
+[[1.1385401 ]
+ [0.39630236]]
+ENERGY_GOT * 0.57 * 0.7 1166297089.6499999
+ENERGY_CONSUMPTION: 2681344077.71340
+Still need these: 1515046988.06340
+Energy got: 2923050350.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1185.49775555923
+=======================
+Iteration: 15
+Energy Delta this round: 868494570.872654
+Nearest point Cow eaten 1.19417898605926 0.6457208079856591
+[[1.19417899]
+ [0.64572081]]
+ENERGY_GOT * 0.57 * 0.7 1541855839.6499999
+ENERGY_CONSUMPTION: 2754099506.84075
+Still need these: 1212243667.19075
+Energy got: 3864300350.0
+Fire energy need: 72753405.831249
+Fly energy need: 2023.29609710857
+=======================
+Iteration: 16
+Energy Delta this round: 94622530.6270470
+Nearest point Sheep eaten 1.1350058161827947 0.7362184179849751
+[[1.13500582]
+ [0.73621842]]
+ENERGY_GOT * 0.57 * 0.7 1583052589.6499999
+ENERGY_CONSUMPTION: 2762726976.21370
+Still need these: 1179674386.56370
+Energy got: 3967550350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 856.084149889994
+=======================
+Iteration: 17
+Energy Delta this round: 94622077.9320490
+Nearest point Sheep eaten 0.9698010428935899 0.7305180656905397
+[[0.96980104]
+ [0.73051807]]
+ENERGY_GOT * 0.57 * 0.7 1624249339.6499999
+ENERGY_CONSUMPTION: 2771354898.28165
+Still need these: 1147105558.63165
+Energy got: 4070800350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1308.77914788908
+=======================
+Iteration: 18
+Energy Delta this round: 94622924.1382347
+Nearest point Sheep eaten 0.9380712234599453 0.779575565273215
+[[0.93807122]
+ [0.77957557]]
+ENERGY_GOT * 0.57 * 0.7 1665446089.6499999
+ENERGY_CONSUMPTION: 2779981974.14342
+Still need these: 1114535884.49342
+Energy got: 4174050350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 462.572962167111
+=======================
+Iteration: 19
+Energy Delta this round: 94622050.7247688
+Nearest point Sheep eaten 0.9245664530388409 0.6113773916934062
+[[0.92456645]
+ [0.61137739]]
+ENERGY_GOT * 0.57 * 0.7 1706642839.6499999
+ENERGY_CONSUMPTION: 2788609923.41865
+Still need these: 1081967083.76865
+Energy got: 4277300350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1335.98642808089
+=======================
+Iteration: 20
+Energy Delta this round: 868494398.746875
+Nearest point Cow eaten 0.7847551448092871 0.8508392235862938
+[[0.78475514]
+ [0.85083922]]
+Success got all energy
+[[4, 14, 2], [0, 0, 0], [0, 0, 0]]
+################################################################
+16475.9049382786*(1 - 0.967130801320884*exp(-0.0201655539837452*t))**2.0*exp(-0.0201655539837452*t)
+1303.70547327918 11135.8904208665
+Base consumption: 2483820737.75310
+Growth consumption: 28722606.3683548
+Hurt consumption: 248382073.775310
+=======================
+Iteration: 1
+Energy Delta this round: 94621756.1715993
+Nearest point Sheep eaten 0.1860758629579795 0.0025296574780175884
+[[0.18607586]
+ [0.00252966]]
+ENERGY_GOT * 0.57 * 0.7 41196749.99999999
+ENERGY_CONSUMPTION: 2769553661.72517
+Still need these: 2728356911.72517
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1630.53959754231
+=======================
+Iteration: 2
+Energy Delta this round: 94621410.7317973
+Nearest point Sheep eaten 0.13490883470400616 0.22216642275373233
+[[0.13490883]
+ [0.22216642]]
+ENERGY_GOT * 0.57 * 0.7 82393499.99999999
+ENERGY_CONSUMPTION: 2778182250.99337
+Still need these: 2695788750.99337
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1975.97939958887
+=======================
+Iteration: 3
+Energy Delta this round: 94621316.8634234
+Nearest point Sheep eaten 0.24280414114749238 0.43231821377406
+[[0.24280414]
+ [0.43231821]]
+ENERGY_GOT * 0.57 * 0.7 123590249.99999997
+ENERGY_CONSUMPTION: 2786810934.12995
+Still need these: 2663220684.12995
+Energy got: 309750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2069.84777345908
+=======================
+Iteration: 4
+Energy Delta this round: 94621780.0880691
+Nearest point Sheep eaten 0.19604891754287035 0.6096205366042229
+[[0.19604892]
+ [0.60962054]]
+ENERGY_GOT * 0.57 * 0.7 164786999.99999997
+ENERGY_CONSUMPTION: 2795439154.04188
+Still need these: 2630652154.04188
+Energy got: 413000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1606.62312772507
+=======================
+Iteration: 5
+Energy Delta this round: 868495891.466587
+Nearest point Cow eaten 0.2659293289673381 0.6489733258602126
+[[0.26592933]
+ [0.64897333]]
+ENERGY_GOT * 0.57 * 0.7 540345749.9999999
+ENERGY_CONSUMPTION: 2868193262.57529
+Still need these: 2327847512.57529
+Energy got: 1354250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 702.702164422412
+=======================
+Iteration: 6
+Energy Delta this round: 94620196.2455946
+Nearest point Sheep eaten 0.6300070112965594 0.6549663186361254
+[[0.63000701]
+ [0.65496632]]
+ENERGY_GOT * 0.57 * 0.7 581542499.9999999
+ENERGY_CONSUMPTION: 2876823066.32970
+Still need these: 2295280566.32970
+Energy got: 1457500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3190.46560231059
+=======================
+Iteration: 7
+Energy Delta this round: 3600553.84194124
+Nearest point Hare eaten 0.6281007297692642 0.4447088434461033
+[[0.62810073]
+ [0.44470884]]
+ENERGY_GOT * 0.57 * 0.7 583148544.8249999
+ENERGY_CONSUMPTION: 2877247687.48775
+Still need these: 2294099142.66275
+Energy got: 1461525175.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1842.34293447105
+=======================
+Iteration: 8
+Energy Delta this round: 94622540.1316740
+Nearest point Sheep eaten 0.7200605389183712 0.41506430894579616
+[[0.72006054]
+ [0.41506431]]
+ENERGY_GOT * 0.57 * 0.7 624345294.8249999
+ENERGY_CONSUMPTION: 2885875147.35608
+Still need these: 2261529852.53108
+Energy got: 1564775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 846.579522859351
+=======================
+Iteration: 9
+Energy Delta this round: 94622371.6843277
+Nearest point Sheep eaten 0.6815652299906261 0.3058026163758176
+[[0.68156523]
+ [0.30580262]]
+ENERGY_GOT * 0.57 * 0.7 665542044.8249999
+ENERGY_CONSUMPTION: 2894502775.67175
+Still need these: 2228960730.84675
+Energy got: 1668025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1015.02686918914
+=======================
+Iteration: 10
+Energy Delta this round: 94622189.6459332
+Nearest point Sheep eaten 0.661319476690575 0.1706903021945383
+[[0.66131948]
+ [0.1706903 ]]
+ENERGY_GOT * 0.57 * 0.7 706738794.8249999
+ENERGY_CONSUMPTION: 2903130586.02582
+Still need these: 2196391791.20082
+Energy got: 1771275175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1197.06526369097
+=======================
+Iteration: 11
+Energy Delta this round: 868495876.695658
+Nearest point Cow eaten 0.6876783370434869 0.09316374962406226
+[[0.68767834]
+ [0.09316375]]
+ENERGY_GOT * 0.57 * 0.7 1082297544.8249998
+ENERGY_CONSUMPTION: 2975884709.33016
+Still need these: 1893587164.50516
+Energy got: 2712525175.0
+Fire energy need: 72753405.831249
+Fly energy need: 717.473092790076
+=======================
+Iteration: 12
+Energy Delta this round: 94620962.2840424
+Nearest point Sheep eaten 0.4773349223995005 0.2729361479663239
+[[0.47733492]
+ [0.27293615]]
+ENERGY_GOT * 0.57 * 0.7 1123494294.8249998
+ENERGY_CONSUMPTION: 2984513747.04612
+Still need these: 1861019452.22112
+Energy got: 2815775175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 2424.42715447227
+=======================
+Iteration: 13
+Energy Delta this round: 94618656.9788274
+Nearest point Sheep eaten 1.0158293639450533 0.31050130563655465
+[[1.01582936]
+ [0.31050131]]
+ENERGY_GOT * 0.57 * 0.7 1164691044.8249998
+ENERGY_CONSUMPTION: 2993145090.06729
+Still need these: 1828454045.24229
+Energy got: 2919025175.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4729.73236944884
+=======================
+Iteration: 14
+Energy Delta this round: 3601084.23719249
+Nearest point Hare eaten 1.1385401005028317 0.3963023573066582
+[[1.1385401 ]
+ [0.39630236]]
+ENERGY_GOT * 0.57 * 0.7 1166297089.6499999
+ENERGY_CONSUMPTION: 2993569180.83010
+Still need these: 1827272091.18010
+Energy got: 2923050350.0
+Fire energy need: 422778.81512429065
+Fly energy need: 1311.94768321609
+=======================
+Iteration: 15
+Energy Delta this round: 868494355.059807
+Nearest point Cow eaten 1.19417898605926 0.6457208079856591
+[[1.19417899]
+ [0.64572081]]
+ENERGY_GOT * 0.57 * 0.7 1541855839.6499999
+ENERGY_CONSUMPTION: 3066324825.77029
+Still need these: 1524468986.12029
+Energy got: 3864300350.0
+Fire energy need: 72753405.831249
+Fly energy need: 2239.10894357584
+=======================
+Iteration: 16
+Energy Delta this round: 94622439.3136908
+Nearest point Sheep eaten 1.1350058161827947 0.7362184179849751
+[[1.13500582]
+ [0.73621842]]
+ENERGY_GOT * 0.57 * 0.7 1583052589.6499999
+ENERGY_CONSUMPTION: 3074952386.45660
+Still need these: 1491899796.80660
+Energy got: 3967550350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 947.397506085013
+=======================
+Iteration: 17
+Energy Delta this round: 94621938.3324354
+Nearest point Sheep eaten 0.9698010428935899 0.7305180656905397
+[[0.96980104]
+ [0.73051807]]
+ENERGY_GOT * 0.57 * 0.7 1624249339.6499999
+ENERGY_CONSUMPTION: 3083580448.12417
+Still need these: 1459331108.47417
+Energy got: 4070800350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1448.37876146348
+=======================
+Iteration: 18
+Energy Delta this round: 94622874.7983542
+Nearest point Sheep eaten 0.9380712234599453 0.779575565273215
+[[0.93807122]
+ [0.77957557]]
+ENERGY_GOT * 0.57 * 0.7 1665446089.6499999
+ENERGY_CONSUMPTION: 3092207573.32581
+Still need these: 1426761483.67581
+Energy got: 4174050350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 511.912842675328
+=======================
+Iteration: 19
+Energy Delta this round: 94621908.2231180
+Nearest point Sheep eaten 0.9245664530388409 0.6113773916934062
+[[0.92456645]
+ [0.61137739]]
+ENERGY_GOT * 0.57 * 0.7 1706642839.6499999
+ENERGY_CONSUMPTION: 3100835665.10269
+Still need these: 1394192825.45269
+Energy got: 4277300350.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1478.48807887624
+=======================
+Iteration: 20
+Energy Delta this round: 868494164.574405
+Nearest point Cow eaten 0.7847551448092871 0.8508392235862938
+[[0.78475514]
+ [0.85083922]]
+ENERGY_GOT * 0.57 * 0.7 2082201589.6499996
+ENERGY_CONSUMPTION: 3173591500.52829
+Still need these: 1091389910.87829
+Energy got: 5218550350.0
+Fire energy need: 72753405.831249
+Fly energy need: 2429.59434553160
+=======================
+Iteration: 21
+Energy Delta this round: 868494565.787481
+Nearest point Cow eaten 0.5569899080791163 0.8922470664772031
+[[0.55698991]
+ [0.89224707]]
+Success got all energy
+[[5, 14, 2], [0, 0, 0], [0, 0, 0]]
+################################################################
