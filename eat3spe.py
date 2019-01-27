@@ -36,7 +36,7 @@ SPECIFIC_HEAT = [
 ]
 
 # 边长, km
-SIDE_LENGTH = 30.0
+SIDE_LENGTH = 90.0
 AREA = SIDE_LENGTH ** 2
 
 if __name__ == "__main__":
@@ -67,20 +67,6 @@ if __name__ == "__main__":
     SHEEP = spe_name[0][1]
     HARE = spe_name[0][2]
 
-    # Delete it self
-    # total = np.loadtxt(f'./data/total-{exp}')
-    cow = np.loadtxt(f'./data/species-cow-{exp}')
-    sheep = np.loadtxt(f'./data/species-sheep-{exp}')
-    hare = np.loadtxt(f'./data/species-hare-{exp}')
-    # print(total.shape)
-    # Position of each species
-    cow_backup = np.array(cow)
-    sheep_backup = np.array(cow)
-    hare_backup = np.array(cow)
-    number_of_animals_PER_ANIMAL[0][0] = len(cow[0])
-    number_of_animals_PER_ANIMAL[0][1] = len(sheep[0])
-    number_of_animals_PER_ANIMAL[0][2] = len(hare[0])
-    number_of_animals = np.sum(number_of_animals_PER_ANIMAL)
     # print(number_of_animals_PER_ANIMAL)
     # exit()
     ########## Find and eat ############
