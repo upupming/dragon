@@ -48,7 +48,7 @@ fig, axes = plt.subplots(
 )
 axes.set_xlabel('Age/year')
 axes.set_ylabel(r'Area/$km^2$')
-axes.set_title('Area required to support the three dragons')
-axes.plot(np.arange(years), s_area)
+axes.set_title('Minimum area required to support the three dragons')
+axes.plot(np.arange(years), s_area, c='pink')
 import save_fig as sf
 sf.save_to_file(f'area-{years}')

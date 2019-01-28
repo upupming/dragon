@@ -155,8 +155,8 @@ if __name__ == "__main__":
     def get_growth_consumption(mu):
         period = 2 * 24
         dmd = mu / 365 / 24 * period
-        rho_m = 1.12
-        rho_b = 1.23
+        rho_m = 1.12 * 1e3
+        rho_b = 1.23 * 1e3
         r_b = 4
         r_m = 5
         coefficient_1 = rho_m + rho_b * (r_b ** 2) / (r_m ** 2)
@@ -192,6 +192,7 @@ if __name__ == "__main__":
         return c_p * m_p * constant * delta_T
 
     def eat_when_age(age):
+        print(f'Age: {age}')
         dragon_pos = np.array([
             [0],
             [0]
@@ -274,6 +275,20 @@ if __name__ == "__main__":
             
             if ENERGY_GOT * 0.57 * 0.7 >= ENERGY_CONSUMPTION:
                 print('Success got all energy')
+                print('Summary:')
+                print('=== ENERGY_CONSUMPTION ===')
+                print('[\n')
+                print('\t#Base:\n')
+                print(f'\t{base_cons},\n')
+                print('\t#Grorth:\n')
+                print(f'\t{growth_cons},\n')
+                print('\t#Fly:\n')
+                print(f'\t{fly_cons},\n')
+                print('\t#Fire:\n')
+                print(f'\t{fire_cos},\n')
+                print('\t#Hurt:\n')
+                print(f'\t{hurt_cons}\n')
+                print(']')
                 break
             else:
                 print('ENERGY_GOT * 0.57 * 0.7', ENERGY_GOT * 0.57 * 0.7)

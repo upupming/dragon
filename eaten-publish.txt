@@ -1,0 +1,4710 @@
+############### Hunting times: 0 at age 100 ###############
+Base consumption: 41540761837.2382
+Growth consumption: 36678572.4395570
+Hurt consumption: 4154076183.72382
+=======================
+Iteration: 1
+Delta Energy this round: 94599030.1678936
+Nearest point Sheep at (0.15096743171378768, 0.21272862468017628) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 41196749.99999999
+energy_consumed: 45740167563.2337
+Still need these calories of energy: 45698970813.2337
+Energy got: 103250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24356.5433032173
+=======================
+Iteration: 2
+Delta Energy this round: 94609781.5658140
+Nearest point Sheep at (0.18356158705077674, 0.354744635965345) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 82393499.99999999
+energy_consumed: 45748807781.6679
+Still need these calories of energy: 45666414281.6679
+Energy got: 206500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13605.1453828646
+=======================
+Iteration: 3
+Delta Energy this round: 868483135.358179
+Nearest point Cattle at (0.039862537739003834, 0.343463998358442) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 457952250.0
+energy_consumed: 45821574646.3097
+Still need these calories of energy: 45363622396.3097
+Energy got: 1147750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13458.8105720158
+=======================
+Iteration: 4
+Delta Energy this round: 868462785.763975
+Nearest point Cattle at (0.38831405898095084, 0.441872972395595) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 833511000.0
+energy_consumed: 45894361860.5457
+Still need these calories of energy: 45060850860.5457
+Energy got: 2089000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 33808.4047756567
+=======================
+Iteration: 5
+Delta Energy this round: 94594375.1383278
+Nearest point Sheep at (0.21684093395186288, 0.700980062694575) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 874707750.0
+energy_consumed: 45903017485.4074
+Still need these calories of energy: 45028309735.4074
+Energy got: 2192250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 29011.5728690422
+=======================
+Iteration: 6
+Delta Energy this round: 868492257.143393
+Nearest point Cattle at (0.17039460794193828, 0.7014463111314084) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 1250266499.9999998
+energy_consumed: 45975775228.2640
+Still need these calories of energy: 44725508728.2640
+Energy got: 3133500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 4337.02535765187
+=======================
+Iteration: 7
+Delta Energy this round: 94609544.2850367
+Nearest point Sheep at (0.08339595358922369, 0.8214845346341026) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 1291463249.9999998
+energy_consumed: 45984415683.9790
+Still need these calories of energy: 44692952433.9790
+Energy got: 3236750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13842.4261601979
+=======================
+Iteration: 8
+Delta Energy this round: 94604278.5701782
+Nearest point Sheep at (0.2721816303969349, 0.9004735933682351) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 1332659999.9999998
+energy_consumed: 45993061405.4088
+Still need these calories of energy: 44660401405.4088
+Energy got: 3340000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19108.1410186787
+=======================
+Iteration: 9
+Delta Energy this round: 868479722.554286
+Nearest point Cattle at (0.45042709558075433, 0.8708424750888055) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 1708218750.0
+energy_consumed: 46065831682.8545
+Still need these calories of energy: 44357612932.8545
+Energy got: 4281250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 16871.6144645263
+=======================
+Iteration: 10
+Delta Energy this round: 868466955.003540
+Nearest point Cattle at (0.7675364973055276, 0.8565911575671636) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2083777499.9999995
+energy_consumed: 46138614727.8510
+Still need these calories of energy: 44054837227.8510
+Energy got: 5222500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 29639.1652111219
+=======================
+Iteration: 11
+Delta Energy this round: 94616748.9122145
+Nearest point Sheep at (0.7765872269358198, 0.7860801691143926) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2124974249.9999995
+energy_consumed: 46147247978.9388
+Still need these calories of energy: 44022273728.9388
+Energy got: 5325750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6637.79898237786
+=======================
+Iteration: 12
+Delta Energy this round: 94610305.7914929
+Nearest point Sheep at (0.791937528538651, 0.6468296761862935) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2166170999.9999995
+energy_consumed: 46155887673.1473
+Still need these calories of energy: 43989716673.1473
+Energy got: 5429000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13080.9197040102
+=======================
+Iteration: 13
+Delta Energy this round: 94597098.6862335
+Nearest point Sheep at (0.7993426381148827, 0.9282717150918807) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2207367749.9999995
+energy_consumed: 46164540574.4610
+Still need these calories of energy: 43957172824.4610
+Energy got: 5532250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26288.0249633858
+=======================
+Iteration: 14
+Delta Energy this round: 94611807.2941610
+Nearest point Sheep at (0.907765027891575, 0.9884702526142319) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2248564499.9999995
+energy_consumed: 46173178767.1669
+Still need these calories of energy: 43924614267.1669
+Energy got: 5635500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11579.4170359045
+=======================
+Iteration: 15
+Delta Energy this round: 868483633.453337
+Nearest point Cattle at (1.0412075309279367, 1.0266852149899885) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2624123249.9999995
+energy_consumed: 46245945133.7135
+Still need these calories of energy: 43621821883.7135
+Energy got: 6576750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 12960.7154143800
+=======================
+Iteration: 16
+Delta Energy this round: 94601832.5249938
+Nearest point Sheep at (1.1808300869129662, 1.2105142157954418) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2665319999.9999995
+energy_consumed: 46254593301.1885
+Still need these calories of energy: 43589273301.1885
+Energy got: 6680000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21554.1862030659
+=======================
+Iteration: 17
+Delta Energy this round: 94613679.4079289
+Nearest point Sheep at (1.2557276106487447, 1.1384120655245977) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 2706516749.9999995
+energy_consumed: 46263229621.7806
+Still need these calories of energy: 43556712871.7806
+Energy got: 6783250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9707.30326797571
+=======================
+Iteration: 18
+Delta Energy this round: 868478546.844168
+Nearest point Cattle at (1.3379964519517618, 1.3133127072655248) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3082075500.0
+energy_consumed: 46336001074.9364
+Still need these calories of energy: 43253925574.9364
+Energy got: 7724500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18047.3245829146
+=======================
+Iteration: 19
+Delta Energy this round: 94599675.7107449
+Nearest point Sheep at (1.1185254889546414, 1.441054770109681) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3123272250.0
+energy_consumed: 46344651399.2257
+Still need these calories of energy: 43221379149.2257
+Energy got: 7827750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23711.0004520016
+=======================
+Iteration: 20
+Delta Energy this round: 94621625.8230312
+Nearest point Sheep at (1.12533113652444, 1.4586427168323446) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3164469000.0
+energy_consumed: 46353279773.4027
+Still need these calories of energy: 43188810773.4027
+Energy got: 7931000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1760.88816562322
+=======================
+Iteration: 21
+Delta Energy this round: 868477953.630918
+Nearest point Cattle at (1.0189811954824823, 1.6275935418895005) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3540027750.0
+energy_consumed: 46426051819.7718
+Still need these calories of energy: 42886024069.7718
+Energy got: 8872250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18640.5378326157
+=======================
+Iteration: 22
+Delta Energy this round: 868476336.012206
+Nearest point Cattle at (0.8485547506817581, 1.493329616934751) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3915586499.999999
+energy_consumed: 46498825483.7595
+Still need these calories of energy: 42583238983.7595
+Energy got: 9813500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 20258.1565449351
+=======================
+Iteration: 23
+Delta Energy this round: 94590272.9085443
+Nearest point Sheep at (0.7294334166205363, 1.1592919589722739) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3956783249.999999
+energy_consumed: 46507485210.8510
+Still need these calories of energy: 42550701960.8510
+Energy got: 9916750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 33113.8026525877
+=======================
+Iteration: 24
+Delta Energy this round: 94590045.7033918
+Nearest point Sheep at (0.3820500069562849, 1.24192157522087) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 3997979999.999999
+energy_consumed: 46516145165.1476
+Still need these calories of energy: 42518165165.1476
+Energy got: 10020000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 33341.0078050301
+=======================
+Iteration: 25
+Delta Energy this round: 94591051.2373324
+Nearest point Sheep at (0.4752198134783514, 1.5754594419999002) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4039176749.999999
+energy_consumed: 46524804113.9103
+Still need these calories of energy: 42485627363.9103
+Energy got: 10123250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 32335.4738644295
+=======================
+Iteration: 26
+Delta Energy this round: 94605164.0483177
+Nearest point Sheep at (0.49089353057580887, 1.769990073504738) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4080373499.999999
+energy_consumed: 46533448949.8620
+Still need these calories of energy: 42453075449.8620
+Energy got: 10226500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18222.6628791717
+=======================
+Iteration: 27
+Delta Energy this round: 94619123.1061983
+Nearest point Sheep at (0.512992325740117, 1.8099487191504016) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4121570249.999999
+energy_consumed: 46542079826.7558
+Still need these calories of energy: 42420509576.7558
+Energy got: 10329750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4263.60499854663
+=======================
+Iteration: 28
+Delta Energy this round: 94575275.1255499
+Nearest point Sheep at (0.8014063956913375, 2.236933176451271) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4162766999.999999
+energy_consumed: 46550754551.6302
+Still need these calories of energy: 42387987551.6302
+Energy got: 10433000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 48111.5856469446
+=======================
+Iteration: 29
+Delta Energy this round: 94609714.8852845
+Nearest point Sheep at (0.9466327221254345, 2.218255344488692) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4203963749.999999
+energy_consumed: 46559394836.7449
+Still need these calories of energy: 42355431086.7449
+Energy got: 10536250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13671.8259124147
+=======================
+Iteration: 30
+Delta Energy this round: 94619833.7706917
+Nearest point Sheep at (0.9673259696354131, 2.1863227735601165) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4245160499.999999
+energy_consumed: 46568025002.9742
+Still need these calories of energy: 42322864502.9742
+Energy got: 10639500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3552.94050515186
+=======================
+Iteration: 31
+Delta Energy this round: 94581408.3225246
+Nearest point Sheep at (1.207607180364787, 1.806339644286512) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4286357249.999999
+energy_consumed: 46576693594.6517
+Still need these calories of energy: 42290336344.6517
+Energy got: 10742750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 41978.3886722292
+=======================
+Iteration: 32
+Delta Energy this round: 94613245.5433161
+Nearest point Sheep at (1.3158086934374746, 1.8157489204418986) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4327553999.999999
+energy_consumed: 46585330349.1084
+Still need these calories of energy: 42257776349.1084
+Energy got: 10846000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10141.1678807698
+=======================
+Iteration: 33
+Delta Energy this round: 94611767.4294862
+Nearest point Sheep at (1.394781392940273, 1.9119189084595112) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4368750749.999999
+energy_consumed: 46593968581.6789
+Still need these calories of energy: 42225217831.6789
+Energy got: 10949250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11619.2817106441
+=======================
+Iteration: 34
+Delta Energy this round: 94618856.9780635
+Nearest point Sheep at (1.411395035478007, 1.9574979849018204) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4409947499.999999
+energy_consumed: 46602599724.7008
+Still need these calories of energy: 42192652224.7008
+Energy got: 11052500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4529.73313340600
+=======================
+Iteration: 35
+Delta Energy this round: 94602565.7013787
+Nearest point Sheep at (1.593957387156486, 2.0855409395001434) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4451144249.999999
+energy_consumed: 46611247158.9995
+Still need these calories of energy: 42160102908.9995
+Energy got: 11155750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20821.0098181241
+=======================
+Iteration: 36
+Delta Energy this round: 868463962.139063
+Nearest point Cattle at (1.6432451857047492, 1.7395514937001344) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4826702999.999999
+energy_consumed: 46684033196.8604
+Still need these calories of energy: 41857330196.8604
+Energy got: 12097000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 32632.0296877269
+=======================
+Iteration: 37
+Delta Energy this round: 94612287.1641934
+Nearest point Sheep at (1.6628582691517313, 1.6223067370879285) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4867899749.999999
+energy_consumed: 46692670909.6962
+Still need these calories of energy: 41824771159.6962
+Energy got: 12200250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11099.5470034403
+=======================
+Iteration: 38
+Delta Energy this round: 94606679.3545575
+Nearest point Sheep at (1.6694147894076372, 1.4434944836509989) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4909096499.999999
+energy_consumed: 46701314230.3416
+Still need these calories of energy: 41792217730.3416
+Energy got: 12303500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16707.3566393930
+=======================
+Iteration: 39
+Delta Energy this round: 94601333.9774538
+Nearest point Sheep at (1.9041124739599558, 1.417072073620651) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4950293249.999999
+energy_consumed: 46709962896.3642
+Still need these calories of energy: 41759669646.3642
+Energy got: 12406750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22052.7337430538
+=======================
+Iteration: 40
+Delta Energy this round: 94613294.7155112
+Nearest point Sheep at (2.012163237385548, 1.419721334780475) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 4991489999.999999
+energy_consumed: 46718599601.6487
+Still need these calories of energy: 41727109601.6487
+Energy got: 12510000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10091.9956856835
+=======================
+Iteration: 41
+Delta Energy this round: 868460177.862430
+Nearest point Cattle at (2.3006622490823236, 1.6821658558410135) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 5367048749.999999
+energy_consumed: 46791389423.7862
+Still need these calories of energy: 41424340673.7862
+Energy got: 13451250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 36416.3063204981
+=======================
+Iteration: 42
+Delta Energy this round: 868478075.812288
+Nearest point Cattle at (2.2022812097225675, 1.8543724499768566) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 5742607499.999999
+energy_consumed: 46864161347.9739
+Still need these calories of energy: 41121553847.9739
+Energy got: 14392500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18518.3564626742
+=======================
+Iteration: 43
+Delta Energy this round: 94586061.7965392
+Nearest point Sheep at (2.4865374127917983, 2.135428172200445) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 5783804249.999999
+energy_consumed: 46872825286.1774
+Still need these calories of energy: 41089021036.1774
+Energy got: 14495750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 37324.9146576590
+=======================
+Iteration: 44
+Delta Energy this round: 868485508.018576
+Nearest point Cattle at (2.3930400996697654, 2.208607182841128) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6159363000.0
+energy_consumed: 46945589778.1588
+Still need these calories of energy: 40786226778.1588
+Energy got: 15437000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 11086.1501749081
+=======================
+Iteration: 45
+Delta Energy this round: 94595736.5981370
+Nearest point Sheep at (2.198522709441514, 2.43188786235915) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6200559750.0
+energy_consumed: 46954244041.5607
+Still need these calories of energy: 40753684291.5607
+Energy got: 15540250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27650.1130598367
+=======================
+Iteration: 46
+Delta Energy this round: 94611439.8237744
+Nearest point Sheep at (2.080958488452823, 2.4823808053448024) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6241756500.0
+energy_consumed: 46962882601.7369
+Still need these calories of energy: 40721126101.7369
+Energy got: 15643500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11946.8874224609
+=======================
+Iteration: 47
+Delta Energy this round: 94611453.4636494
+Nearest point Sheep at (2.1440400055173736, 2.5935304580923435) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6282953250.0
+energy_consumed: 46971521148.2733
+Still need these calories of energy: 40688567898.2733
+Energy got: 15746750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11933.2475474717
+=======================
+Iteration: 48
+Delta Energy this round: 94604984.3555744
+Nearest point Sheep at (2.3127191621670917, 2.6954620136689234) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6324150000.0
+energy_consumed: 46980166163.9177
+Still need these calories of energy: 40656016163.9177
+Energy got: 15850000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18402.3556224543
+=======================
+Iteration: 49
+Delta Energy this round: 94596286.0608077
+Nearest point Sheep at (2.4602952832004723, 2.9453859913959946) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6365346750.0
+energy_consumed: 46988819877.8569
+Still need these calories of energy: 40623473127.8569
+Energy got: 15953250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27100.6503891457
+=======================
+Iteration: 50
+Delta Energy this round: 94604928.8061098
+Nearest point Sheep at (2.5346853099330025, 3.128535327719695) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6406543500.0
+energy_consumed: 46997464949.0508
+Still need these calories of energy: 40590921449.0508
+Energy got: 16056500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18457.9050870354
+=======================
+Iteration: 51
+Delta Energy this round: 94608804.5622622
+Nearest point Sheep at (2.52029747456778, 3.284043024314083) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6447740250.0
+energy_consumed: 47006106144.4885
+Still need these calories of energy: 40558365894.4885
+Energy got: 16159750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14582.1489346424
+=======================
+Iteration: 52
+Delta Energy this round: 94605657.3733262
+Nearest point Sheep at (2.5435295556468116, 3.4724940385278744) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6488937000.0
+energy_consumed: 47014750487.1152
+Still need these calories of energy: 40525813487.1152
+Energy got: 16263000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17729.3378706977
+=======================
+Iteration: 53
+Delta Energy this round: 868476879.589193
+Nearest point Cattle at (2.714997934489335, 3.3492936197550174) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6864495750.0
+energy_consumed: 47087523607.5260
+Still need these calories of energy: 40223027857.5260
+Energy got: 17204250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 19714.5795575572
+=======================
+Iteration: 54
+Delta Energy this round: 94617629.9020745
+Nearest point Sheep at (2.75220752066705, 3.3001337283011676) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6905692500.0
+energy_consumed: 47096155977.6239
+Still need these calories of energy: 40190463477.6239
+Energy got: 17307500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 5756.80912240072
+=======================
+Iteration: 55
+Delta Energy this round: 94616248.0112970
+Nearest point Sheep at (2.791953990971132, 3.365444045737669) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6946889250.0
+energy_consumed: 47104789729.6126
+Still need these calories of energy: 40157900479.6126
+Energy got: 17410750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7138.69989989471
+=======================
+Iteration: 56
+Delta Energy this round: 94599231.0311412
+Nearest point Sheep at (2.9596047287677383, 3.562472448955006) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 6988086000.0
+energy_consumed: 47113440498.5815
+Still need these calories of energy: 40125354498.5815
+Energy got: 17514000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24155.6800556706
+=======================
+Iteration: 57
+Delta Energy this round: 94593022.4652856
+Nearest point Sheep at (3.2515603833619036, 3.4192465860440038) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7029282750.0
+energy_consumed: 47122097476.1162
+Still need these calories of energy: 40092814726.1162
+Energy got: 17617250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30364.2459112243
+=======================
+Iteration: 58
+Delta Energy this round: 868470690.167303
+Nearest point Cattle at (3.3245701688339544, 3.151599235077307) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7404841500.0
+energy_consumed: 47194876785.9489
+Still need these calories of energy: 39790035285.9489
+Energy got: 18558500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 25904.0014479657
+=======================
+Iteration: 59
+Delta Energy this round: 94619758.4759240
+Nearest point Sheep at (3.293097139805857, 3.1288096154948986) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7446038250.0
+energy_consumed: 47203507027.4730
+Still need these calories of energy: 39757468777.4730
+Energy got: 18661750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3628.23527290410
+=======================
+Iteration: 60
+Delta Energy this round: 94606232.3891468
+Nearest point Sheep at (3.1881152120533782, 2.9780396390481734) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7487235000.0
+energy_consumed: 47212150795.0838
+Still need these calories of energy: 39724915795.0838
+Energy got: 18765000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17154.3220500520
+=======================
+Iteration: 61
+Delta Energy this round: 94604878.3177367
+Nearest point Sheep at (3.0750351241093385, 3.1408417311945924) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7528431749.999999
+energy_consumed: 47220795916.7661
+Still need these calories of energy: 39692364166.7661
+Energy got: 18868250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18508.3934601241
+=======================
+Iteration: 62
+Delta Energy this round: 94589075.5319120
+Nearest point Sheep at (2.758643110136708, 2.953953500082661) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7569628499.999999
+energy_consumed: 47229456841.2342
+Still need these calories of energy: 39659828341.2342
+Energy got: 18971500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 34311.1792849125
+=======================
+Iteration: 63
+Delta Energy this round: 868463395.738946
+Nearest point Cattle at (3.0601044462855564, 2.765444121153929) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7945187249.999998
+energy_consumed: 47302243445.4952
+Still need these calories of energy: 39357056195.4952
+Energy got: 19912750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 33198.4298048851
+=======================
+Iteration: 64
+Delta Energy this round: 94593461.6471691
+Nearest point Sheep at (3.3598148288064147, 2.8789713034399) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 7986383999.999998
+energy_consumed: 47310899983.8480
+Still need these calories of energy: 39324515983.8480
+Energy got: 20016000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 29925.0640278049
+=======================
+Iteration: 65
+Delta Energy this round: 94611752.8484852
+Nearest point Sheep at (3.484054341960051, 2.888393971080503) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8027580749.999998
+energy_consumed: 47319538230.9995
+Still need these calories of energy: 39291957480.9995
+Energy got: 20119250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11633.8627116644
+=======================
+Iteration: 66
+Delta Energy this round: 94607975.7681576
+Nearest point Sheep at (3.5266901235599524, 2.728947861392359) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8068777499.999998
+energy_consumed: 47328180255.2314
+Still need these calories of energy: 39259402755.2314
+Energy got: 20222500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15410.9430392572
+=======================
+Iteration: 67
+Delta Energy this round: 94587919.9114799
+Nearest point Sheep at (3.4449521023270266, 2.3580044116186416) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8109974249.999998
+energy_consumed: 47336842335.3199
+Still need these calories of energy: 39226868085.3199
+Energy got: 20325750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 35466.7997169233
+=======================
+Iteration: 68
+Delta Energy this round: 868482921.730826
+Nearest point Cattle at (3.5045860194757905, 2.2242686171293413) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8485532999.999998
+energy_consumed: 47409609413.5891
+Still need these calories of energy: 38924076413.5891
+Energy got: 21267000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13672.4379253864
+=======================
+Iteration: 69
+Delta Energy this round: 94592274.7884614
+Nearest point Sheep at (3.189808211206675, 2.33353333769751) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8526729749.999998
+energy_consumed: 47418267138.8006
+Still need these calories of energy: 38891537388.8006
+Energy got: 21370250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31111.9227354550
+=======================
+Iteration: 70
+Delta Energy this round: 94609096.4571837
+Nearest point Sheep at (3.049618818984893, 2.3949331065535384) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8567926499.999998
+energy_consumed: 47426908042.3434
+Still need these calories of energy: 38858981542.3434
+Energy got: 21473500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14290.2540131353
+=======================
+Iteration: 71
+Delta Energy this round: 94619718.2603285
+Nearest point Sheep at (3.0137674256582714, 2.4110033735759027) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8609123249.999998
+energy_consumed: 47435538324.0831
+Still need these calories of energy: 38826415074.0831
+Energy got: 21576750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3668.45086838789
+=======================
+Iteration: 72
+Delta Energy this round: 94606528.8876716
+Nearest point Sheep at (2.838912411974228, 2.4559680196686715) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 8650319999.999998
+energy_consumed: 47444181795.1954
+Still need these calories of energy: 38793861795.1954
+Energy got: 21680000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16857.8235252502
+=======================
+Iteration: 73
+Delta Energy this round: 868490526.269579
+Nearest point Cattle at (2.787982578865107, 2.415603070904) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9025878749.999998
+energy_consumed: 47516941268.9258
+Still need these calories of energy: 38491062518.9258
+Energy got: 22621250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 6067.89917190842
+=======================
+Iteration: 74
+Delta Energy this round: 868462189.365057
+Nearest point Cattle at (2.8580656714183106, 2.053860900541402) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9401437499.999998
+energy_consumed: 47589729079.5608
+Still need these calories of energy: 38188291579.5608
+Energy got: 23562500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 34404.8036944306
+=======================
+Iteration: 75
+Delta Energy this round: 94601507.8373876
+Nearest point Sheep at (3.053079820813852, 1.9239587924778467) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9442634249.999998
+energy_consumed: 47598377571.7234
+Still need these calories of energy: 38155743321.7234
+Energy got: 23665750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21878.8738092499
+=======================
+Iteration: 76
+Delta Energy this round: 94601693.6405727
+Nearest point Sheep at (2.969899212164978, 1.7070314420945631) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9483830999.999998
+energy_consumed: 47607025878.0828
+Still need these calories of energy: 38123194878.0828
+Energy got: 23769000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21693.0706242184
+=======================
+Iteration: 77
+Delta Energy this round: 94607604.7273531
+Nearest point Sheep at (3.087349476068546, 1.5854838171359364) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9525027749.999998
+energy_consumed: 47615668273.3555
+Still need these calories of energy: 38090640523.3555
+Energy got: 23872250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15781.9838438232
+=======================
+Iteration: 78
+Delta Energy this round: 94618663.4451372
+Nearest point Sheep at (3.1302190001343244, 1.6123365452441552) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9566224499.999998
+energy_consumed: 47624299609.9103
+Still need these calories of energy: 38058075109.9103
+Energy got: 23975500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4723.26605961517
+=======================
+Iteration: 79
+Delta Energy this round: 94608943.2828298
+Nearest point Sheep at (3.241653240471579, 1.719622291252505) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9607421249.999998
+energy_consumed: 47632940666.6275
+Still need these calories of energy: 38025519416.6275
+Energy got: 24078750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14443.4283670780
+=======================
+Iteration: 80
+Delta Energy this round: 868469004.944343
+Nearest point Cattle at (3.1087442577778654, 1.4557270611982898) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 9982979999.999998
+energy_consumed: 47705721661.6832
+Still need these calories of energy: 37722741661.6832
+Energy got: 25020000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 27589.2244084189
+=======================
+Iteration: 81
+Delta Energy this round: 868463935.744805
+Nearest point Cattle at (2.8153204781710217, 1.2653639067074518) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 10358538749.999998
+energy_consumed: 47778507725.9384
+Still need these calories of energy: 37419968975.9384
+Energy got: 25961250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 32658.4239463898
+=======================
+Iteration: 82
+Delta Energy this round: 94603679.6156578
+Nearest point Sheep at (2.9286802022521154, 1.0873316598585736) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 10399735499.999998
+energy_consumed: 47787154046.3227
+Still need these calories of energy: 37387418546.3227
+Energy got: 26064500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19707.0955390887
+=======================
+Iteration: 83
+Delta Energy this round: 94604645.0948434
+Nearest point Sheep at (2.7491955714236873, 0.9974798072519131) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 10440932249.999998
+energy_consumed: 47795799401.2279
+Still need these calories of energy: 37354867151.2279
+Energy got: 26167750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18741.6163534888
+=======================
+Iteration: 84
+Delta Energy this round: 868479219.004251
+Nearest point Cattle at (2.596912210450614, 1.1044247502436888) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 10816490999.999998
+energy_consumed: 47868570182.2236
+Still need these calories of energy: 37052079182.2236
+Energy got: 27109000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 17375.1644999107
+=======================
+Iteration: 85
+Delta Energy this round: 94611800.6547238
+Nearest point Sheep at (2.473117446214872, 1.1128968428228248) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 10857687749.999998
+energy_consumed: 47877208381.5689
+Still need these calories of energy: 37019520631.5689
+Energy got: 27212250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11586.0564730961
+=======================
+Iteration: 86
+Delta Energy this round: 868492104.005940
+Nearest point Cattle at (2.464170509897048, 1.1601459591332586) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 11233246499.999998
+energy_consumed: 47949966277.5629
+Still need these calories of energy: 36716719777.5629
+Energy got: 28153500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 4490.16281094883
+=======================
+Iteration: 87
+Delta Energy this round: 94611865.2142119
+Nearest point Sheep at (2.3440268285477552, 1.1882761094015737) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 11274443249.999998
+energy_consumed: 47958604412.3487
+Still need these calories of energy: 36684161162.3487
+Energy got: 28256750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11521.4969849691
+=======================
+Iteration: 88
+Delta Energy this round: 94596244.0084510
+Nearest point Sheep at (2.1750004773392204, 0.9517757163633489) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 11315639999.999998
+energy_consumed: 47967258168.3403
+Still need these calories of energy: 36651618168.3403
+Energy got: 28360000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27142.7027458762
+=======================
+Iteration: 89
+Delta Energy this round: 94601466.7781430
+Nearest point Sheep at (1.9483793733630184, 0.8905040161093891) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 11356836749.999998
+energy_consumed: 47975906701.5621
+Still need these calories of energy: 36619069951.5621
+Energy got: 28463250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21919.9330538798
+=======================
+Iteration: 90
+Delta Energy this round: 868488850.616145
+Nearest point Cattle at (1.8701410396833262, 0.9180078477457254) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 11732395499.999998
+energy_consumed: 48048667850.9460
+Still need these calories of energy: 36316272350.9460
+Energy got: 29404500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 7743.55260572273
+=======================
+Iteration: 91
+Delta Energy this round: 868491355.951689
+Nearest point Cattle at (1.9042766731849359, 0.9625274645893123) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12107954250.0
+energy_consumed: 48121426494.9943
+Still need these calories of energy: 36013472244.9943
+Energy got: 30345750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 5238.21706193925
+=======================
+Iteration: 92
+Delta Energy this round: 94598893.0205535
+Nearest point Sheep at (1.6851158005325761, 0.8183692291219802) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12149151000.0
+energy_consumed: 48130077601.9737
+Still need these calories of energy: 35980926601.9737
+Energy got: 30449000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24493.6906433860
+=======================
+Iteration: 93
+Delta Energy this round: 94599024.0874054
+Nearest point Sheep at (1.4448796357670979, 0.7165596196779711) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12190347750.0
+energy_consumed: 48138728577.8863
+Still need these calories of energy: 35948380827.8863
+Energy got: 30552250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24362.6237914257
+=======================
+Iteration: 94
+Delta Energy this round: 94604483.3418390
+Nearest point Sheep at (1.261525279530351, 0.6307243306179977) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12231544500.0
+energy_consumed: 48147374094.5445
+Still need these calories of energy: 35915829594.5445
+Energy got: 30655500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18903.3693578379
+=======================
+Iteration: 95
+Delta Energy this round: 94609045.4530300
+Nearest point Sheep at (1.201812250287918, 0.7722335194265006) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12272741250.0
+energy_consumed: 48156015049.0915
+Still need these calories of energy: 35883273799.0915
+Energy got: 30758750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14341.2581669164
+=======================
+Iteration: 96
+Delta Energy this round: 94619364.7125862
+Nearest point Sheep at (1.1636285137739666, 0.7522976200970632) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12313938000.0
+energy_consumed: 48164645684.3789
+Still need these calories of energy: 35850707684.3789
+Energy got: 30862000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4021.99861069283
+=======================
+Iteration: 97
+Delta Energy this round: 868439747.826122
+Nearest point Cattle at (0.8111466964548375, 0.2559009429854686) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 12689496750.0
+energy_consumed: 48237455936.5527
+Still need these calories of energy: 35547959186.5527
+Energy got: 31803250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 56846.3426291892
+=======================
+Iteration: 98
+Delta Energy this round: 868464419.708367
+Nearest point Cattle at (1.1217120471216835, 0.10661631096032353) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13065055500.0
+energy_consumed: 48310241516.8444
+Still need these calories of energy: 35245186016.8444
+Energy got: 32744500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 32174.4603835821
+=======================
+Iteration: 99
+Delta Energy this round: 94567780.9957742
+Nearest point Sheep at (1.7169145865234248, 0.1262412871179408) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13106252250.0
+energy_consumed: 48318923735.8486
+Still need these calories of energy: 35212671485.8486
+Energy got: 32847750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 55605.7154226259
+=======================
+Iteration: 100
+Delta Energy this round: 94619362.1944222
+Nearest point Sheep at (1.7463407962813615, 0.1577350975164793) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13147449000.0
+energy_consumed: 48327554373.6542
+Still need these calories of energy: 35180105373.6542
+Energy got: 32951000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4024.51677463141
+=======================
+Iteration: 101
+Delta Energy this round: 868441647.740537
+Nearest point Cattle at (2.323394216180561, 0.2730632793812948) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13523007750.0
+energy_consumed: 48400362725.9136
+Still need these calories of energy: 34877354975.9136
+Energy got: 33892250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 54946.4282141233
+=======================
+Iteration: 102
+Delta Energy this round: 94599262.9246636
+Nearest point Sheep at (2.5815423591467668, 0.2835457822929699) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13564204500.0
+energy_consumed: 48409013462.9890
+Still need these calories of energy: 34844808962.9890
+Energy got: 33995500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24123.7865332308
+=======================
+Iteration: 103
+Delta Energy this round: 94612508.0650493
+Nearest point Sheep at (2.678542234276562, 0.34808385332999126) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13605401250.0
+energy_consumed: 48417650954.9239
+Still need these calories of energy: 34812249704.9239
+Energy got: 34098750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10878.6461475537
+=======================
+Iteration: 104
+Delta Energy this round: 94602316.7609728
+Nearest point Sheep at (2.8388032506478487, 0.18922370472251537) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13646598000.0
+energy_consumed: 48426298638.1629
+Still need these calories of energy: 34779700638.1629
+Energy got: 34202000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21069.9502240349
+=======================
+Iteration: 105
+Delta Energy this round: 94612777.9172900
+Nearest point Sheep at (2.8978285519883507, 0.09214088891852601) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13687794750.0
+energy_consumed: 48434935860.2457
+Still need these calories of energy: 34747141110.2457
+Energy got: 34305250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10608.7939068840
+=======================
+Iteration: 106
+Delta Energy this round: 94612685.9741631
+Nearest point Sheep at (3.0123438630358033, 0.09661638947094375) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 13728991500.0
+energy_consumed: 48443573174.2715
+Still need these calories of energy: 34714581674.2715
+Energy got: 34408500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10700.7370337377
+=======================
+Iteration: 107
+Delta Energy this round: 868475184.814762
+Nearest point Cattle at (3.0806448189585476, 0.3154972228189512) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 14104550250.0
+energy_consumed: 48516347989.4567
+Still need these calories of energy: 34411797739.4567
+Energy got: 35349750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21409.3539894688
+=======================
+Iteration: 108
+Delta Energy this round: 94611729.2271573
+Nearest point Sheep at (3.205278031055979, 0.3081548523754829) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 14145747000.0
+energy_consumed: 48524986260.2296
+Still need these calories of energy: 34379239260.2296
+Energy got: 35453000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11657.4840396154
+=======================
+Iteration: 109
+Delta Energy this round: 94598891.0056689
+Nearest point Sheep at (3.4508945578931716, 0.40033363780112463) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 14186943750.0
+energy_consumed: 48533637369.2239
+Still need these calories of energy: 34346693619.2239
+Energy got: 35556250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24495.7055280015
+=======================
+Iteration: 110
+Delta Energy this round: 868483862.984313
+Nearest point Cattle at (3.530753280197161, 0.28981904647830903) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 14562502500.0
+energy_consumed: 48606403506.2396
+Still need these calories of energy: 34043901006.2396
+Energy got: 36497500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 12731.1844384973
+=======================
+Iteration: 111
+Delta Energy this round: 868481830.256158
+Nearest point Cattle at (3.688799246547605, 0.2946086272466153) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 14938061250.0
+energy_consumed: 48679171675.9834
+Still need these calories of energy: 33741110425.9834
+Energy got: 37438750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 14763.9125933350
+=======================
+Iteration: 112
+Delta Energy this round: 94603553.8616118
+Nearest point Sheep at (3.666529908949782, 0.5058438212586058) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 14979258000.0
+energy_consumed: 48687818122.1218
+Still need these calories of energy: 33708560122.1218
+Energy got: 37542000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19832.8495850199
+=======================
+Iteration: 113
+Delta Energy this round: 868489564.408491
+Nearest point Cattle at (3.7314769154919256, 0.5439235521471364) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 15354816749.999998
+energy_consumed: 48760578557.7133
+Still need these calories of energy: 33405761807.7133
+Energy got: 38483250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 7029.76025990180
+=======================
+Iteration: 114
+Delta Energy this round: 94609612.4675218
+Nearest point Sheep at (3.8625376422881095, 0.47621055302885407) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 15396013499.999998
+energy_consumed: 48769218945.2458
+Still need these calories of energy: 33373205445.2458
+Energy got: 38586500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13774.2436750259
+=======================
+Iteration: 115
+Delta Energy this round: 94613424.6409303
+Nearest point Sheep at (3.9309029568137466, 0.5581209662104181) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 15437210249.999998
+energy_consumed: 48777855520.6049
+Still need these calories of energy: 33340645270.6049
+Energy got: 38689750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9962.07026658413
+=======================
+Iteration: 116
+Delta Energy this round: 94603654.7245670
+Nearest point Sheep at (3.9341578454089787, 0.34682044008229496) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 15478406999.999998
+energy_consumed: 48786501865.8803
+Still need these calories of energy: 33308094865.8803
+Energy got: 38793000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19731.9866298533
+=======================
+Iteration: 117
+Delta Energy this round: 868483569.578372
+Nearest point Cattle at (3.9951647448489105, 0.22137793102730452) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 15853965749.999996
+energy_consumed: 48859268296.3019
+Still need these calories of energy: 33005302546.3019
+Energy got: 39734250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13024.5903787988
+=======================
+Iteration: 118
+Delta Energy this round: 94604094.5655427
+Nearest point Sheep at (4.102025574236727, 0.3982126434493227) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 15895162499.999996
+energy_consumed: 48867914201.7364
+Still need these calories of energy: 32972751701.7364
+Energy got: 39837500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19292.1456541469
+=======================
+Iteration: 119
+Delta Energy this round: 868458926.450866
+Nearest point Cattle at (3.8191691826913807, 0.11057599927993378) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 16270721249.999996
+energy_consumed: 48940705275.2855
+Still need these calories of energy: 32669984025.2855
+Energy got: 40778750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 37667.7178848368
+=======================
+Iteration: 120
+Delta Energy this round: 94556409.2479626
+Nearest point Sheep at (4.532989893531166, 0.03985851572640642) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 16311917999.999996
+energy_consumed: 48949398866.0376
+Still need these calories of energy: 32637480866.0376
+Energy got: 40882000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 66977.4632342869
+=======================
+Iteration: 121
+Delta Energy this round: 868467101.157927
+Nearest point Cattle at (4.784911463702784, 0.23039909082133825) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 16687476749.999996
+energy_consumed: 49022181764.8796
+Still need these calories of energy: 32334705014.8796
+Energy got: 41823250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 29493.0108240766
+=======================
+Iteration: 122
+Delta Energy this round: 94619160.8489709
+Nearest point Sheep at (4.767303313656296, 0.27209143441619843) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 16728673499.999996
+energy_consumed: 49030812604.0307
+Still need these calories of energy: 32302139104.0307
+Energy got: 41926500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4225.86222600165
+=======================
+Iteration: 123
+Delta Energy this round: 94582006.7404563
+Nearest point Sheep at (4.48302517371622, 0.6120717180360613) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 16769870249.999996
+energy_consumed: 49039480597.2902
+Still need these calories of energy: 32269610347.2902
+Energy got: 42029750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 41379.9707405692
+=======================
+Iteration: 124
+Delta Energy this round: 868483413.525149
+Nearest point Cattle at (4.54704027205053, 0.7378842237595717) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17145428999.999996
+energy_consumed: 49112247183.7650
+Still need these calories of energy: 31966818183.7650
+Energy got: 42971000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13180.6436021366
+=======================
+Iteration: 125
+Delta Energy this round: 94612343.0923634
+Nearest point Sheep at (4.43835028146421, 0.7845258861567139) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17186625749.999996
+energy_consumed: 49120884840.6727
+Still need these calories of energy: 31934259090.6727
+Energy got: 43074250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11043.6188334544
+=======================
+Iteration: 126
+Delta Energy this round: 94617764.2908155
+Nearest point Sheep at (4.416124774683653, 0.840489012910749) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17227822499.999996
+energy_consumed: 49129517076.3819
+Still need these calories of energy: 31901694576.3819
+Energy got: 43177500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 5622.42038141678
+=======================
+Iteration: 127
+Delta Energy this round: 94600507.6645124
+Nearest point Sheep at (4.374730878084393, 1.081997257978371) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17269019249.999996
+energy_consumed: 49138166568.7174
+Still need these calories of energy: 31869147318.7174
+Energy got: 43280750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22879.0466845115
+=======================
+Iteration: 128
+Delta Energy this round: 94591298.9945676
+Nearest point Sheep at (4.717716152410977, 1.1034090339679137) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17310215999.999996
+energy_consumed: 49146825269.7228
+Still need these calories of energy: 31836609269.7228
+Energy got: 43384000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 32087.7166292703
+=======================
+Iteration: 129
+Delta Energy this round: 94613368.6764789
+Nearest point Sheep at (4.761112364785297, 1.2015321977070126) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17351412749.999996
+energy_consumed: 49155461901.0463
+Still need these calories of energy: 31804049151.0463
+Energy got: 43487250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10018.0347179297
+=======================
+Iteration: 130
+Delta Energy this round: 94603127.9425772
+Nearest point Sheep at (4.91420659638579, 1.0477889852830757) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17392609499.999996
+energy_consumed: 49164108773.1037
+Still need these calories of energy: 31771499273.1037
+Energy got: 43590500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20258.7686196812
+=======================
+Iteration: 131
+Delta Energy this round: 94613714.0203558
+Nearest point Sheep at (4.840109784283593, 0.9753936659188001) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17433806249.999996
+energy_consumed: 49172745059.0834
+Still need these calories of energy: 31738938809.0834
+Energy got: 43693750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9672.69084105466
+=======================
+Iteration: 132
+Delta Energy this round: 94618855.3589928
+Nearest point Sheep at (4.798629426581039, 0.9502038274921909) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17475002999.999996
+energy_consumed: 49181376203.7244
+Still need these calories of energy: 31706373203.7244
+Energy got: 43797000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4531.35220408836
+=======================
+Iteration: 133
+Delta Energy this round: 94585250.4456811
+Nearest point Sheep at (5.207002345658789, 0.943274373419879) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17516199749.999996
+energy_consumed: 49190040953.2787
+Still need these calories of energy: 31673841203.2787
+Energy got: 43900250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 38136.2655158262
+=======================
+Iteration: 134
+Delta Energy this round: 868487992.604114
+Nearest point Cattle at (5.277693680922621, 0.8842064664388105) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17891758499.999996
+energy_consumed: 49262802960.6746
+Still need these calories of energy: 31371044460.6746
+Energy got: 44841500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 8601.56463658197
+=======================
+Iteration: 135
+Delta Energy this round: 94601661.8286733
+Nearest point Sheep at (5.133151718140495, 0.7018811138620784) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17932955249.999996
+energy_consumed: 49271451298.8459
+Still need these calories of energy: 31338496048.8459
+Energy got: 44944750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21724.8825235324
+=======================
+Iteration: 136
+Delta Energy this round: 94591778.0168704
+Nearest point Sheep at (5.399961826910152, 0.4935304271119556) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 17974151999.999996
+energy_consumed: 49280109520.8290
+Still need these calories of energy: 31305957520.8291
+Energy got: 45048000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31608.6943264962
+=======================
+Iteration: 137
+Delta Energy this round: 94604945.4296853
+Nearest point Sheep at (5.584980665299479, 0.4244273990847902) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18015348749.999996
+energy_consumed: 49288754575.3994
+Still need these calories of energy: 31273405825.3994
+Energy got: 45151250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18441.2815115258
+=======================
+Iteration: 138
+Delta Energy this round: 868471600.874078
+Nearest point Cattle at (5.501386626718157, 0.17014223011221685) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18390907499.999996
+energy_consumed: 49361532974.5253
+Still need these calories of energy: 30970625474.5253
+Energy got: 46092500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 24993.2946731677
+=======================
+Iteration: 139
+Delta Energy this round: 94616088.7653975
+Nearest point Sheep at (5.460093892752285, 0.10378093346764872) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18432104249.999996
+energy_consumed: 49370166885.7599
+Still need these calories of energy: 30938062635.7599
+Energy got: 46195750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7297.94579937080
+=======================
+Iteration: 140
+Delta Energy this round: 94568649.7929517
+Nearest point Sheep at (6.030105375582192, 0.2406837299605813) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18473300999.999996
+energy_consumed: 49378848235.9669
+Still need these calories of energy: 30905547235.9669
+Energy got: 46299000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 54736.9182452172
+=======================
+Iteration: 141
+Delta Energy this round: 94600965.8027858
+Nearest point Sheep at (6.258009249909229, 0.1650591774571908) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18514497749.999996
+energy_consumed: 49387497270.1641
+Still need these calories of energy: 30872999520.1641
+Energy got: 46402250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22420.9084110543
+=======================
+Iteration: 142
+Delta Energy this round: 94599764.6589138
+Nearest point Sheep at (6.498686399178285, 0.0871031618233431) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18555694499.999996
+energy_consumed: 49396147505.5052
+Still need these calories of energy: 30840453005.5052
+Energy got: 46505500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23622.0522830762
+=======================
+Iteration: 143
+Delta Energy this round: 868479315.549731
+Nearest point Cattle at (6.547802649686768, 0.26551641704059326) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 18931253249.999996
+energy_consumed: 49468918189.9555
+Still need these calories of energy: 30537664939.9555
+Energy got: 47446750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 17278.6190202684
+=======================
+Iteration: 144
+Delta Energy this round: 868459260.636671
+Nearest point Cattle at (6.4484653138306856, 0.6528144874151776) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19306811999.999996
+energy_consumed: 49541708929.3188
+Still need these calories of energy: 30234896929.3188
+Energy got: 48388000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 37333.5320798325
+=======================
+Iteration: 145
+Delta Energy this round: 94596156.0996576
+Nearest point Sheep at (6.499481709607226, 0.9399519514764776) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19348008749.999996
+energy_consumed: 49550362773.2192
+Still need these calories of energy: 30202354023.2192
+Energy got: 48491250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27230.6115392634
+=======================
+Iteration: 146
+Delta Energy this round: 94593084.9365668
+Nearest point Sheep at (6.641629316999854, 1.231690037639681) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19389205499.999996
+energy_consumed: 49559019688.2826
+Still need these calories of energy: 30169814188.2826
+Energy got: 48594500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30301.7746300590
+=======================
+Iteration: 147
+Delta Energy this round: 94619276.3826712
+Nearest point Sheep at (6.6789332142160305, 1.2550620102280863) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19430402249.999996
+energy_consumed: 49567650411.8999
+Still need these calories of energy: 30137248161.8999
+Energy got: 48697750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4110.32852562791
+=======================
+Iteration: 148
+Delta Energy this round: 868484602.349950
+Nearest point Cattle at (6.653949620302285, 1.3810384935777387) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19805960999.999996
+energy_consumed: 49640415809.5500
+Still need these calories of energy: 29834454809.5500
+Energy got: 49639000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 11991.8188013608
+=======================
+Iteration: 149
+Delta Energy this round: 94606213.8422658
+Nearest point Sheep at (6.830153752312473, 1.328332518191384) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19847157749.999996
+energy_consumed: 49649059595.7077
+Still need these calories of energy: 29801901845.7077
+Energy got: 49742250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17172.8689310642
+=======================
+Iteration: 150
+Delta Energy this round: 94612696.9873617
+Nearest point Sheep at (6.828542238889794, 1.442805960175535) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19888354499.999996
+energy_consumed: 49657696898.7204
+Still need these calories of energy: 29769342398.7204
+Energy got: 49845500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10689.7238351814
+=======================
+Iteration: 151
+Delta Energy this round: 94600876.7008406
+Nearest point Sheep at (6.73048692591702, 1.663041282632639) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19929551249.999996
+energy_consumed: 49666346022.0195
+Still need these calories of energy: 29736794772.0195
+Energy got: 49948750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22510.0103562577
+=======================
+Iteration: 152
+Delta Energy this round: 94604111.9349490
+Nearest point Sheep at (6.528431811571872, 1.6207725289818398) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 19970747999.999996
+energy_consumed: 49674991910.0846
+Still need these calories of energy: 29704243910.0846
+Energy got: 50052000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19274.7762478309
+=======================
+Iteration: 153
+Delta Energy this round: 868493377.887622
+Nearest point Cattle at (6.51134554353343, 1.650681845043812) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20346306749.999996
+energy_consumed: 49747748532.1969
+Still need these calories of energy: 29401441782.1969
+Energy got: 50993250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 3216.28112938543
+=======================
+Iteration: 154
+Delta Energy this round: 94608779.3693729
+Nearest point Sheep at (6.384062366107283, 1.5597258515565937) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20387503499.999996
+energy_consumed: 49756389752.8276
+Still need these calories of energy: 29368886252.8276
+Energy got: 51096500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14607.3418239329
+=======================
+Iteration: 155
+Delta Energy this round: 94606237.7734547
+Nearest point Sheep at (6.398385404413625, 1.3766235398395432) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20428700249.999996
+energy_consumed: 49765033515.0541
+Still need these calories of energy: 29336333265.0541
+Energy got: 51199750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17148.9377421396
+=======================
+Iteration: 156
+Delta Energy this round: 868477630.054047
+Nearest point Cattle at (6.266684523246223, 1.2220103594604792) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20804258999.999996
+energy_consumed: 49837805885.0001
+Still need these calories of energy: 29033546885.0001
+Energy got: 52141000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18964.1147040788
+=======================
+Iteration: 157
+Delta Energy this round: 94609847.6940434
+Nearest point Sheep at (6.1470712748474075, 1.3039720069490823) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20845455749.999996
+energy_consumed: 49846446037.3060
+Still need these calories of energy: 29000990287.3060
+Energy got: 52244250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13539.0171534485
+=======================
+Iteration: 158
+Delta Energy this round: 94599976.9289855
+Nearest point Sheep at (5.938669252129825, 1.1645943620516663) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20886652499.999996
+energy_consumed: 49855096060.3770
+Still need these calories of energy: 28968443560.3770
+Energy got: 52347500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23409.7822113814
+=======================
+Iteration: 159
+Delta Energy this round: 94603145.0985345
+Nearest point Sheep at (6.0292278214921335, 0.967631754916114) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20927849249.999996
+energy_consumed: 49863742915.2785
+Still need these calories of energy: 28935893665.2785
+Energy got: 52450750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20241.6126623775
+=======================
+Iteration: 160
+Delta Energy this round: 94617801.3844784
+Nearest point Sheep at (6.077090340802155, 0.9317522470916395) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 20969045999.999996
+energy_consumed: 49872375113.8940
+Still need these calories of energy: 28903329113.8940
+Energy got: 52554000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 5585.32671851003
+=======================
+Iteration: 161
+Delta Energy this round: 868461033.292371
+Nearest point Cattle at (5.745998856761912, 0.7435369301978301) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21344604749.999996
+energy_consumed: 49945164080.6016
+Still need these calories of energy: 28600559330.6016
+Energy got: 53495250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 35560.8763804499
+=======================
+Iteration: 162
+Delta Energy this round: 94609273.5786921
+Nearest point Sheep at (5.66688348435286, 0.8723263618660682) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21385801499.999996
+energy_consumed: 49953804807.0229
+Still need these calories of energy: 28568003307.0230
+Energy got: 53598500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14113.1325047660
+=======================
+Iteration: 163
+Delta Energy this round: 94568207.0569156
+Nearest point Sheep at (5.394097892862385, 1.3965641327374145) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21426998249.999996
+energy_consumed: 49962486599.9660
+Still need these calories of energy: 28535488349.9660
+Energy got: 53701750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 55179.6542812724
+=======================
+Iteration: 164
+Delta Energy this round: 94597144.6001604
+Nearest point Sheep at (5.2644496292607945, 1.6459215956292161) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21468194999.999996
+energy_consumed: 49971139455.3659
+Still need these calories of energy: 28502944455.3659
+Energy got: 53805000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26242.1110364333
+=======================
+Iteration: 165
+Delta Energy this round: 94603469.5597572
+Nearest point Sheep at (5.186201472842084, 1.8443600380177494) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21509391749.999996
+energy_consumed: 49979785985.8061
+Still need these calories of energy: 28470394235.8061
+Energy got: 53908250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19917.1514396782
+=======================
+Iteration: 166
+Delta Energy this round: 94596840.3873667
+Nearest point Sheep at (4.913081216134597, 1.9233226630274447) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21550588499.999996
+energy_consumed: 49988439145.4188
+Still need these calories of energy: 28437850645.4188
+Energy got: 54011500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26546.3238301307
+=======================
+Iteration: 167
+Delta Energy this round: 94606783.3573575
+Nearest point Sheep at (4.736288777694533, 1.9423982212317281) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21591785249.999996
+energy_consumed: 49997082362.0614
+Still need these calories of energy: 28405297112.0614
+Energy got: 54114750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16603.3538393900
+=======================
+Iteration: 168
+Delta Energy this round: 94606227.3119789
+Nearest point Sheep at (4.780467024214409, 2.1207827947895384) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21632981999.999996
+energy_consumed: 50005726134.7494
+Still need these calories of energy: 28372744134.7494
+Energy got: 54218000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17159.3992180107
+=======================
+Iteration: 169
+Delta Energy this round: 94598183.7402596
+Nearest point Sheep at (4.525693448891425, 2.209926201422774) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 21674178749.999996
+energy_consumed: 50014377951.0092
+Still need these calories of energy: 28340199201.0092
+Energy got: 54321250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25202.9709372525
+=======================
+Iteration: 170
+Delta Energy this round: 868480692.416800
+Nearest point Cattle at (4.56055349679504, 2.3766247858405496) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22049737499.999996
+energy_consumed: 50087147258.5924
+Still need these calories of energy: 28037409758.5924
+Energy got: 55262500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 15901.7519507140
+=======================
+Iteration: 171
+Delta Energy this round: 94596342.7226543
+Nearest point Sheep at (4.751235204369296, 2.5946369438827634) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22090934249.999996
+energy_consumed: 50095800915.8697
+Still need these calories of energy: 28004866665.8697
+Energy got: 55365750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27043.9885425295
+=======================
+Iteration: 172
+Delta Energy this round: 94604148.5015422
+Nearest point Sheep at (4.766627525173229, 2.8000985286891966) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22132130999.999996
+energy_consumed: 50104446767.3682
+Still need these calories of energy: 27972315767.3682
+Energy got: 55469000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19238.2096547162
+=======================
+Iteration: 173
+Delta Energy this round: 868472711.498469
+Nearest point Cattle at (4.908936760848296, 3.012632672797415) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22507689749.999996
+energy_consumed: 50177224055.8697
+Still need these calories of energy: 27669534305.8697
+Energy got: 56410250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 23882.6702821389
+=======================
+Iteration: 174
+Delta Energy this round: 94598157.7271958
+Nearest point Sheep at (5.1790957103030335, 3.0171864744558317) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22548886499.999996
+energy_consumed: 50185875898.1425
+Still need these calories of energy: 27636989398.1425
+Energy got: 56513500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25228.9840010783
+=======================
+Iteration: 175
+Delta Energy this round: 94601993.8125778
+Nearest point Sheep at (5.383540437049801, 2.9137678719122597) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22590083249.999996
+energy_consumed: 50194523904.3299
+Still need these calories of energy: 27604440654.3299
+Energy got: 56616750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21392.8986190423
+=======================
+Iteration: 176
+Delta Energy this round: 868493004.270192
+Nearest point Cattle at (5.401136944236788, 2.9479518094220722) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 22965641999.999996
+energy_consumed: 50267280900.0597
+Still need these calories of energy: 27301638900.0597
+Energy got: 57558000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 3589.89855942740
+=======================
+Iteration: 177
+Delta Energy this round: 94606288.3423042
+Nearest point Sheep at (5.346010655529325, 2.773326336410972) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 23006838749.999996
+energy_consumed: 50275924611.7174
+Still need these calories of energy: 27269085861.7174
+Energy got: 57661250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17098.3688926925
+=======================
+Iteration: 178
+Delta Energy this round: 868483755.007930
+Nearest point Cattle at (5.468734202706581, 2.7113061242571423) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 23382397499.999996
+energy_consumed: 50348690856.7095
+Still need these calories of energy: 26966293356.7095
+Energy got: 58602500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 12839.1608212242
+=======================
+Iteration: 179
+Delta Energy this round: 94614108.3488215
+Nearest point Sheep at (5.53633198116168, 2.7841402897311065) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 23423594249.999996
+energy_consumed: 50357326748.3607
+Still need these calories of energy: 26933732498.3607
+Energy got: 58705750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9278.36237534128
+=======================
+Iteration: 180
+Delta Energy this round: 868480107.526724
+Nearest point Cattle at (5.586564201482958, 2.9534128435477713) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 23799152999.999996
+energy_consumed: 50430096640.8339
+Still need these calories of energy: 26630943640.8339
+Energy got: 59647000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 16486.6420275161
+=======================
+Iteration: 181
+Delta Energy this round: 94600027.1321983
+Nearest point Sheep at (5.4682125267791335, 3.1738240505658144) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 23840349749.999996
+energy_consumed: 50438746613.7017
+Still need these calories of energy: 26598396863.7017
+Energy got: 59750250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23359.5789985888
+=======================
+Iteration: 182
+Delta Energy this round: 94619441.1138504
+Nearest point Sheep at (5.464931703559378, 3.2159530466990836) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 23881546499.999996
+energy_consumed: 50447377172.5879
+Still need these calories of energy: 26565830672.5879
+Energy got: 59853500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3945.59734645684
+=======================
+Iteration: 183
+Delta Energy this round: 868474824.094283
+Nearest point Cattle at (5.338708285087748, 3.4119837029535036) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24257105250.0
+energy_consumed: 50520152348.4936
+Still need these calories of energy: 26263047098.4936
+Energy got: 60794750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21770.0744675449
+=======================
+Iteration: 184
+Delta Energy this round: 94603858.1782887
+Nearest point Sheep at (5.408377851311704, 3.6091853026325103) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24298302000.0
+energy_consumed: 50528798490.3153
+Still need these calories of energy: 26230496490.3153
+Energy got: 60898000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19528.5329082212
+=======================
+Iteration: 185
+Delta Energy this round: 94612406.2722843
+Nearest point Sheep at (5.325587579242016, 3.692702530400714) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24339498750.0
+energy_consumed: 50537436084.0430
+Still need these calories of energy: 26197937334.0430
+Energy got: 61001250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10980.4389125885
+=======================
+Iteration: 186
+Delta Energy this round: 94603460.2668141
+Nearest point Sheep at (5.112186870850838, 3.69091471401482) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24380695500.0
+energy_consumed: 50546082623.7762
+Still need these calories of energy: 26165387123.7762
+Energy got: 61104500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19926.4443827596
+=======================
+Iteration: 187
+Delta Energy this round: 94591811.1013088
+Nearest point Sheep at (5.1352345737468985, 4.02829680573559) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24421892250.0
+energy_consumed: 50554740812.6749
+Still need these calories of energy: 26132848562.6749
+Energy got: 61207750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31575.6098880378
+=======================
+Iteration: 188
+Delta Energy this round: 94613694.9929907
+Nearest point Sheep at (5.237934095399631, 4.013247233095355) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24463089000.0
+energy_consumed: 50563377117.6819
+Still need these calories of energy: 26100288117.6819
+Energy got: 61311000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9691.71820614157
+=======================
+Iteration: 189
+Delta Energy this round: 94600828.7713414
+Nearest point Sheep at (5.469504170225087, 3.9443886585412944) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24504285750.0
+energy_consumed: 50572026288.9106
+Still need these calories of energy: 26067740538.9106
+Energy got: 61414250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22557.9398554441
+=======================
+Iteration: 190
+Delta Energy this round: 94616907.3515177
+Nearest point Sheep at (5.4924808590874274, 4.009866971477964) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24545482500.0
+energy_consumed: 50580659381.5591
+Still need these calories of energy: 26035176881.5591
+Energy got: 61517500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6479.35967916739
+=======================
+Iteration: 191
+Delta Energy this round: 94603122.8803653
+Nearest point Sheep at (5.5744084127415325, 4.210830211624785) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24586679250.0
+energy_consumed: 50589306258.6787
+Still need these calories of energy: 26002627008.6787
+Energy got: 61620750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20263.8308315906
+=======================
+Iteration: 192
+Delta Energy this round: 94618529.8655097
+Nearest point Sheep at (5.611127165448605, 4.247672856670873) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24627876000.0
+energy_consumed: 50597937728.8132
+Still need these calories of energy: 25970061728.8132
+Energy got: 61724000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4856.84568719284
+=======================
+Iteration: 193
+Delta Energy this round: 94618720.9619176
+Nearest point Sheep at (5.578684495623092, 4.285678085539043) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 24669072750.0
+energy_consumed: 50606569007.8513
+Still need these calories of energy: 25937496257.8513
+Energy got: 61827250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4665.74927928368
+=======================
+Iteration: 194
+Delta Energy this round: 868483045.271049
+Nearest point Cattle at (5.697184049902466, 4.201930875848394) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25044631500.0
+energy_consumed: 50679335962.5802
+Still need these calories of energy: 25634704462.5802
+Energy got: 62768500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13548.8977016901
+=======================
+Iteration: 195
+Delta Energy this round: 94612252.2230454
+Nearest point Sheep at (5.74723871522524, 4.310165088315792) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25085828250.0
+energy_consumed: 50687973710.3572
+Still need these calories of energy: 25602145460.3572
+Energy got: 62871750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11134.4881515086
+=======================
+Iteration: 196
+Delta Energy this round: 94595069.4863316
+Nearest point Sheep at (5.88815366576897, 4.578710687113611) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25127025000.0
+energy_consumed: 50696628640.8708
+Still need these calories of energy: 25569603640.8708
+Energy got: 62975000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 28317.2248652407
+=======================
+Iteration: 197
+Delta Energy this round: 868465402.294541
+Nearest point Cattle at (6.118155888138106, 4.820979498968164) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25502583750.0
+energy_consumed: 50769413238.5763
+Still need these calories of energy: 25266829488.5763
+Energy got: 63916250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 31191.8742100508
+=======================
+Iteration: 198
+Delta Energy this round: 94611114.8180325
+Nearest point Sheep at (6.249542104047265, 4.824352242820307) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25543780500.0
+energy_consumed: 50778052123.7583
+Still need these calories of energy: 25234271623.7583
+Energy got: 64019500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12271.8931644033
+=======================
+Iteration: 199
+Delta Energy this round: 94598879.1047678
+Nearest point Sheep at (6.258324662655754, 5.086676783089547) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25584977250.0
+energy_consumed: 50786703244.6535
+Still need these calories of energy: 25201725994.6535
+Energy got: 64122750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24507.6064291141
+=======================
+Iteration: 200
+Delta Energy this round: 868474657.196891
+Nearest point Cattle at (6.20931220942553, 5.316448054289655) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 25960536000.0
+energy_consumed: 50859478587.4566
+Still need these calories of energy: 24898942587.4566
+Energy got: 65064000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21936.9718599076
+=======================
+Iteration: 201
+Delta Energy this round: 868471892.935043
+Nearest point Cattle at (6.01491490543571, 5.495874544447083) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26336094750.0
+energy_consumed: 50932256694.5216
+Still need these calories of energy: 24596161944.5216
+Energy got: 66005250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 24701.2337079130
+=======================
+Iteration: 202
+Delta Energy this round: 94594297.7456766
+Nearest point Sheep at (6.285786388041182, 5.649770322754311) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26377291500.0
+energy_consumed: 50940912396.7759
+Still need these calories of energy: 24563620896.7759
+Energy got: 66108500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 29088.9655202773
+=======================
+Iteration: 203
+Delta Energy this round: 94609319.9330465
+Nearest point Sheep at (6.255463430813858, 5.797339459826819) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26418488250.0
+energy_consumed: 50949553076.8428
+Still need these calories of energy: 24531064826.8428
+Energy got: 66211750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14066.7781503632
+=======================
+Iteration: 204
+Delta Energy this round: 94611555.1246206
+Nearest point Sheep at (6.1288734729044325, 5.802942675963579) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26459685000.0
+energy_consumed: 50958191521.7182
+Still need these calories of energy: 24498506521.7182
+Energy got: 66315000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11831.5865762838
+=======================
+Iteration: 205
+Delta Energy this round: 94589076.4982999
+Nearest point Sheep at (6.247612651635751, 6.1506847047229165) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26500881750.0
+energy_consumed: 50966852445.2199
+Still need these calories of energy: 24465970695.2199
+Energy got: 66418250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 34310.2128970007
+=======================
+Iteration: 206
+Delta Energy this round: 94593531.6747172
+Nearest point Sheep at (6.564356148296606, 6.19436684580085) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26542078500.0
+energy_consumed: 50975508913.5452
+Still need these calories of energy: 24433430413.5452
+Energy got: 66521500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 29855.0364796635
+=======================
+Iteration: 207
+Delta Energy this round: 94602392.3585842
+Nearest point Sheep at (6.625635651192847, 6.4107004352266195) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26583275250.0
+energy_consumed: 50984156521.1866
+Still need these calories of energy: 24400881271.1866
+Energy got: 66624750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20994.3526126646
+=======================
+Iteration: 208
+Delta Energy this round: 94613988.1187321
+Nearest point Sheep at (6.627081752617896, 6.511347075090108) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26624472000.0
+energy_consumed: 50992792533.0679
+Still need these calories of energy: 24368320533.0679
+Energy got: 66728000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9398.59246481613
+=======================
+Iteration: 209
+Delta Energy this round: 94608568.8542003
+Nearest point Sheep at (6.724428030998418, 6.6366794500586215) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26665668750.0
+energy_consumed: 51001433964.2137
+Still need these calories of energy: 24335765214.2137
+Energy got: 66831250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14817.8569965505
+=======================
+Iteration: 210
+Delta Energy this round: 94610692.8906697
+Nearest point Sheep at (6.6319490745826615, 6.736326681940103) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 26706865500.0
+energy_consumed: 51010073271.3230
+Still need these calories of energy: 24303207771.3230
+Energy got: 66934500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12693.8205271696
+=======================
+Iteration: 211
+Delta Energy this round: 868487232.264843
+Nearest point Cattle at (6.6557637181510065, 6.833721511030305) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 27082424250.0
+energy_consumed: 51082836039.0582
+Still need these calories of energy: 24000411789.0582
+Energy got: 67875750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 9361.90390840441
+=======================
+Iteration: 212
+Delta Energy this round: 94619246.7314115
+Nearest point Sheep at (6.6972092584473994, 6.817968534188412) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 27123621000.0
+energy_consumed: 51091466792.3268
+Still need these calories of energy: 23967845792.3268
+Energy got: 67979000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4139.97978533789
+=======================
+Iteration: 213
+Delta Energy this round: 94603612.5463348
+Nearest point Sheep at (6.809741355325423, 6.997373545291747) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 27164817750.0
+energy_consumed: 51100113179.7804
+Still need these calories of energy: 23935295429.7804
+Energy got: 68082250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19774.1648620187
+=======================
+Iteration: 214
+Delta Energy this round: 868472039.370050
+Nearest point Cattle at (6.808714673491851, 7.260348478867163) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 27540376500.0
+energy_consumed: 51172891140.4104
+Still need these calories of energy: 23632514640.4104
+Energy got: 69023500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 24554.7987005236
+=======================
+Iteration: 215
+Delta Energy this round: 868475556.041038
+Nearest point Cattle at (6.584847232426922, 7.234857047763276) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 27915935250.0
+energy_consumed: 51245665584.3693
+Still need these calories of energy: 23329730334.3693
+Energy got: 69964750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21038.1277127544
+=======================
+Iteration: 216
+Delta Energy this round: 868465592.107231
+Nearest point Cattle at (6.28617335197783, 7.089822365611836) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 28291494000.0
+energy_consumed: 51318449992.2621
+Still need these calories of energy: 23026955992.2621
+Energy got: 70906000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 31002.0615195113
+=======================
+Iteration: 217
+Delta Energy this round: 868487904.197584
+Nearest point Cattle at (6.271556696470371, 6.99790949551131) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 28667052750.0
+energy_consumed: 51391212088.0645
+Still need these calories of energy: 22724159338.0645
+Energy got: 71847250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 8689.97116706548
+=======================
+Iteration: 218
+Delta Energy this round: 94617013.4254719
+Nearest point Sheep at (6.240931527954629, 6.9369089791377565) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 28708249500.0
+energy_consumed: 51399845074.6390
+Still need these calories of energy: 22691595574.6390
+Energy got: 71950500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6373.28572500453
+=======================
+Iteration: 219
+Delta Energy this round: 868487897.469383
+Nearest point Cattle at (6.333287504028936, 6.924850219326707) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29083808250.0
+energy_consumed: 51472607177.1697
+Still need these calories of energy: 22388798927.1697
+Energy got: 72891750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 8696.69936822494
+=======================
+Iteration: 220
+Delta Energy this round: 94587928.9855597
+Nearest point Sheep at (5.992621013962742, 7.092637798443061) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29125005000.0
+energy_consumed: 51481269248.1841
+Still need these calories of energy: 22356264248.1841
+Energy got: 72995000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 35457.7256372023
+=======================
+Iteration: 221
+Delta Energy this round: 94615056.3951502
+Nearest point Sheep at (5.915292774508201, 7.137133176218493) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29166201750.0
+energy_consumed: 51489904191.7889
+Still need these calories of energy: 22323702441.7889
+Energy got: 73098250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8330.31604663162
+=======================
+Iteration: 222
+Delta Energy this round: 94603252.4062793
+Nearest point Sheep at (6.102221851990523, 7.244630568064977) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29207398500.0
+energy_consumed: 51498550939.3827
+Still need these calories of energy: 22291152439.3827
+Energy got: 73201500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20134.3049176185
+=======================
+Iteration: 223
+Delta Energy this round: 94578404.9272587
+Nearest point Sheep at (5.625779120656614, 7.173346874054629) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29248595250.0
+energy_consumed: 51507222534.4554
+Still need these calories of energy: 22258627284.4554
+Energy got: 73304750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 44981.7839381401
+=======================
+Iteration: 224
+Delta Energy this round: 94613070.0983259
+Nearest point Sheep at (5.578457288550456, 7.27318889070891) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29289792000.0
+energy_consumed: 51515859464.3571
+Still need these calories of energy: 22226067464.3571
+Energy got: 73408000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10316.6128709712
+=======================
+Iteration: 225
+Delta Energy this round: 868471114.547086
+Nearest point Cattle at (5.309752953091006, 7.225624718901345) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29665350750.0
+energy_consumed: 51588638349.8100
+Still need these calories of energy: 21923287599.8100
+Energy got: 74349250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 25479.6216647376
+=======================
+Iteration: 226
+Delta Energy this round: 94613918.6380306
+Nearest point Sheep at (5.272240267193704, 7.131417542307863) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29706547500.0
+energy_consumed: 51597274431.1720
+Still need these calories of energy: 21890726931.1720
+Energy got: 74452500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9468.07316626440
+=======================
+Iteration: 227
+Delta Energy this round: 94612245.4943831
+Nearest point Sheep at (5.15959996812351, 7.092054245313642) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29747744250.0
+energy_consumed: 51605912185.6776
+Still need these calories of energy: 21858167935.6776
+Energy got: 74555750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11141.2168138171
+=======================
+Iteration: 228
+Delta Energy this round: 94610645.1588890
+Nearest point Sheep at (5.023903511833947, 7.077644035181353) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29788941000.0
+energy_consumed: 51614551540.5187
+Still need these calories of energy: 21825610540.5187
+Energy got: 74659000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12741.5523078543
+=======================
+Iteration: 229
+Delta Energy this round: 94612298.2231095
+Nearest point Sheep at (5.0306127863277075, 7.196209827476764) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 29830137750.0
+energy_consumed: 51623189242.2956
+Still need these calories of energy: 21793051492.2956
+Energy got: 74762250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11088.4880873788
+=======================
+Iteration: 230
+Delta Energy this round: 868472961.340672
+Nearest point Cattle at (4.838435762414014, 7.031500907914975) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30205696499.999996
+energy_consumed: 51695966280.9549
+Still need these calories of energy: 21490269780.9549
+Energy got: 75703500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 23632.8280785127
+=======================
+Iteration: 231
+Delta Energy this round: 94612183.3954449
+Nearest point Sheep at (4.71850278267047, 7.035042187860361) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30246893249.999996
+energy_consumed: 51704604097.5595
+Still need these calories of energy: 21457710847.5595
+Energy got: 75806750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11203.3157519393
+=======================
+Iteration: 232
+Delta Energy this round: 94609927.2265302
+Nearest point Sheep at (4.758869863291255, 6.896661374007977) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30288089999.999996
+energy_consumed: 51713244170.3329
+Still need these calories of energy: 21425154170.3329
+Energy got: 75910000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13459.4846666674
+=======================
+Iteration: 233
+Delta Energy this round: 94616384.5842897
+Nearest point Sheep at (4.719150875273649, 6.833052357860501) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30329286749.999996
+energy_consumed: 51721877785.7486
+Still need these calories of energy: 21392591035.7486
+Energy got: 76013250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7002.12690718099
+=======================
+Iteration: 234
+Delta Energy this round: 94621628.4102734
+Nearest point Sheep at (4.732636066329361, 6.819908614476806) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30370483499.999996
+energy_consumed: 51730506157.3384
+Still need these calories of energy: 21360022657.3384
+Energy got: 76116500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1758.30092346728
+=======================
+Iteration: 235
+Delta Energy this round: 94602561.4387350
+Nearest point Sheep at (4.940470128190273, 6.900836823909319) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30411680249.999996
+energy_consumed: 51739153595.8996
+Still need these calories of energy: 21327473345.8996
+Energy got: 76219750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20825.2724618998
+=======================
+Iteration: 236
+Delta Energy this round: 94597952.2744388
+Nearest point Sheep at (5.2108154137815665, 6.934212333929873) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30452876999.999996
+energy_consumed: 51747805643.6252
+Still need these calories of energy: 21294928643.6252
+Energy got: 76323000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25434.4367580936
+=======================
+Iteration: 237
+Delta Energy this round: 94614587.6419644
+Nearest point Sheep at (5.305051109561121, 6.934537096962363) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30494073749.999996
+energy_consumed: 51756441055.9832
+Still need these calories of energy: 21262367305.9832
+Energy got: 76426250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8799.06923249075
+=======================
+Iteration: 238
+Delta Energy this round: 868478556.487937
+Nearest point Cattle at (5.497627184469639, 6.919274819802724) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 30869632499.999996
+energy_consumed: 51829212499.4953
+Still need these calories of energy: 20959579999.4953
+Energy got: 77367500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18037.6808142978
+=======================
+Iteration: 239
+Delta Energy this round: 868463738.927355
+Nearest point Cattle at (5.206483092490623, 6.7216647787553825) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31245191249.999992
+energy_consumed: 51901998760.5679
+Still need these calories of energy: 20656807510.5679
+Energy got: 78308750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 32855.2413963381
+=======================
+Iteration: 240
+Delta Energy this round: 94607044.7213790
+Nearest point Sheep at (5.273175390396255, 6.5598502797435465) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31286387999.999992
+energy_consumed: 51910641715.8465
+Still need these calories of energy: 20624253715.8465
+Energy got: 78412000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16341.9898178851
+=======================
+Iteration: 241
+Delta Energy this round: 94583019.2828768
+Nearest point Sheep at (5.686552370958378, 6.433255987664506) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31327584749.999992
+energy_consumed: 51919308696.5637
+Still need these calories of energy: 20591723946.5637
+Energy got: 78515250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 40367.4283200415
+=======================
+Iteration: 242
+Delta Energy this round: 94613071.1870249
+Nearest point Sheep at (5.771209063109252, 6.504238042789075) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31368781499.999992
+energy_consumed: 51927945625.3766
+Still need these calories of energy: 20559164125.3766
+Energy got: 78618500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10315.5241719632
+=======================
+Iteration: 243
+Delta Energy this round: 94597103.4737007
+Nearest point Sheep at (5.884182612786924, 6.762060784179581) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31409978249.999992
+energy_consumed: 51936598521.9029
+Still need these calories of energy: 20526620271.9029
+Energy got: 78721750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26283.2374961656
+=======================
+Iteration: 244
+Delta Energy this round: 94576205.5697238
+Nearest point Sheep at (6.327608738374727, 6.519776100092336) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31451174999.999992
+energy_consumed: 51945272316.3332
+Still need these calories of energy: 20494097316.3332
+Energy got: 78825000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 47181.1414730627
+=======================
+Iteration: 245
+Delta Energy this round: 94580477.0758212
+Nearest point Sheep at (6.7858092809603665, 6.4845381518202085) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31492371749.999992
+energy_consumed: 51953941839.2574
+Still need these calories of energy: 20461570089.2574
+Energy got: 78928250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 42909.6353756875
+=======================
+Iteration: 246
+Delta Energy this round: 94610110.2229066
+Nearest point Sheep at (6.795707804667951, 6.342694605866667) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31533568499.999992
+energy_consumed: 51962581729.0345
+Still need these calories of energy: 20429013229.0345
+Energy got: 79031500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13276.4882902230
+=======================
+Iteration: 247
+Delta Energy this round: 868487268.348127
+Nearest point Cattle at (6.895110983518379, 6.332970702475591) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31909127249.999992
+energy_consumed: 52035344460.6864
+Still need these calories of energy: 20126217210.6864
+Energy got: 79972750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 9325.82062443505
+=======================
+Iteration: 248
+Delta Energy this round: 94599070.4698517
+Nearest point Sheep at (6.9646120390914925, 6.583947275907711) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 31950323999.999992
+energy_consumed: 52043995390.2165
+Still need these calories of energy: 20093671390.2165
+Energy got: 80076000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24316.2413451997
+=======================
+Iteration: 249
+Delta Energy this round: 868477257.205127
+Nearest point Cattle at (7.160037900628326, 6.515412159039115) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32325882749.999992
+energy_consumed: 52116768133.0114
+Still need these calories of energy: 19790885383.0114
+Energy got: 81017250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 19336.9636235481
+=======================
+Iteration: 250
+Delta Energy this round: 94597021.8869251
+Nearest point Sheep at (7.422255453332846, 6.620150994847079) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32367079499.999992
+energy_consumed: 52125421111.1245
+Still need these calories of energy: 19758341611.1245
+Energy got: 81120500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26364.8242717265
+=======================
+Iteration: 251
+Delta Energy this round: 94600972.7312775
+Nearest point Sheep at (7.610589739153557, 6.471309416205569) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32408276249.999992
+energy_consumed: 52134070138.3932
+Still need these calories of energy: 19725793888.3932
+Energy got: 81223750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22413.9799193594
+=======================
+Iteration: 252
+Delta Energy this round: 94606585.3689227
+Nearest point Sheep at (7.459309974784735, 6.373880103349768) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32449472999.999992
+energy_consumed: 52142713553.0243
+Still need these calories of energy: 19693240553.0243
+Energy got: 81327000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16801.3422742075
+=======================
+Iteration: 253
+Delta Energy this round: 94614682.8044904
+Nearest point Sheep at (7.444047872849662, 6.28192091140162) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32490669749.999992
+energy_consumed: 52151348870.2198
+Still need these calories of energy: 19660679120.2198
+Energy got: 81430250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8703.90670641997
+=======================
+Iteration: 254
+Delta Energy this round: 94603249.5943538
+Nearest point Sheep at (7.435702174066549, 6.066417994474946) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32531866499.999992
+energy_consumed: 52159995620.6254
+Still need these calories of energy: 19628129120.6254
+Energy got: 81533500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20137.1168431056
+=======================
+Iteration: 255
+Delta Energy this round: 94598874.3054535
+Nearest point Sheep at (7.62944762615427, 5.8892712132228375) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32573063249.999992
+energy_consumed: 52168646746.3200
+Still need these calories of energy: 19595583496.3200
+Energy got: 81636750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24512.4057433412
+=======================
+Iteration: 256
+Delta Energy this round: 94603574.4385844
+Nearest point Sheep at (7.535379888209373, 5.699076781465228) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32614259999.999992
+energy_consumed: 52177293171.8814
+Still need these calories of energy: 19563033171.8814
+Energy got: 81740000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19812.2726124612
+=======================
+Iteration: 257
+Delta Energy this round: 94602125.3639359
+Nearest point Sheep at (7.312536407163557, 5.652276883313604) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32655456749.999992
+energy_consumed: 52185941046.5174
+Still need these calories of energy: 19530484296.5174
+Energy got: 81843250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21261.3472610013
+=======================
+Iteration: 258
+Delta Energy this round: 94613664.8155963
+Nearest point Sheep at (7.252016166623409, 5.737001017979452) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32696653499.999992
+energy_consumed: 52194577381.7018
+Still need these calories of energy: 19497923881.7019
+Energy got: 81946500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9721.89560052486
+=======================
+Iteration: 259
+Delta Energy this round: 94595718.6667429
+Nearest point Sheep at (6.962427521085307, 5.674203982500957) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32737850249.999992
+energy_consumed: 52203231663.0351
+Still need these calories of energy: 19465381413.0351
+Energy got: 82049750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27668.0444539280
+=======================
+Iteration: 260
+Delta Energy this round: 94608820.5763620
+Nearest point Sheep at (6.8285805365011685, 5.754335738119806) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 32779046999.999992
+energy_consumed: 52211872842.4587
+Still need these calories of energy: 19432825842.4587
+Energy got: 82153000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14566.1348349094
+=======================
+Iteration: 261
+Delta Energy this round: 868473558.344740
+Nearest point Cattle at (6.588350269151864, 5.810503004897573) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 33154605749.999992
+energy_consumed: 52284649284.1140
+Still need these calories of energy: 19130043534.1140
+Energy got: 83094250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 23035.8240113463
+=======================
+Iteration: 262
+Delta Energy this round: 868490735.706899
+Nearest point Cattle at (6.5393898672928525, 5.771265827884844) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 33530164499.999992
+energy_consumed: 52357408548.4071
+Still need these calories of energy: 18827244048.4071
+Energy got: 84035500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 5858.46185206393
+=======================
+Iteration: 263
+Delta Energy this round: 94606591.4767250
+Nearest point Sheep at (6.569174941711062, 5.593875436612938) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 33571361249.999992
+energy_consumed: 52366051956.9304
+Still need these calories of energy: 18794690706.9304
+Energy got: 84138750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16795.2344719095
+=======================
+Iteration: 264
+Delta Energy this round: 94622045.8741668
+Nearest point Sheep at (6.583245283213523, 5.596745591329762) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 33612557999.999992
+energy_consumed: 52374679911.0562
+Still need these calories of energy: 18762121911.0562
+Energy got: 84242000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1340.83703006392
+=======================
+Iteration: 265
+Delta Energy this round: 868480045.921636
+Nearest point Cattle at (6.578961072466769, 5.419568994500005) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 33988116749.999992
+energy_consumed: 52447449865.1346
+Still need these calories of energy: 18459333115.1346
+Energy got: 85183250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 16548.2471149886
+=======================
+Iteration: 266
+Delta Energy this round: 94595835.3931003
+Nearest point Sheep at (6.532272352788873, 5.128217126440831) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34029313499.999992
+energy_consumed: 52456104029.7415
+Still need these calories of energy: 18426790529.7415
+Energy got: 85286500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27551.3180965628
+=======================
+Iteration: 267
+Delta Energy this round: 94603856.4463177
+Nearest point Sheep at (6.56360309014501, 4.921411750394535) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34070510249.999992
+energy_consumed: 52464750173.2952
+Still need these calories of energy: 18394239923.2952
+Energy got: 85389750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19530.2648791744
+=======================
+Iteration: 268
+Delta Energy this round: 94578928.1784243
+Nearest point Sheep at (7.039253652353102, 4.899786231082911) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34111706999.999992
+energy_consumed: 52473421245.1167
+Still need these calories of energy: 18361714245.1167
+Energy got: 85493000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 44458.5327725271
+=======================
+Iteration: 269
+Delta Energy this round: 94608584.0710599
+Nearest point Sheep at (7.090729830883803, 4.749842886999163) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34152903749.999992
+energy_consumed: 52482062661.0457
+Still need these calories of energy: 18329158911.0457
+Energy got: 85596250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14802.6401369819
+=======================
+Iteration: 270
+Delta Energy this round: 868483575.911227
+Nearest point Cattle at (6.992685624474514, 4.6507162935953295) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34528462499.99999
+energy_consumed: 52554829085.1344
+Still need these calories of energy: 18026366585.1344
+Energy got: 86537500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13018.2575238296
+=======================
+Iteration: 271
+Delta Energy this round: 94596498.3019229
+Nearest point Sheep at (7.273784728988968, 4.71324380320739) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34569659249.99999
+energy_consumed: 52563482586.8325
+Still need these calories of energy: 17993823336.8325
+Energy got: 86640750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26888.4092739719
+=======================
+Iteration: 272
+Delta Energy this round: 94591853.6661976
+Nearest point Sheep at (7.559002409285291, 4.532410622478455) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34610855999.99999
+energy_consumed: 52572140733.1663
+Still need these calories of energy: 17961284733.1663
+Energy got: 86744000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31533.0449992338
+=======================
+Iteration: 273
+Delta Energy this round: 94614955.6330230
+Nearest point Sheep at (7.5977835494622195, 4.613953472901583) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 34652052749.99999
+energy_consumed: 52580775777.5333
+Still need these calories of energy: 17928723027.5333
+Energy got: 86847250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8431.07817386474
+=======================
+Iteration: 274
+Delta Energy this round: 868490060.710665
+Nearest point Cattle at (7.667720090889725, 4.6161813377392065) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35027611499.99999
+energy_consumed: 52653535716.8226
+Still need these calories of energy: 17625924216.8226
+Energy got: 87788500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 6533.45808605392
+=======================
+Iteration: 275
+Delta Energy this round: 94609291.4642635
+Nearest point Sheep at (7.80631508325949, 4.556352253865175) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35068808249.99999
+energy_consumed: 52662176425.3584
+Still need these calories of energy: 17593368175.3584
+Energy got: 87891750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14095.2469333208
+=======================
+Iteration: 276
+Delta Energy this round: 94601207.6919172
+Nearest point Sheep at (7.965253476044232, 4.732875418672632) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35110004999.99999
+energy_consumed: 52670825217.6664
+Still need these calories of energy: 17560820217.6664
+Energy got: 87995000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22179.0192796889
+=======================
+Iteration: 277
+Delta Energy this round: 868484950.075502
+Nearest point Cattle at (8.035608470068087, 4.629910699459) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35485563749.99999
+energy_consumed: 52743590267.5909
+Still need these calories of energy: 17258026517.5909
+Energy got: 88936250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 11644.0932490173
+=======================
+Iteration: 278
+Delta Energy this round: 94598709.2899724
+Nearest point Sheep at (8.241708964971693, 4.464466159161943) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35526760499.99999
+energy_consumed: 52752241558.3010
+Still need these calories of energy: 17225481058.3010
+Energy got: 89039500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24677.4212244394
+=======================
+Iteration: 279
+Delta Energy this round: 94595944.5245097
+Nearest point Sheep at (8.447166728949348, 4.254312686820997) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35567957249.99999
+energy_consumed: 52760895613.7764
+Still need these calories of energy: 17192938363.7765
+Energy got: 89142750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27442.1866872052
+=======================
+Iteration: 280
+Delta Energy this round: 868478333.935515
+Nearest point Cattle at (8.618259880000327, 4.349034288525391) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35943515999.99999
+energy_consumed: 52833667279.8409
+Still need these calories of energy: 16890151279.8409
+Energy got: 90084000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18260.2332359674
+=======================
+Iteration: 281
+Delta Energy this round: 94614553.9093033
+Nearest point Sheep at (8.691136734452684, 4.409347271320342) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 35984712749.99999
+energy_consumed: 52842302725.9316
+Still need these calories of energy: 16857589975.9316
+Energy got: 90187250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8832.80189361237
+=======================
+Iteration: 282
+Delta Energy this round: 94610461.2742005
+Nearest point Sheep at (8.783421774469492, 4.51252677479777) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36025909499.99999
+energy_consumed: 52850942264.6574
+Still need these calories of energy: 16825032764.6574
+Energy got: 90290500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12925.4369963554
+=======================
+Iteration: 283
+Delta Energy this round: 94617090.1203772
+Nearest point Sheep at (8.846702154529433, 4.48922222689951) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36067106249.99999
+energy_consumed: 52859575174.5370
+Still need these calories of energy: 16792468924.5371
+Energy got: 90393750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6296.59081968230
+=======================
+Iteration: 284
+Delta Energy this round: 94607824.2193672
+Nearest point Sheep at (8.93236695823748, 4.346250857789497) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36108302999.99999
+energy_consumed: 52868217350.3177
+Still need these calories of energy: 16759914350.3177
+Energy got: 90497000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15562.4918296403
+=======================
+Iteration: 285
+Delta Energy this round: 94604920.7190888
+Nearest point Sheep at (9.07928925496598, 4.213866402330346) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36149499749.99999
+energy_consumed: 52876862429.5986
+Still need these calories of energy: 16727362679.5986
+Energy got: 90600250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18465.9921080339
+=======================
+Iteration: 286
+Delta Energy this round: 94603293.3233695
+Nearest point Sheep at (9.11748085221065, 4.002086386005694) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36190696499.99999
+energy_consumed: 52885509136.2752
+Still need these calories of energy: 16694812636.2752
+Energy got: 90703500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20093.3878273267
+=======================
+Iteration: 287
+Delta Energy this round: 94612222.8431009
+Nearest point Sheep at (9.095382897122551, 3.8845834614467547) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36231893249.99999
+energy_consumed: 52894146913.4321
+Still need these calories of energy: 16662253663.4321
+Energy got: 90806750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11163.8680959482
+=======================
+Iteration: 288
+Delta Energy this round: 94610913.2945882
+Nearest point Sheep at (8.997408704245261, 3.975395084741665) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36273089999.99999
+energy_consumed: 52902786000.1375
+Still need these calories of energy: 16629696000.1375
+Energy got: 90910000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12473.4166086801
+=======================
+Iteration: 289
+Delta Energy this round: 868486307.949694
+Nearest point Cattle at (8.922000734911544, 3.8950856992401173) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36648648749.99999
+energy_consumed: 52975549692.1878
+Still need these calories of energy: 16326900942.1878
+Energy got: 91851250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 10286.2190567034
+=======================
+Iteration: 290
+Delta Energy this round: 94607957.7840242
+Nearest point Sheep at (8.858422807953964, 3.7425657506510612) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36689845499.99999
+energy_consumed: 52984191734.4038
+Still need these calories of energy: 16294346234.4038
+Energy got: 91954500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15428.9271726365
+=======================
+Iteration: 291
+Delta Energy this round: 94620101.3404497
+Nearest point Sheep at (8.826967654851847, 3.758332926701983) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 36731042249.99999
+energy_consumed: 52992821633.0634
+Still need these calories of energy: 16261779383.0634
+Energy got: 92057750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3285.37074715285
+=======================
+Iteration: 292
+Delta Energy this round: 868485759.397769
+Nearest point Cattle at (8.886404394297564, 3.6586728031049387) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 37106600999.99999
+energy_consumed: 53065585873.6656
+Still need these calories of energy: 15958984873.6656
+Energy got: 92999000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 10834.7709818829
+=======================
+Iteration: 293
+Delta Energy this round: 94599278.9830415
+Nearest point Sheep at (9.087207028284372, 3.4963773579749025) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 37147797749.99999
+energy_consumed: 53074236594.6825
+Still need these calories of energy: 15926438844.6826
+Energy got: 93102250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24107.7281553251
+=======================
+Iteration: 294
+Delta Energy this round: 94591030.9917180
+Nearest point Sheep at (8.883928036388886, 3.2157423696714127) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 37188994499.99999
+energy_consumed: 53082895563.6908
+Still need these calories of energy: 15893901063.6908
+Energy got: 93205500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 32355.7194788440
+=======================
+Iteration: 295
+Delta Energy this round: 94598012.0248108
+Nearest point Sheep at (8.612268618290365, 3.2084317099428636) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 37230191249.99999
+energy_consumed: 53091547551.6660
+Still need these calories of energy: 15861356301.6660
+Energy got: 93308750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25374.6863860564
+=======================
+Iteration: 296
+Delta Energy this round: 94612576.0510089
+Nearest point Sheep at (8.63883106582237, 3.095739908489641) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 37271387999.99999
+energy_consumed: 53100184975.6150
+Still need these calories of energy: 15828796975.6150
+Energy got: 93412000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10810.6601879963
+=======================
+Iteration: 297
+Delta Energy this round: 868476222.798185
+Nearest point Cattle at (8.523829641292306, 2.910336977803646) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 37646946749.99999
+energy_consumed: 53172958752.8168
+Still need these calories of energy: 15526012002.8168
+Energy got: 94353250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 20371.3705663008
+=======================
+Iteration: 298
+Delta Energy this round: 868475310.477332
+Nearest point Cattle at (8.622832265913912, 2.705015363674806) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38022505499.99999
+energy_consumed: 53245733442.3395
+Still need these calories of energy: 15223227942.3395
+Energy got: 95294500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21283.6914187242
+=======================
+Iteration: 299
+Delta Energy this round: 94602690.8322864
+Nearest point Sheep at (8.535075128279582, 2.5014795568602946) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38063702249.99999
+energy_consumed: 53254380751.5072
+Still need these calories of energy: 15190678501.5072
+Energy got: 95397750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20695.8789104633
+=======================
+Iteration: 300
+Delta Energy this round: 94603231.3120533
+Nearest point Sheep at (8.730848879676529, 2.4105494266166305) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38104898999.99999
+energy_consumed: 53263027520.1952
+Still need these calories of energy: 15158128520.1952
+Energy got: 95501000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20155.3991435944
+=======================
+Iteration: 301
+Delta Energy this round: 94611023.6419334
+Nearest point Sheep at (8.832310788128133, 2.325479903864686) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38146095749.99999
+energy_consumed: 53271666496.5532
+Still need these calories of energy: 15125570746.5532
+Energy got: 95604250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12363.0692634268
+=======================
+Iteration: 302
+Delta Energy this round: 94603696.8121848
+Nearest point Sheep at (8.995234858845484, 2.4593602497759193) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38187292499.99999
+energy_consumed: 53280312799.7410
+Still need these calories of energy: 15093020299.7410
+Energy got: 95707500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19689.8990120809
+=======================
+Iteration: 303
+Delta Energy this round: 94606176.5613421
+Nearest point Sheep at (8.84614208194045, 2.5677308433345445) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38228489249.99999
+energy_consumed: 53288956623.1797
+Still need these calories of energy: 15060467373.1797
+Energy got: 95810750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17210.1498547442
+=======================
+Iteration: 304
+Delta Energy this round: 94609396.1119993
+Nearest point Sheep at (8.971216262761608, 2.65023795847564) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38269685999.99999
+energy_consumed: 53297597227.0677
+Still need these calories of energy: 15027911227.0677
+Energy got: 95914000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13990.5991976043
+=======================
+Iteration: 305
+Delta Energy this round: 94616277.0022758
+Nearest point Sheep at (9.016522670219219, 2.711435746522577) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38310882749.99999
+energy_consumed: 53306230950.0654
+Still need these calories of energy: 14995348200.0654
+Energy got: 96017250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7109.70892102721
+=======================
+Iteration: 306
+Delta Energy this round: 94609320.8141710
+Nearest point Sheep at (8.952091308252186, 2.847604349084868) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38352079499.99999
+energy_consumed: 53314871629.2513
+Still need these calories of energy: 14962792129.2513
+Energy got: 96120500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14065.8970258865
+=======================
+Iteration: 307
+Delta Energy this round: 94600382.1047309
+Nearest point Sheep at (9.197944508095835, 2.863625986816898) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38393276249.99999
+energy_consumed: 53323521247.1465
+Still need these calories of energy: 14930244997.1465
+Energy got: 96223750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23004.6064659764
+=======================
+Iteration: 308
+Delta Energy this round: 868491702.807271
+Nearest point Cattle at (9.225085263383198, 2.908432452837059) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 38768834999.99999
+energy_consumed: 53396279544.3392
+Still need these calories of energy: 14627444544.3393
+Energy got: 97165000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 4891.36147948406
+=======================
+Iteration: 309
+Delta Energy this round: 868474159.607988
+Nearest point Cattle at (9.354130488350878, 2.7057582834366958) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 39144393749.99999
+energy_consumed: 53469055384.7313
+Still need these calories of energy: 14324661634.7313
+Energy got: 98106250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 22434.5607632375
+=======================
+Iteration: 310
+Delta Energy this round: 868489113.980667
+Nearest point Cattle at (9.425382248725727, 2.669138510718253) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 39519952499.99999
+energy_consumed: 53541816270.7506
+Still need these calories of energy: 14021863770.7506
+Energy got: 99047500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 7480.18808445477
+=======================
+Iteration: 311
+Delta Energy this round: 94615398.4297392
+Nearest point Sheep at (9.456519733779974, 2.589453175558347) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 39561149249.99999
+energy_consumed: 53550450872.3208
+Still need these calories of energy: 13989301622.3209
+Energy got: 99150750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7988.28145767680
+=======================
+Iteration: 312
+Delta Energy this round: 94612409.2370767
+Nearest point Sheep at (9.561858069419864, 2.641661647070687) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 39602345999.99999
+energy_consumed: 53559088463.0838
+Still need these calories of energy: 13956742463.0838
+Energy got: 99254000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10977.4741201885
+=======================
+Iteration: 313
+Delta Energy this round: 94605842.3109701
+Nearest point Sheep at (9.675108531874558, 2.791593664206488) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 39643542749.99999
+energy_consumed: 53567732620.7728
+Still need these calories of energy: 13924189870.7728
+Energy got: 99357250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17544.4002267462
+=======================
+Iteration: 314
+Delta Energy this round: 868479819.194850
+Nearest point Cattle at (9.702953530144123, 2.9690792816784684) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40019101499.99999
+energy_consumed: 53640502801.5779
+Still need these calories of energy: 13621401301.5780
+Energy got: 100298500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 16774.9739008251
+=======================
+Iteration: 315
+Delta Energy this round: 94606655.8150779
+Nearest point Sheep at (9.861063341888636, 2.8847680739523653) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40060298249.99999
+energy_consumed: 53649146145.7629
+Still need these calories of energy: 13588847895.7629
+Energy got: 100401750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16730.8961189586
+=======================
+Iteration: 316
+Delta Energy this round: 94610759.0114420
+Nearest point Sheep at (9.901245490299402, 2.755635259441199) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40101494999.99999
+energy_consumed: 53657785386.7514
+Still need these calories of energy: 13556290386.7514
+Energy got: 100505000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12627.6997548880
+=======================
+Iteration: 317
+Delta Energy this round: 94623278.3309440
+Nearest point Sheep at (9.90212239586336, 2.754874777862536) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40142691749.99999
+energy_consumed: 53666412108.4205
+Still need these calories of energy: 13523720358.4205
+Energy got: 100608250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 108.380252876926
+=======================
+Iteration: 318
+Delta Energy this round: 94574214.7921417
+Nearest point Sheep at (9.640676601523499, 3.212013837076011) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40183888499.99999
+energy_consumed: 53675087893.6283
+Still need these calories of energy: 13491199393.6283
+Energy got: 100711500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 49171.9190551736
+=======================
+Iteration: 319
+Delta Energy this round: 94600728.1935396
+Nearest point Sheep at (9.793058637198111, 3.400872372674919) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40225085249.99999
+energy_consumed: 53683737165.4348
+Still need these calories of energy: 13458651915.4348
+Energy got: 100814750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22658.5176572955
+=======================
+Iteration: 320
+Delta Energy this round: 94550527.4058512
+Nearest point Sheep at (9.423729188003684, 4.08824202632453) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40266281999.99999
+energy_consumed: 53692436638.0289
+Still need these calories of energy: 13426154638.0290
+Energy got: 100918000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 72859.3053457034
+=======================
+Iteration: 321
+Delta Energy this round: 94612265.9189202
+Nearest point Sheep at (9.460634611961133, 4.201481342928024) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40307478749.99999
+energy_consumed: 53701074372.1100
+Still need these calories of energy: 13393595622.1100
+Energy got: 101021250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11120.7922766845
+=======================
+Iteration: 322
+Delta Energy this round: 94592351.9704782
+Nearest point Sheep at (9.502810477860574, 4.531170400335961) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40348675499.99999
+energy_consumed: 53709732020.1395
+Still need these calories of energy: 13361056520.1395
+Energy got: 101124500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31034.7407186699
+=======================
+Iteration: 323
+Delta Energy this round: 94608765.3296754
+Nearest point Sheep at (9.379052037690286, 4.6271126588720515) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40389872249.99999
+energy_consumed: 53718373254.8099
+Still need these calories of energy: 13328501004.8099
+Energy got: 101227750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14621.3815214345
+=======================
+Iteration: 324
+Delta Energy this round: 94598650.6723960
+Nearest point Sheep at (9.643376277580142, 4.609386020462022) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40431068999.99999
+energy_consumed: 53727024604.1375
+Still need these calories of energy: 13295955604.1375
+Energy got: 101331000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24736.0388008368
+=======================
+Iteration: 325
+Delta Energy this round: 94601909.9205711
+Nearest point Sheep at (9.872992426932187, 4.595895777259069) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40472265749.99999
+energy_consumed: 53735672694.2169
+Still need these calories of energy: 13263406944.2169
+Energy got: 101434250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21476.7906257580
+=======================
+Iteration: 326
+Delta Energy this round: 94592762.2987576
+Nearest point Sheep at (9.960557372380835, 4.911971871794295) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40513462499.99999
+energy_consumed: 53744329931.9181
+Still need these calories of energy: 13230867431.9182
+Energy got: 101537500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30624.4124392785
+=======================
+Iteration: 327
+Delta Energy this round: 868470001.970185
+Nearest point Cattle at (9.67579208364821, 4.916227050715486) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40889021249.99999
+energy_consumed: 53817109929.9480
+Still need these calories of energy: 12928088679.9480
+Energy got: 102478750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 26592.1985658091
+=======================
+Iteration: 328
+Delta Energy this round: 94616965.4877562
+Nearest point Sheep at (9.610240789830476, 4.895434221862351) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 40930217999.99999
+energy_consumed: 53825742964.4602
+Still need these calories of energy: 12895524964.4602
+Energy got: 102582000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6421.22344070136
+=======================
+Iteration: 329
+Delta Energy this round: 868475244.527578
+Nearest point Cattle at (9.665118951043546, 5.117401266388189) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 41305776749.99999
+energy_consumed: 53898517719.9326
+Still need these calories of energy: 12592740969.9326
+Energy got: 103523250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21349.6411732512
+=======================
+Iteration: 330
+Delta Energy this round: 868492372.565013
+Nearest point Cattle at (9.640547106677358, 5.155353826015714) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 41681335499.99999
+energy_consumed: 53971275347.3676
+Still need these calories of energy: 12289939847.3676
+Energy got: 104464500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 4221.60373800500
+=======================
+Iteration: 331
+Delta Energy this round: 868482524.525541
+Nearest point Cattle at (9.768426029200105, 5.235055515867342) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42056894249.99999
+energy_consumed: 54044042822.8421
+Still need these calories of energy: 11987148572.8421
+Energy got: 105405750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 14069.6432102589
+=======================
+Iteration: 332
+Delta Energy this round: 94618103.3554360
+Nearest point Sheep at (9.821431822058615, 5.215254049781855) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42098090999.99999
+energy_consumed: 54052674719.4866
+Still need these calories of energy: 11954583719.4866
+Energy got: 105509000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 5283.35576090563
+=======================
+Iteration: 333
+Delta Energy this round: 94615713.9653342
+Nearest point Sheep at (9.903341470383051, 5.208673519123391) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42139287749.99999
+energy_consumed: 54061309005.5213
+Still need these calories of energy: 11922021255.5213
+Energy got: 105612250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7672.74586268156
+=======================
+Iteration: 334
+Delta Energy this round: 94599901.2273815
+Nearest point Sheep at (9.920496737895906, 5.459612590109796) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42180484499.99999
+energy_consumed: 54069959104.2939
+Still need these calories of energy: 11889474604.2939
+Energy got: 105715500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23485.4838154008
+=======================
+Iteration: 335
+Delta Energy this round: 868467219.735766
+Nearest point Cattle at (9.607952932264372, 5.423752996313681) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42556043249.99999
+energy_consumed: 54142741884.5581
+Still need these calories of energy: 11586698634.5581
+Energy got: 106656750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 29374.4329849617
+=======================
+Iteration: 336
+Delta Energy this round: 94598191.4441645
+Nearest point Sheep at (9.424192018936942, 5.226158677932663) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42597239999.99999
+energy_consumed: 54151393693.1140
+Still need these calories of energy: 11554153693.1140
+Energy got: 106760000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25195.2670324061
+=======================
+Iteration: 337
+Delta Energy this round: 94621863.9688919
+Nearest point Sheep at (9.42287858128468, 5.209903392191993) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42638436749.99999
+energy_consumed: 54160021829.1451
+Still need these calories of energy: 11521585079.1451
+Energy got: 106863250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1522.74230495065
+=======================
+Iteration: 338
+Delta Energy this round: 94590987.7797073
+Nearest point Sheep at (9.284096692863798, 4.891879991919884) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42679633499.99999
+energy_consumed: 54168680841.3654
+Still need these calories of energy: 11489047341.3654
+Energy got: 106966500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 32398.9314895791
+=======================
+Iteration: 339
+Delta Energy this round: 94595163.8812649
+Nearest point Sheep at (8.999415652308597, 4.790300941422828) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42720830249.99999
+energy_consumed: 54177335677.4841
+Still need these calories of energy: 11456505427.4841
+Energy got: 107069750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 28222.8299319465
+=======================
+Iteration: 340
+Delta Energy this round: 94598165.9866821
+Nearest point Sheep at (8.98209553661513, 5.059853931713203) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42762026999.99999
+energy_consumed: 54185987511.4974
+Still need these calories of energy: 11423960511.4974
+Energy got: 107173000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25220.7245147953
+=======================
+Iteration: 341
+Delta Energy this round: 94592060.7494354
+Nearest point Sheep at (8.698263283831336, 5.238728089562624) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 42803223749.99999
+energy_consumed: 54194645450.7480
+Still need these calories of energy: 11391421700.7480
+Energy got: 107276250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31325.9617614803
+=======================
+Iteration: 342
+Delta Energy this round: 868484066.828278
+Nearest point Cattle at (8.735047910206715, 5.367752179253826) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43178782499.99999
+energy_consumed: 54267411383.9197
+Still need these calories of energy: 11088628883.9197
+Energy got: 108217500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 12527.3404732378
+=======================
+Iteration: 343
+Delta Energy this round: 94615157.9210243
+Nearest point Sheep at (8.680368765052402, 5.436866979663527) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43219979249.99999
+energy_consumed: 54276046225.9987
+Still need these calories of energy: 11056066975.9987
+Energy got: 108320750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8228.79017257707
+=======================
+Iteration: 344
+Delta Energy this round: 94613875.3094575
+Nearest point Sheep at (8.57991259062031, 5.453751129435595) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43261175999.99999
+energy_consumed: 54284682350.6892
+Still need these calories of energy: 11023506350.6892
+Energy got: 108424000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9511.40173935040
+=======================
+Iteration: 345
+Delta Energy this round: 94620105.2321257
+Nearest point Sheep at (8.565188092994156, 5.421840498079905) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43302372749.99999
+energy_consumed: 54293312245.4571
+Still need these calories of energy: 10990939495.4571
+Energy got: 108527250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 3281.47907114557
+=======================
+Iteration: 346
+Delta Energy this round: 94611569.9244757
+Nearest point Sheep at (8.536645599149344, 5.545135248407292) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43343569499.99999
+energy_consumed: 54301950675.5326
+Still need these calories of energy: 10958381175.5326
+Energy got: 108630500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11816.7867211380
+=======================
+Iteration: 347
+Delta Energy this round: 868493043.969747
+Nearest point Cattle at (8.549836165068704, 5.580795800419457) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43719128249.99999
+energy_consumed: 54374707631.5629
+Still need these calories of energy: 10655579381.5629
+Energy got: 109571750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 3550.19900354083
+=======================
+Iteration: 348
+Delta Energy this round: 94604262.7840843
+Nearest point Sheep at (8.50385912695423, 5.780381973450287) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43760324999.99999
+energy_consumed: 54383353368.7788
+Still need these calories of energy: 10623028368.7788
+Energy got: 109675000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19123.9271125449
+=======================
+Iteration: 349
+Delta Energy this round: 94617175.6617694
+Nearest point Sheep at (8.562498536329109, 5.811785929036657) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43801521749.99999
+energy_consumed: 54391986193.1170
+Still need these calories of energy: 10590464443.1170
+Energy got: 109778250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6211.04942742515
+=======================
+Iteration: 350
+Delta Energy this round: 94610530.0911127
+Nearest point Sheep at (8.542554399750351, 5.948025662062342) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43842718499.99999
+energy_consumed: 54400625663.0259
+Still need these calories of energy: 10557907163.0259
+Energy got: 109881500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12856.6200841893
+=======================
+Iteration: 351
+Delta Energy this round: 94609993.9706749
+Nearest point Sheep at (8.43460586858434, 6.0424729871504805) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43883915249.99999
+energy_consumed: 54409265669.0552
+Still need these calories of energy: 10525350419.0553
+Energy got: 109984750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13392.7405219571
+=======================
+Iteration: 352
+Delta Energy this round: 94621742.6754235
+Nearest point Sheep at (8.420326737454266, 6.03217137948242) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 43925111999.99999
+energy_consumed: 54417893926.3798
+Still need these calories of energy: 10492781926.3798
+Energy got: 110088000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1644.03577334691
+=======================
+Iteration: 353
+Delta Energy this round: 868475877.847493
+Nearest point Cattle at (8.436851497872407, 6.253422758447149) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44300670749.99999
+energy_consumed: 54490668048.5323
+Still need these calories of energy: 10189997298.5323
+Energy got: 111029250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 20716.3212579336
+=======================
+Iteration: 354
+Delta Energy this round: 94604572.9471261
+Nearest point Sheep at (8.636094877428768, 6.223406981284581) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44341867499.99999
+energy_consumed: 54499313475.5852
+Still need these calories of energy: 10157445975.5852
+Energy got: 111132500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18813.7640707863
+=======================
+Iteration: 355
+Delta Energy this round: 94610382.0562574
+Nearest point Sheep at (8.709286782377173, 6.3419020937741655) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44383064249.99999
+energy_consumed: 54507953093.5289
+Still need these calories of energy: 10124888843.5289
+Energy got: 111235750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13004.6549394552
+=======================
+Iteration: 356
+Delta Energy this round: 94615874.4083036
+Nearest point Sheep at (8.756952290087058, 6.4067175722204155) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44424260999.99999
+energy_consumed: 54516587219.1206
+Still need these calories of energy: 10092326219.1206
+Energy got: 111339000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7512.30289331232
+=======================
+Iteration: 357
+Delta Energy this round: 94621454.2751160
+Nearest point Sheep at (8.771916593776046, 6.421014216798789) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44465457749.99999
+energy_consumed: 54525215764.8455
+Still need these calories of energy: 10059758014.8455
+Energy got: 111442250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1932.43608088639
+=======================
+Iteration: 358
+Delta Energy this round: 868470563.716898
+Nearest point Cattle at (9.047621259249443, 6.462314571968651) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44841016499.99999
+energy_consumed: 54597995201.1286
+Still need these calories of energy: 9756978701.12862
+Energy got: 112383500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 26030.4518529192
+=======================
+Iteration: 359
+Delta Energy this round: 94603306.4888512
+Nearest point Sheep at (9.238060111708863, 6.362405855574165) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44882213249.99999
+energy_consumed: 54606641894.6398
+Still need these calories of energy: 9724428644.63977
+Energy got: 112486750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20080.2223456818
+=======================
+Iteration: 360
+Delta Energy this round: 94619030.4049490
+Nearest point Sheep at (9.272153494106663, 6.394254643414498) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44923409999.99999
+energy_consumed: 54615272864.2348
+Still need these calories of energy: 9691862864.23483
+Energy got: 112590000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4356.30624787664
+=======================
+Iteration: 361
+Delta Energy this round: 94608714.0679585
+Nearest point Sheep at (9.422869225698992, 6.43873022135685) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 44964606749.99999
+energy_consumed: 54623914150.1669
+Still need these calories of energy: 9659307400.16687
+Energy got: 112693250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14672.6432383935
+=======================
+Iteration: 362
+Delta Energy this round: 94596179.2338897
+Nearest point Sheep at (9.544574012480759, 6.703483105737428) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45005803499.99999
+energy_consumed: 54632567970.9330
+Still need these calories of energy: 9626764470.93298
+Energy got: 112796500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 27207.4773072024
+=======================
+Iteration: 363
+Delta Energy this round: 94590338.1386083
+Nearest point Sheep at (9.293031903948187, 6.952486315077547) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45047000249.99999
+energy_consumed: 54641227632.7944
+Still need these calories of energy: 9594227382.79437
+Energy got: 112899750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 33048.5725886021
+=======================
+Iteration: 364
+Delta Energy this round: 94609249.8289151
+Nearest point Sheep at (9.179033759857786, 7.05212234622952) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45088196999.99999
+energy_consumed: 54649868382.9654
+Still need these calories of energy: 9561671382.96545
+Energy got: 113003000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14136.8822817597
+=======================
+Iteration: 365
+Delta Energy this round: 868483121.051749
+Nearest point Cattle at (9.20291761746759, 7.194426333160422) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45463755749.99999
+energy_consumed: 54722635261.9137
+Still need these calories of energy: 9258879511.91370
+Energy got: 113944250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 13473.1170017526
+=======================
+Iteration: 366
+Delta Energy this round: 94617379.7203918
+Nearest point Sheep at (9.141284231263722, 7.2128693640137165) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45504952499.99999
+energy_consumed: 54731267882.1933
+Still need these calories of energy: 9226315382.19331
+Energy got: 114047500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6006.99080505531
+=======================
+Iteration: 367
+Delta Energy this round: 94602646.0765456
+Nearest point Sheep at (9.068050684488687, 7.422577973113929) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45546149249.99999
+energy_consumed: 54739915236.1168
+Still need these calories of energy: 9193765986.11677
+Energy got: 114150750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20740.6346512234
+=======================
+Iteration: 368
+Delta Energy this round: 94608477.4746974
+Nearest point Sheep at (8.917565873954324, 7.475967108666083) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45587345999.99999
+energy_consumed: 54748556758.6421
+Still need these calories of energy: 9161210758.64207
+Energy got: 114254000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14909.2364995103
+=======================
+Iteration: 369
+Delta Energy this round: 868485825.968530
+Nearest point Cattle at (8.903924623690848, 7.590482739763987) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 45962904749.99999
+energy_consumed: 54821320932.6735
+Still need these calories of energy: 8858416182.67353
+Energy got: 115195250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 10768.2002211082
+=======================
+Iteration: 370
+Delta Energy this round: 94616169.7019736
+Nearest point Sheep at (8.862354327625425, 7.65564464441748) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46004101499.99999
+energy_consumed: 54829954762.9715
+Still need these calories of energy: 8825853262.97156
+Energy got: 115298500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7217.00922328930
+=======================
+Iteration: 371
+Delta Energy this round: 94607103.6729518
+Nearest point Sheep at (8.697221046836791, 7.5995893809452575) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46045298249.99999
+energy_consumed: 54838597659.2986
+Still need these calories of energy: 8793299409.29861
+Energy got: 115401750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16283.0382450849
+=======================
+Iteration: 372
+Delta Energy this round: 868482150.322344
+Nearest point Cattle at (8.641031242640313, 7.455464739619267) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46420856999.99999
+energy_consumed: 54911365508.9762
+Still need these calories of energy: 8490508508.97626
+Energy got: 116343000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 14443.8464065365
+=======================
+Iteration: 373
+Delta Energy this round: 94610374.6793830
+Nearest point Sheep at (8.780163530931738, 7.463361978355386) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46462053749.99999
+energy_consumed: 54920005134.2969
+Still need these calories of energy: 8457951384.29688
+Energy got: 116446250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13012.0318138287
+=======================
+Iteration: 374
+Delta Energy this round: 94599544.5469252
+Nearest point Sheep at (8.84123169017143, 7.215427249307935) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46503250499.99999
+energy_consumed: 54928655589.7499
+Still need these calories of energy: 8425405089.74995
+Energy got: 116549500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 23842.1642716782
+=======================
+Iteration: 375
+Delta Energy this round: 94609684.5852060
+Nearest point Sheep at (8.696869951203995, 7.189076321703731) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46544447249.99999
+energy_consumed: 54937295905.1647
+Still need these calories of energy: 8392848655.16474
+Energy got: 116652750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13702.1259908270
+=======================
+Iteration: 376
+Delta Energy this round: 94616183.9790821
+Nearest point Sheep at (8.69130165718328, 7.112137749205245) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46585643999.99999
+energy_consumed: 54945929721.1857
+Still need these calories of energy: 8360285721.18566
+Energy got: 116756000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7202.73211479707
+=======================
+Iteration: 377
+Delta Energy this round: 94597857.1606534
+Nearest point Sheep at (8.934553851011447, 6.9872984066381685) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46626840749.99999
+energy_consumed: 54954581864.0250
+Still need these calories of energy: 8327741114.02501
+Energy got: 116859250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25529.5505434800
+=======================
+Iteration: 378
+Delta Energy this round: 94592647.6993649
+Nearest point Sheep at (8.643372045096896, 6.833703269477866) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46668037499.99999
+energy_consumed: 54963239216.3256
+Still need these calories of energy: 8295201716.32565
+Energy got: 116962500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30739.0118319229
+=======================
+Iteration: 379
+Delta Energy this round: 94600876.1019519
+Nearest point Sheep at (8.411596769790975, 6.90004900024771) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46709234249.99999
+energy_consumed: 54971888340.2237
+Still need these calories of energy: 8262654090.22369
+Energy got: 117065750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22510.6092449843
+=======================
+Iteration: 380
+Delta Energy this round: 94607506.5769389
+Nearest point Sheep at (8.42438823025199, 6.730457682886706) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46750430999.99999
+energy_consumed: 54980530833.6467
+Still need these calories of energy: 8230099833.64675
+Energy got: 117169000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15880.1342580140
+=======================
+Iteration: 381
+Delta Energy this round: 94612088.0075472
+Nearest point Sheep at (8.460498206581121, 6.614964289852027) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46791627749.99999
+energy_consumed: 54989168745.6392
+Still need these calories of energy: 8197540995.63921
+Energy got: 117272250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11298.7036496336
+=======================
+Iteration: 382
+Delta Energy this round: 94615623.6401068
+Nearest point Sheep at (8.543539058688804, 6.610886276657677) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 46832824499.99999
+energy_consumed: 54997803121.9991
+Still need these calories of energy: 8164978621.99910
+Energy got: 117375500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7763.07109010875
+=======================
+Iteration: 383
+Delta Energy this round: 868464779.242301
+Nearest point Cattle at (8.203322081038488, 6.592169369085448) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47208383249.99999
+energy_consumed: 55070588342.7568
+Still need these calories of energy: 7862205092.75680
+Energy got: 118316750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 31814.9264501739
+=======================
+Iteration: 384
+Delta Energy this round: 94601518.0798025
+Nearest point Sheep at (8.053735188498196, 6.4119543779304) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47249579999.99999
+energy_consumed: 55079236824.6770
+Still need these calories of energy: 7829656824.67699
+Energy got: 118420000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21868.6313943982
+=======================
+Iteration: 385
+Delta Energy this round: 94601963.5496724
+Nearest point Sheep at (8.195124110256577, 6.231258923220432) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47290776749.99999
+energy_consumed: 55087884861.1273
+Still need these calories of energy: 7797108111.12732
+Energy got: 118523250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21423.1615244401
+=======================
+Iteration: 386
+Delta Energy this round: 94585410.2265169
+Nearest point Sheep at (7.788780803053568, 6.213746929605736) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47331973499.99999
+energy_consumed: 55096549450.9008
+Still need these calories of energy: 7764575950.90080
+Energy got: 118626500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 37976.4846799451
+=======================
+Iteration: 387
+Delta Energy this round: 94600996.8817940
+Nearest point Sheep at (7.806870393248858, 6.452854178108075) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47373170249.99999
+energy_consumed: 55105198454.0190
+Still need these calories of energy: 7732028204.01900
+Energy got: 118729750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 22389.8294028423
+=======================
+Iteration: 388
+Delta Energy this round: 94612359.6742447
+Nearest point Sheep at (7.803606810842785, 6.570906415418647) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47414366999.99999
+energy_consumed: 55113836094.3447
+Still need these calories of energy: 7699469094.34476
+Energy got: 118833000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11027.0369521422
+=======================
+Iteration: 389
+Delta Energy this round: 868479863.374698
+Nearest point Cattle at (7.80160449943629, 6.750078654706347) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47789925749.99999
+energy_consumed: 55186606230.9700
+Still need these calories of energy: 7396680480.97005
+Energy got: 119774250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 16730.7940525584
+=======================
+Iteration: 390
+Delta Energy this round: 94599189.4700007
+Nearest point Sheep at (8.034361265956907, 6.864016138268435) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47831122499.99999
+energy_consumed: 55195257041.5000
+Still need these calories of energy: 7364134541.50005
+Energy got: 119877500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24197.2411961464
+=======================
+Iteration: 391
+Delta Energy this round: 94592529.7473670
+Nearest point Sheep at (8.188879319945938, 7.156139087344697) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47872319249.99999
+energy_consumed: 55203914511.7527
+Still need these calories of energy: 7331595261.75269
+Energy got: 119980750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30856.9638298866
+=======================
+Iteration: 392
+Delta Energy this round: 94614983.1724054
+Nearest point Sheep at (8.22960542667978, 7.236397550993068) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47913515999.99999
+energy_consumed: 55212549528.5803
+Still need these calories of energy: 7299033528.58028
+Energy got: 120084000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8403.53879142855
+=======================
+Iteration: 393
+Delta Energy this round: 94615907.7406016
+Nearest point Sheep at (8.163349116132403, 7.281406810489257) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47954712749.99999
+energy_consumed: 55221183620.8397
+Still need these calories of energy: 7266470870.83968
+Energy got: 120187250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 7478.97059528362
+=======================
+Iteration: 394
+Delta Energy this round: 94621631.6890400
+Nearest point Sheep at (8.159114727548655, 7.29971956704072) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 47995909499.99999
+energy_consumed: 55229811989.1506
+Still need these calories of energy: 7233902489.15063
+Energy got: 120290500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 1755.02215685018
+=======================
+Iteration: 395
+Delta Energy this round: 94607569.0482627
+Nearest point Sheep at (8.323125550240631, 7.3421242547872465) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48037106249.99999
+energy_consumed: 55238454420.1024
+Still need these calories of energy: 7201348170.10237
+Energy got: 120393750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15817.6629341510
+=======================
+Iteration: 396
+Delta Energy this round: 94608422.0175422
+Nearest point Sheep at (8.396050280261244, 7.484841063630415) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48078302999.99999
+energy_consumed: 55247095998.0848
+Still need these calories of energy: 7168792998.08483
+Energy got: 120497000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14964.6936546915
+=======================
+Iteration: 397
+Delta Energy this round: 94586076.0440265
+Nearest point Sheep at (8.009936783378159, 7.381941562860489) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48119499750.0
+energy_consumed: 55255759922.0408
+Still need these calories of energy: 7136260172.04079
+Energy got: 120600250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 37310.6671704073
+=======================
+Iteration: 398
+Delta Energy this round: 94594811.4679572
+Nearest point Sheep at (7.732645892710156, 7.252453198338732) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48160696500.0
+energy_consumed: 55264415110.5728
+Still need these calories of energy: 7103718610.57284
+Energy got: 120703500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 28575.2432397222
+=======================
+Iteration: 399
+Delta Energy this round: 94604620.7945353
+Nearest point Sheep at (7.536881783286143, 7.297939944478866) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48201893250.0
+energy_consumed: 55273060489.7783
+Still need these calories of energy: 7071167239.77831
+Energy got: 120806750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18765.9166615264
+=======================
+Iteration: 400
+Delta Energy this round: 94614452.1709308
+Nearest point Sheep at (7.4439357377091975, 7.275201033241812) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48243090000.0
+energy_consumed: 55281696037.6074
+Still need these calories of energy: 7038606037.60738
+Energy got: 120910000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 8934.54026601961
+=======================
+Iteration: 401
+Delta Energy this round: 868485414.043068
+Nearest point Cattle at (7.332873202218028, 7.3199451488719145) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48618648750.0
+energy_consumed: 55354460623.5643
+Still need these calories of energy: 6735811873.56430
+Energy got: 121851250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 11180.1256828278
+=======================
+Iteration: 402
+Delta Energy this round: 94617424.7280051
+Nearest point Sheep at (7.310735793383541, 7.379836438901552) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48659845500.0
+energy_consumed: 55363093198.8363
+Still need these calories of energy: 6703247698.83630
+Energy got: 121954500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 5961.98319175905
+=======================
+Iteration: 403
+Delta Energy this round: 94607976.2031115
+Nearest point Sheep at (7.252763848168939, 7.534363419330568) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48701042250.0
+energy_consumed: 55371735222.6332
+Still need these calories of energy: 6670692972.63319
+Energy got: 122057750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15410.5080853794
+=======================
+Iteration: 404
+Delta Energy this round: 94603258.8669944
+Nearest point Sheep at (7.1003012320251315, 7.686755951869662) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48742239000.0
+energy_consumed: 55380381963.7662
+Still need these calories of energy: 6638142963.76619
+Energy got: 122161000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20127.8442024456
+=======================
+Iteration: 405
+Delta Energy this round: 94609050.0154660
+Nearest point Sheep at (7.059834258544278, 7.8348704783831185) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48783435750.0
+energy_consumed: 55389022913.7507
+Still need these calories of energy: 6605587163.75072
+Energy got: 122264250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14336.6957308164
+=======================
+Iteration: 406
+Delta Energy this round: 94609080.6225206
+Nearest point Sheep at (7.206503189354095, 7.879178035797531) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48824632500.0
+energy_consumed: 55397663833.1282
+Still need these calories of energy: 6573031333.12820
+Energy got: 122367500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14306.0886762632
+=======================
+Iteration: 407
+Delta Energy this round: 94608917.6711725
+Nearest point Sheep at (7.31157661057871, 7.9930741820038) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48865829250.0
+energy_consumed: 55406304915.4570
+Still need these calories of energy: 6540475665.45703
+Energy got: 122470750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 14469.0400244109
+=======================
+Iteration: 408
+Delta Energy this round: 94591634.4919182
+Nearest point Sheep at (7.576351965492819, 7.779685524064098) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48907026000.0
+energy_consumed: 55414963280.9651
+Still need these calories of energy: 6507937280.96511
+Energy got: 122574000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 31752.2192786965
+=======================
+Iteration: 409
+Delta Energy this round: 94604352.9671336
+Nearest point Sheep at (7.778037361261891, 7.809296799164217) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48948222750.0
+energy_consumed: 55423608927.9980
+Still need these calories of energy: 6475386177.99798
+Energy got: 122677250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19033.7440632420
+=======================
+Iteration: 410
+Delta Energy this round: 94593888.3582365
+Nearest point Sheep at (7.9310718596061225, 8.085678377907715) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 48989419500.0
+energy_consumed: 55432265039.6397
+Still need these calories of energy: 6442845539.63974
+Energy got: 122780500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 29498.3529604113
+=======================
+Iteration: 411
+Delta Energy this round: 868477504.717634
+Nearest point Cattle at (8.050728233904897, 8.251448610541143) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 49364978250.0
+energy_consumed: 55505037534.9221
+Still need these calories of energy: 6140059284.92210
+Energy got: 123721750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 19089.4511171348
+=======================
+Iteration: 412
+Delta Energy this round: 868472781.876207
+Nearest point Cattle at (8.124169350330492, 8.007227246155962) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 49740537000.0
+energy_consumed: 55577814753.0459
+Still need these calories of energy: 5837277753.04589
+Energy got: 124663000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 23812.2925437617
+=======================
+Iteration: 413
+Delta Energy this round: 94583968.7493149
+Nearest point Sheep at (8.407562787335305, 8.32012641111557) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 49781733750.0
+energy_consumed: 55586480784.2966
+Still need these calories of energy: 5804747034.29658
+Energy got: 124766250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 39417.9618820136
+=======================
+Iteration: 414
+Delta Energy this round: 868492718.719817
+Nearest point Cattle at (8.448875538078527, 8.316133348676056) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 50157292500.0
+energy_consumed: 55659238065.5768
+Still need these calories of energy: 5501945565.57676
+Energy got: 125707500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 3875.44893433905
+=======================
+Iteration: 415
+Delta Energy this round: 94586825.8694119
+Nearest point Sheep at (8.595174928400386, 7.952932132445376) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 50198489250.0
+energy_consumed: 55667901239.7073
+Still need these calories of energy: 5469411989.70734
+Energy got: 125810750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 36560.8417849293
+=======================
+Iteration: 416
+Delta Energy this round: 868438451.638262
+Nearest point Cattle at (9.184568543104, 7.752024347841572) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 50574048000.0
+energy_consumed: 55740712788.0691
+Still need these calories of energy: 5166664788.06908
+Energy got: 126752000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 58142.5304892138
+=======================
+Iteration: 417
+Delta Energy this round: 868490042.178077
+Nearest point Cattle at (9.237685011631635, 7.797877804686259) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 50949606750.0
+energy_consumed: 55813472745.8910
+Still need these calories of energy: 4863865995.89100
+Energy got: 127693250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 6551.99067388161
+=======================
+Iteration: 418
+Delta Energy this round: 94603411.2511910
+Nearest point Sheep at (9.281383528817416, 8.00730041560484) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 50990803500.0
+energy_consumed: 55822119334.6398
+Still need these calories of energy: 4831315834.63981
+Energy got: 127796500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19975.4600058489
+=======================
+Iteration: 419
+Delta Energy this round: 94601961.4899812
+Nearest point Sheep at (9.484804883421711, 7.901132860277688) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51032000250.0
+energy_consumed: 55830767373.1498
+Still need these calories of energy: 4798767123.14983
+Energy got: 127899750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21425.2212156756
+=======================
+Iteration: 420
+Delta Energy this round: 94602737.4953627
+Nearest point Sheep at (9.700395311939886, 7.950403723274438) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51073197000.0
+energy_consumed: 55839414635.6545
+Still need these calories of energy: 4766217635.65446
+Energy got: 128003000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20649.2158342220
+=======================
+Iteration: 421
+Delta Energy this round: 94601809.9736538
+Nearest point Sheep at (9.699864301541512, 7.71932182955764) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51114393750.0
+energy_consumed: 55848062825.6808
+Still need these calories of energy: 4733669075.68081
+Energy got: 128106250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21576.7375430426
+=======================
+Iteration: 422
+Delta Energy this round: 94610789.0794031
+Nearest point Sheep at (9.61711799789738, 7.612757570838426) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51155590500.0
+energy_consumed: 55856702036.6014
+Still need these calories of energy: 4701111536.60140
+Energy got: 128209500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12597.6317937490
+=======================
+Iteration: 423
+Delta Energy this round: 94596574.7157585
+Nearest point Sheep at (9.828941370520038, 7.4188849590969665) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51196787250.0
+energy_consumed: 55865355461.8856
+Still need these calories of energy: 4668568211.88564
+Energy got: 128312750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 26811.9954383974
+=======================
+Iteration: 424
+Delta Energy this round: 868481988.628106
+Nearest point Cattle at (9.968105075789849, 7.347460678136544) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51572346000.0
+energy_consumed: 55938123473.2575
+Still need these calories of energy: 4365777473.25753
+Energy got: 129254000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 14605.5406445268
+=======================
+Iteration: 425
+Delta Energy this round: 94616746.0762449
+Nearest point Sheep at (9.994486787562069, 7.281414938230282) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51613542750.0
+energy_consumed: 55946756727.1813
+Still need these calories of energy: 4333213977.18128
+Energy got: 129357250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 6640.63495193757
+=======================
+Iteration: 426
+Delta Energy this round: 94590638.8298105
+Nearest point Sheep at (9.888592823442119, 6.947059990562949) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51654739500.0
+energy_consumed: 55955416088.3515
+Still need these calories of energy: 4300676588.35147
+Energy got: 129460500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 32747.8813863294
+=======================
+Iteration: 427
+Delta Energy this round: 94572679.9511269
+Nearest point Sheep at (9.490147303915409, 7.316051081084691) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 51695936250.0
+energy_consumed: 55964093408.4003
+Still need these calories of energy: 4268157158.40034
+Energy got: 129563750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 50706.7600699737
+=======================
+Iteration: 428
+Delta Energy this round: 868411435.655133
+Nearest point Cattle at (9.45419794007745, 8.227372792069369) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52071495000.0
+energy_consumed: 56036931972.7452
+Still need these calories of energy: 3965436972.74521
+Energy got: 130505000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 85158.5136183440
+=======================
+Iteration: 429
+Delta Energy this round: 94597569.5514280
+Nearest point Sheep at (9.333477603795902, 8.476123578191249) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52112691750.0
+energy_consumed: 56045584403.1938
+Still need these calories of energy: 3932892653.19378
+Energy got: 130608250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 25817.1597688384
+=======================
+Iteration: 430
+Delta Energy this round: 94611536.4191276
+Nearest point Sheep at (9.355371204170261, 8.601135151990144) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52153888500.0
+energy_consumed: 56054222866.7747
+Still need these calories of energy: 3900334366.77465
+Energy got: 130711500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11850.2920693197
+=======================
+Iteration: 431
+Delta Energy this round: 94613559.5568076
+Nearest point Sheep at (9.259020939824936, 8.64348516816165) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52195085250.0
+energy_consumed: 56062859307.2178
+Still need these calories of energy: 3867774057.21784
+Energy got: 130814750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9827.15438924084
+=======================
+Iteration: 432
+Delta Energy this round: 94602719.1780523
+Nearest point Sheep at (9.106570032167564, 8.803960641982403) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52236282000.0
+energy_consumed: 56071506588.0398
+Still need these calories of energy: 3835224588.03979
+Energy got: 130918000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 20667.5331445937
+=======================
+Iteration: 433
+Delta Energy this round: 94612762.7096286
+Nearest point Sheep at (8.992874208881961, 8.808360162580602) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52277478750.0
+energy_consumed: 56080143825.3302
+Still need these calories of energy: 3802665075.33016
+Energy got: 131021250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10624.0015682763
+=======================
+Iteration: 434
+Delta Energy this round: 94592570.3592542
+Nearest point Sheep at (8.726398327618119, 9.003077819793466) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52318675500.0
+energy_consumed: 56088801254.9709
+Still need these calories of energy: 3770125754.97091
+Energy got: 131124500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30816.3519426604
+=======================
+Iteration: 435
+Delta Energy this round: 94609864.3037121
+Nearest point Sheep at (8.583348953122854, 9.025669010636049) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52359872250.0
+energy_consumed: 56097441390.6672
+Still need these calories of energy: 3737569140.66720
+Energy got: 131227750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 13522.4074847393
+=======================
+Iteration: 436
+Delta Energy this round: 94610597.7563690
+Nearest point Sheep at (8.536172911236612, 9.154255224271523) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52401069000.0
+energy_consumed: 56106080792.9108
+Still need these calories of energy: 3705011792.91083
+Energy got: 131331000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12788.9548278920
+=======================
+Iteration: 437
+Delta Energy this round: 94606813.4983526
+Nearest point Sheep at (8.619465813236019, 9.310993984022518) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52442265750.0
+energy_consumed: 56114723979.4125
+Still need these calories of energy: 3672458229.41248
+Energy got: 131434250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 16573.2128442302
+=======================
+Iteration: 438
+Delta Energy this round: 94612695.5084531
+Nearest point Sheep at (8.712301492049962, 9.24397212571336) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52483462500.0
+energy_consumed: 56123361283.9040
+Still need these calories of energy: 3639898783.90402
+Energy got: 131537500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10691.2027437352
+=======================
+Iteration: 439
+Delta Energy this round: 94613151.0559897
+Nearest point Sheep at (8.786761769871896, 9.324424635470333) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52524659250.0
+energy_consumed: 56131998132.8480
+Still need these calories of energy: 3607338882.84803
+Energy got: 131640750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10235.6552071846
+=======================
+Iteration: 440
+Delta Energy this round: 94605549.3186673
+Nearest point Sheep at (8.640579465964395, 9.447408605665698) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52565856000.0
+energy_consumed: 56140642583.5294
+Still need these calories of energy: 3574786583.52937
+Energy got: 131744000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 17837.3925295468
+=======================
+Iteration: 441
+Delta Energy this round: 94618265.4982504
+Nearest point Sheep at (8.596668762452735, 9.480272883257928) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52607052750.0
+energy_consumed: 56149274318.0311
+Still need these calories of energy: 3542221568.03111
+Energy got: 131847250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 5121.21294644685
+=======================
+Iteration: 442
+Delta Energy this round: 94612545.3564145
+Nearest point Sheep at (8.66063203595194, 9.577174559338623) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52648249500.0
+energy_consumed: 56157911772.6747
+Still need these calories of energy: 3509662272.67470
+Energy got: 131950500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 10841.3547823347
+=======================
+Iteration: 443
+Delta Energy this round: 94611194.8442838
+Nearest point Sheep at (8.552748884401037, 9.650729885845589) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52689446250.0
+energy_consumed: 56166550577.8304
+Still need these calories of energy: 3477104327.83041
+Energy got: 132053750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12191.8669130366
+=======================
+Iteration: 444
+Delta Energy this round: 94608040.1993284
+Nearest point Sheep at (8.670830225121017, 9.765055577360588) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52730643000.0
+energy_consumed: 56175192537.6311
+Still need these calories of energy: 3444549537.63109
+Energy got: 132157000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 15346.5118684798
+=======================
+Iteration: 445
+Delta Energy this round: 94610862.5046537
+Nearest point Sheep at (8.739622643004092, 9.880202972658347) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 52771839750.0
+energy_consumed: 56183831675.1264
+Still need these calories of energy: 3411991925.12643
+Energy got: 132260250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 12524.2065431480
+=======================
+Iteration: 446
+Delta Energy this round: 868489597.414282
+Nearest point Cattle at (8.714896796944, 9.950939887535696) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53147398500.0
+energy_consumed: 56256592077.7122
+Still need these calories of energy: 3109193577.71215
+Energy got: 133201500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 6996.75446928609
+=======================
+Iteration: 447
+Delta Energy this round: 94603473.9965167
+Nearest point Sheep at (8.840545384100976, 9.778624035933312) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53188595250.0
+energy_consumed: 56265238603.7156
+Still need these calories of energy: 3076643353.71564
+Energy got: 133304750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 19912.7146801905
+=======================
+Iteration: 448
+Delta Energy this round: 94604622.8169034
+Nearest point Sheep at (8.89008828403185, 9.583869251472002) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53229792000.0
+energy_consumed: 56273883980.8987
+Still need these calories of energy: 3044091980.89874
+Energy got: 133408000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 18763.8942934438
+=======================
+Iteration: 449
+Delta Energy this round: 94611622.2504117
+Nearest point Sheep at (9.016080109706825, 9.582974836658078) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53270988750.0
+energy_consumed: 56282522358.6483
+Still need these calories of energy: 3011533608.64832
+Energy got: 133511250000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 11764.4607851256
+=======================
+Iteration: 450
+Delta Energy this round: 868474644.184984
+Nearest point Cattle at (9.124095482880328, 9.791769559887287) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53646547500.0
+energy_consumed: 56355297714.4633
+Still need these calories of energy: 2708750214.46333
+Energy got: 134452500000.0
+Fire energy need: 72753405.831249
+Fly energy need: 21949.9837668868
+=======================
+Iteration: 451
+Delta Energy this round: 94593366.7517779
+Nearest point Sheep at (9.41446089411542, 9.929809890533672) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53687744250.0
+energy_consumed: 56363954347.7116
+Still need these calories of energy: 2676210097.71156
+Energy got: 134555750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 30019.9594190132
+=======================
+Iteration: 452
+Delta Energy this round: 94618758.3642646
+Nearest point Sheep at (9.40750168302058, 9.978887600090609) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 53728941000.0
+energy_consumed: 56372585589.3473
+Still need these calories of energy: 2643644589.34729
+Energy got: 134659000000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 4628.34693227710
+=======================
+Iteration: 453
+Delta Energy this round: 868476813.757435
+Nearest point Cattle at (9.61661159592359, 9.94496099245678) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 54104499750.0
+energy_consumed: 56445358775.5899
+Still need these calories of energy: 2340859025.58985
+Energy got: 135600250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 19780.4113158903
+=======================
+Iteration: 454
+Delta Energy this round: 94598729.3391925
+Nearest point Sheep at (9.865761675962032, 9.857439022562634) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 54145696500.0
+energy_consumed: 56454010046.2507
+Still need these calories of energy: 2308313546.25066
+Energy got: 135703500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 24657.3720043458
+=======================
+Iteration: 455
+Delta Energy this round: 94614272.0180022
+Nearest point Sheep at (9.863236090147971, 9.759855175353794) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 54186893250.0
+energy_consumed: 56462645774.2327
+Still need these calories of energy: 2275752524.23265
+Energy got: 135806750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 9114.69319467850
+=======================
+Iteration: 456
+Delta Energy this round: 868480102.894119
+Nearest point Cattle at (9.707952979670337, 9.675705593435243) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 54562452000.0
+energy_consumed: 56535415671.3385
+Still need these calories of energy: 1972963671.33853
+Energy got: 136748000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 16491.2746319413
+=======================
+Iteration: 457
+Delta Energy this round: 868495456.139738
+Nearest point Cattle at (9.696247376613238, 9.679100838405668) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 54938010750.0
+energy_consumed: 56608170215.1988
+Still need these calories of energy: 1670159465.19879
+Energy got: 137689250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 1138.02901280811
+=======================
+Iteration: 458
+Delta Energy this round: 94584542.9776003
+Nearest point Sheep at (9.821160434141587, 9.282288743591526) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 54979207500.0
+energy_consumed: 56616835672.2212
+Still need these calories of energy: 1637628172.22119
+Energy got: 137792500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 38843.7335965523
+=======================
+Iteration: 459
+Delta Energy this round: 868463322.734735
+Nearest point Cattle at (9.466158441176834, 9.251549550946432) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 55354766250.0
+energy_consumed: 56689622349.4865
+Still need these calories of energy: 1334856099.48645
+Energy got: 138733750000.0
+Fire energy need: 72753405.831249
+Fly energy need: 33271.4340158581
+=======================
+Iteration: 460
+Delta Energy this round: 868483873.304685
+Nearest point Cattle at (9.331483632531128, 9.23097146504676) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 55730325000.0
+energy_consumed: 56762388476.1818
+Still need these calories of energy: 1032063476.18176
+Energy got: 139675000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 12720.8640660416
+=======================
+Iteration: 461
+Delta Energy this round: 868488717.802582
+Nearest point Cattle at (9.32838087407882, 9.315268674012643) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 56105883750.0
+energy_consumed: 56835149758.3792
+Still need these calories of energy: 729266008.379173
+Energy got: 140616250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 7876.36616879220
+=======================
+Iteration: 462
+Delta Energy this round: 94546398.3476457
+Nearest point Sheep at (9.511227270420283, 8.511268274900738) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 56147080500.0
+energy_consumed: 56843853360.0315
+Still need these calories of energy: 696772860.031525
+Energy got: 140719500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 76988.3635511848
+=======================
+Iteration: 463
+Delta Energy this round: 94601972.5215384
+Nearest point Sheep at (9.740176091054805, 8.49785077132212) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 56188277250.0
+energy_consumed: 56852501387.5100
+Still need these calories of energy: 664224137.509987
+Energy got: 140822750000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 21414.1896584890
+=======================
+Iteration: 464
+Delta Energy this round: 868477609.199973
+Nearest point Cattle at (9.859593746693763, 8.333289069309583) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 56563836000.0
+energy_consumed: 56925273778.3100
+Still need these calories of energy: 361437778.310013
+Energy got: 141764000000.0
+Fire energy need: 72753405.831249
+Fly energy need: 18984.9687782538
+=======================
+Iteration: 465
+Delta Energy this round: 868485003.461964
+Nearest point Cattle at (9.959601932933989, 8.259752378175072) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 56939394750.0
+energy_consumed: 56998038774.8480
+Still need these calories of energy: 58644024.8480453
+Energy got: 142705250000.0
+Fire energy need: 72753405.831249
+Fly energy need: 11590.7067871030
+=======================
+Iteration: 466
+Delta Energy this round: 94479219.5397956
+Nearest point Sheep at (8.505057890037856, 8.777672892356383) hunted
+energy_got * NET_ENERGY_PERCENTAGE * ETA 56980591500.0
+energy_consumed: 57006809555.3083
+Still need these calories of energy: 26218055.3082504
+Energy got: 142808500000.0
+Fire energy need: 8626613.288803123
+Fly energy need: 144167.171401292
+=======================
+Iteration: 467
+Delta Energy this round: 868484919.918503
+Nearest point Cattle at (8.384951186519267, 8.742936793965049) hunted
+Success got all energy
+Animals before:
+ [[341 945   0]
+ [  0   0   0]
+ [  0   0   0]]
+Animals hunted:
+ [[114 353   0]
+ [  0   0   0]
+ [  0   0   0]]
+Animals left:
+ [[227 592   0]
+ [  0   0   0]
+ [  0   0   0]]
+Animals after reproduction:
+ [[227 604   0]
+ [  0   0   0]
+ [  0   0   0]]
+=======================
+Iteration: 468
+Delta Energy this round: 94610578.6903451
+Nearest point Sheep at (8.267129414734981, 8.81317923543073) hunted
+Success got all energy
+Animals before:
+ [[227 604   0]
+ [  0   0   0]
+ [  0   0   0]]
+Animals hunted:
+ [[114 354   0]
+ [  0   0   0]
+ [  0   0   0]]
+Animals left:
+ [[113 250   0]
+ [  0   0   0]
+ [  0   0   0]]
+Animals after reproduction:
+ [[113 255   0]
+ [  0   0   0]
+ [  0   0   0]]
+[[114 354   0]
+ [  0   0   0]
+ [  0   0   0]]
+################################################################
