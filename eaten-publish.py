@@ -1,18 +1,14 @@
 # Name: Dragon hunting algorithm
-# Author: Team 1911426 at MCM contest
+# Author: Team 1911426 at M C M contest
 # Time: 2019.1.28
 
-### Important ###
+# ### Important ###
 # Units for functions parameters and global variables standard: 
 # kg for weight, calories for energy, km for area,  days for time
 
 import numpy as np
-import matplotlib.pyplot as plt
 
-##### Begin Global variables #####
-# Experiment number, it determines where to write the output
-EXP_NUM  = 'distribution'
-
+# ##### Begin Global variables #####
 # Species names
 SPECIES_NAME = [
     ['Cattle', 'Sheep', 'Hare'],
@@ -56,10 +52,10 @@ HUNTIMG_TIMES = 0
 NUM_OF_SPECIES_PER_SPECIES = np.array(AREA * np.array(DENSITY), dtype=int)
 NUM_OF_SPECIES = np.sum(NUM_OF_SPECIES_PER_SPECIES)
 
-# Species used in our 
+# Species used in our
 COW = SPECIES_NAME[0][0]
 SHEEP = SPECIES_NAME[0][1]
-## Comment it out if you want to add more species
+# # Comment it out if you want to add more species
 # HARE = SPECIES_NAME[0][2]
 
 # Time period of dragon hunting
@@ -77,10 +73,10 @@ NOT_REACHABLE = np.inf
 NET_ENERGY_PERCENTAGE = 0.57
 # eta, see the paper
 ETA = 0.7
-##### End Global variables #####
+# ##### End Global variables #####
 
 
-##### Begin Helper functions #####
+# ##### Begin Helper functions #####
 def get_mu_and_weight_at(age):
     """
     Get mu and weight at `age` using calculated S curve function.
@@ -90,8 +86,7 @@ def get_mu_and_weight_at(age):
     v = - 1/3
     A = 281.6 * 1000
 
-    from sympy import symbols, exp, solve
-    from sympy import Symbol
+    from sympy import symbols, exp
 
     t = symbols('t')
 
@@ -196,7 +191,7 @@ def get_pos(idx):
     x = index1 // 3
     y = index1 % 3
     return (x, y)
-##### End Helper functions #####
+# ##### End Helper functions #####
 
 def hunting_at_age(age):
     """
@@ -212,12 +207,12 @@ def hunting_at_age(age):
     global NUM_OF_SPECIES_PER_SPECIES
     cow = np.random.rand(2, NUM_OF_SPECIES_PER_SPECIES[0][0]) * SIDE_LENGTH
     sheep = np.random.rand(2, NUM_OF_SPECIES_PER_SPECIES[0][1]) * SIDE_LENGTH
-    ## Comment it out if you want to add more species
+    # # Comment it out if you want to add more species
     # hare = np.random.rand(2, NUM_OF_SPECIES_PER_SPECIES[0][2]) * SIDE_LENGTH
-    
+
     # Recovery the hunting animals
     total = np.append(cow, sheep, axis=1)
-    ## Comment it out if you want to add more species
+    # # Comment it out if you want to add more species
     # total = np.append(
     #     np.append(cow, sheep, axis=1),
     #     hare,
@@ -237,7 +232,7 @@ def hunting_at_age(age):
     fly_consumption = 0
     fire_cos = 0
     energy_consumed = base_consumption + growth_consumption + hurt_consumption
-    
+ 
     # Begin iteration
     iter_times = 0
     hunted_number = 0
@@ -255,7 +250,7 @@ def hunting_at_age(age):
         idx = find_nearest(total, dragon_pos)
         (x, y) = get_pos(idx)
 
-        ######### Begin hunting ##########
+        # ######### Begin hunting ##########
         hunted_number += 1
         hunted_each[x][y] += 1
 
@@ -264,17 +259,19 @@ def hunting_at_age(age):
         temp_fire_energy = get_fire_energy(weight, x, y)
         fire_cos += temp_fire_energy
         energy_consumed += temp_fire_energy
-        temp_fly_energy = get_fly_energy(weight, np.linalg.norm(dragon_pos-np.array([total[:,idx]]).T))
+        temp_fly_energy = get_fly_energy(
+            weight, np.linalg.norm(dragon_pos-np.array([total[:,idx]]).T))
         fly_consumption += temp_fly_energy
         energy_consumed += temp_fly_energy
 
-        print(f'Delta Energy this round: {ENERGY_PER_MASS[x][y] * MASS[x][y] - temp_fire_energy - temp_fly_energy}')
+        print('Delta Energy this round: ',
+              ENERGY_PER_MASS[x][y] * MASS[x][y] - temp_fire_energy - temp_fly_energy)
 
         print(f'Nearest point {SPECIES_NAME[x][y]} at ({total[0][idx]}, {total[1][idx]}) hunted')
-        dragon_pos = np.array([total[:,idx]]).T
+        dragon_pos = np.array([total[:, idx]]).T
         total[0][idx] = total[1][idx] = NOT_REACHABLE
-        ######### End hunting ##########
-        
+        # ######### End hunting ##########
+
         if energy_got * NET_ENERGY_PERCENTAGE * ETA >= energy_consumed:
             print('Success got all energy')
             print('Animals before:\n', NUM_OF_SPECIES_PER_SPECIES)
